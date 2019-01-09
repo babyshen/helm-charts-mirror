@@ -124,6 +124,7 @@ main() {
   get_new_index
   get_digest
   get_new_tgz_file
+  git_commit
   clean_temp
 }
 
