@@ -9,7 +9,6 @@ branches:
 before_install:
   - openssl aes-256-cbc -K $encrypted_8f2e1fe0e7f3_key -iv $encrypted_8f2e1fe0e7f3_iv
     -in .travis/id_rsa.tar.gz.enc -out ~/id_rsa.tar.gz -d
-  - mkdir ~/.ssh
   - tar xf ~/id_rsa.tar.gz -C ~/.ssh
   - chmod 600 ~/.ssh/id_rsa
   - eval $(ssh-agent)
@@ -21,3 +20,4 @@ install:
 
 script:
   - "/bin/bash helm-sync.sh"
+
