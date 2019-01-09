@@ -4,10 +4,13 @@
 ### 用法
 ```bash
 helm repo remove stable
-helm repo add stable https://github.com/babyshen/helm-charts-mirror/
+helm repo add stable https://babyshen.github.io/helm-charts-mirror/
 helm repo update
 helm search mysql
 ```
+
+#### 本文地址
+https://github.com/babyshen/helm-charts-mirror/
 
 ##### Ref
 - https://github.com/kuops/helm-charts-mirror
