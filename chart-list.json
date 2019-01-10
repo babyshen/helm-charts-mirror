@@ -103,7 +103,7 @@
 {
   "name": "airflow",
   "version": "0.12.0",
-  "digest": "b6371d86fc34906bd92c987fdce7fdec60531e3ed2845e8ef4254dd8c99a6cb6",
+  "digest": "01e3968963ac6dbb04c956ba4992674d139c3f2fb502454e2385157c304b73bf",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-0.12.0.tgz"
 }
 {
@@ -4219,7 +4219,7 @@
 {
   "name": "elastic-stack",
   "version": "1.3.0",
-  "digest": "f860cd3da9e368ea42b789bb62ee8d173f4e3d3e76256d003cfd0d535d708196",
+  "digest": "97ab99a7263af7ffcadd2ecd9f6b29d9b992046d1106ef08e5ac478a67112302",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.3.0.tgz"
 }
 {
@@ -5874,6 +5874,12 @@
 }
 {
   "name": "ghost",
+  "version": "6.2.2",
+  "digest": "6c50b41408d4962ff494ccded6e76134f1ac47a3aedf8ffeb0d9fba687e6ae70",
+  "url": "https://kubernetes-charts.storage.googleapis.com/ghost-6.2.2.tgz"
+}
+{
+  "name": "ghost",
   "version": "6.2.1",
   "digest": "e3751debf98aff6c57439d09238946c15c676753646791912244b2a7dd926bb3",
   "url": "https://kubernetes-charts.storage.googleapis.com/ghost-6.2.1.tgz"
@@ -6667,7 +6673,7 @@
 {
   "name": "gitlab-ee",
   "version": "0.2.2",
-  "digest": "43358a820918f0421b2118806c059d0a592782b0a10251998c8b5fedd3b500ec",
+  "digest": "2b6d773acd3f6cc7db818e55e46f66f791f58d7747c36fc356bb3248d6366d48",
   "url": "https://kubernetes-charts.storage.googleapis.com/gitlab-ee-0.2.2.tgz"
 }
 {
@@ -8377,7 +8383,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.0",
-  "digest": "ded8d5499664e7db618b081336cc97f79f404dba4dc25d480fde51743b408d1d",
+  "digest": "3f4f5113582b69f6fc2542904615a7bbab5f44ad921f23888adc34106754a388",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.0.tgz"
 }
 {
@@ -9666,6 +9672,12 @@
 }
 {
   "name": "kafka-manager",
+  "version": "1.1.0",
+  "digest": "b8598c8f38e4355e012ad1787b522e8e184b71c63088980f7f88220bbda6c3eb",
+  "url": "https://kubernetes-charts.storage.googleapis.com/kafka-manager-1.1.0.tgz"
+}
+{
+  "name": "kafka-manager",
   "version": "1.0.0",
   "digest": "ae76d8d5b04c800a3cb0af4419737e1475294baa7b11a237af2dd3d3c07d4513",
   "url": "https://kubernetes-charts.storage.googleapis.com/kafka-manager-1.0.0.tgz"
@@ -10705,7 +10717,7 @@
 {
   "name": "kube-ops-view",
   "version": "0.7.0",
-  "digest": "b3b272734379e6d7f0e44ca69ba88bfdd3db698d6ef671b044b31807ac8af180",
+  "digest": "9a64d0ae63686f49c1c1c72e717a94e9138fc71a03392f070ad2f27fe55a68e6",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-0.7.0.tgz"
 }
 {
@@ -26143,7 +26155,7 @@
 {
   "name": "spring-cloud-data-flow",
   "version": "1.0.2",
-  "digest": "248c780adb8c2f4b2cfb3dfac48f4265713667b4e51b2ed2e1ffb2c97a4d25f7",
+  "digest": "a08af08d5208862eb9f7c6228c844b36cccdb11e7ce15f9bca33cb8a460ab702",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-1.0.2.tgz"
 }
 {
