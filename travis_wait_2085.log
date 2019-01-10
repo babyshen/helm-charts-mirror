@@ -476,3 +476,55 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 9582ad4] Synchronizing completion at 2019-01-10
+ 11 files changed, 803 insertions(+), 267 deletions(-)
+ rewrite airflow-0.12.0.tgz (99%)
+ rewrite elastic-stack-1.3.0.tgz (98%)
+ create mode 100644 ghost-6.2.2.tgz
+ create mode 100644 kafka-manager-1.1.0.tgz
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ rewrite sentry-1.0.0.tgz (99%)
+ create mode 100644 travis_wait_2085.log
+To github.com:babyshen/helm-charts-mirror.git
+   5e21ac8..9582ad4  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:52:59] spend time is: 310
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:09] spend time is: 320
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:19] spend time is: 330
+[2019-01-10 09:53:29] spend time is: 340
+[2019-01-10 09:53:29] spend time is: 340
+[2019-01-10 09:53:29] spend time is: 340
+[2019-01-10 09:53:29] spend time is: 340
+Already up to date.
