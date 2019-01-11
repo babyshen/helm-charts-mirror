@@ -495,3 +495,67 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 2fe2cc7] Synchronizing completion at 2019-01-11
+ 23 files changed, 1251 insertions(+), 263 deletions(-)
+ rewrite airflow-0.12.0.tgz (99%)
+ rewrite elastic-stack-1.3.0.tgz (99%)
+ create mode 100644 elastic-stack-1.4.0.tgz
+ create mode 100644 ghost-6.2.3.tgz
+ create mode 100644 jenkins-0.28.4.tgz
+ create mode 100644 jenkins-0.28.5.tgz
+ create mode 100644 jenkins-0.28.6.tgz
+ create mode 100644 keycloak-4.2.1.tgz
+ rewrite kube-ops-view-0.7.0.tgz (98%)
+ create mode 100644 metricbeat-0.4.3.tgz
+ create mode 100644 minio-2.3.1.tgz
+ create mode 100644 nginx-ingress-1.1.4.tgz
+ create mode 100644 node-problem-detector-1.1.1.tgz
+ create mode 100644 openldap-0.3.0.tgz
+ create mode 100644 phabricator-4.0.6.tgz
+ create mode 100644 prestashop-6.0.1.tgz
+ create mode 100644 prometheus-8.4.3.tgz
+ create mode 100644 prometheus-operator-1.6.0.tgz
+ create mode 100644 travis_wait_2009.log
+To github.com:babyshen/helm-charts-mirror.git
+   ea63d2d..2fe2cc7  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:05] spend time is: 310
+[2019-01-11 03:29:06] spend time is: 310
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:15] spend time is: 320
+[2019-01-11 03:29:18] weave-cloud-0.3.1.tgz update done.
+[2019-01-11 03:29:20] wordpress-5.1.0.tgz update done.
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+[2019-01-11 03:29:25] spend time is: 330
+Already up to date.
