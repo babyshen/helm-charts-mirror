@@ -485,3 +485,239 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-01-13 03:31:03] spend time is: 300
 Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
 Already up to date.
+[gh-pages 9bef542] Synchronizing completion at 2019-01-13
+ 35 files changed, 1535 insertions(+), 273 deletions(-)
+ rewrite airflow-0.12.0.tgz (98%)
+ create mode 100644 bookstack-1.0.0.tgz
+ create mode 100644 burrow-1.0.1.tgz
+ create mode 100644 chartmuseum-1.8.3.tgz
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 coredns-1.2.3.tgz
+ rewrite elastic-stack-1.4.0.tgz (99%)
+ create mode 100644 external-dns-1.3.3.tgz
+ create mode 100644 fluent-bit-1.3.0.tgz
+ rewrite gitlab-ee-0.2.2.tgz (99%)
+ create mode 100644 gocd-1.6.3.tgz
+ create mode 100644 grafana-1.22.2.tgz
+ create mode 100644 grafana-1.23.0.tgz
+ create mode 100644 grafana-1.23.1.tgz
+ create mode 100644 grafana-1.24.0.tgz
+ create mode 100644 grafana-1.24.1.tgz
+ create mode 100644 kiam-2.0.1-rc4.tgz
+ rewrite kong-0.9.0.tgz (99%)
+ rewrite kube-ops-view-0.7.0.tgz (95%)
+ create mode 100644 minio-2.3.2.tgz
+ create mode 100644 minio-2.3.3.tgz
+ create mode 100644 moodle-4.0.3.tgz
+ create mode 100644 neo4j-0.10.0.tgz
+ create mode 100644 prestashop-6.0.2.tgz
+ create mode 100644 prestashop-6.1.0.tgz
+ create mode 100644 rabbitmq-ha-1.18.0.tgz
+ create mode 100644 redis-5.3.0.tgz
+ create mode 100644 redis-ha-3.0.5.tgz
+ create mode 100644 sentry-1.0.1.tgz
+ create mode 100644 travis_wait_2081.log
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 02831b53a4446e4ab7e09323e79f39713bc736c8.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.12.0.tgz
+	chart-list.json
+	cloudserver-1.0.0.tgz
+	elastic-stack-1.4.0.tgz
+	gitlab-ee-0.2.2.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kong-0.9.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	prometheus-operator-1.6.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	bookstack-1.0.0.tgz
+	burrow-1.0.1.tgz
+	chartmuseum-1.8.3.tgz
+	coredns-1.2.3.tgz
+	external-dns-1.3.3.tgz
+	fluent-bit-1.3.0.tgz
+	gocd-1.6.3.tgz
+	grafana-1.22.2.tgz
+	grafana-1.23.0.tgz
+	grafana-1.23.1.tgz
+	grafana-1.24.0.tgz
+	grafana-1.24.1.tgz
+	kiam-2.0.1-rc4.tgz
+	minio-2.3.2.tgz
+	minio-2.3.3.tgz
+	moodle-4.0.3.tgz
+	neo4j-0.10.0.tgz
+	prestashop-6.0.2.tgz
+	prestashop-6.1.0.tgz
+	rabbitmq-ha-1.18.0.tgz
+	redis-5.3.0.tgz
+	redis-ha-3.0.5.tgz
+	sentry-1.0.1.tgz
+	travis_wait_2081.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 02831b53a4446e4ab7e09323e79f39713bc736c8
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 02831b53a4446e4ab7e09323e79f39713bc736c8.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.12.0.tgz
+	chart-list.json
+	cloudserver-1.0.0.tgz
+	elastic-stack-1.4.0.tgz
+	gitlab-ee-0.2.2.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kong-0.9.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	prometheus-operator-1.6.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	bookstack-1.0.0.tgz
+	burrow-1.0.1.tgz
+	chartmuseum-1.8.3.tgz
+	coredns-1.2.3.tgz
+	external-dns-1.3.3.tgz
+	fluent-bit-1.3.0.tgz
+	gocd-1.6.3.tgz
+	grafana-1.22.2.tgz
+	grafana-1.23.0.tgz
+	grafana-1.23.1.tgz
+	grafana-1.24.0.tgz
+	grafana-1.24.1.tgz
+	kiam-2.0.1-rc4.tgz
+	minio-2.3.2.tgz
+	minio-2.3.3.tgz
+	moodle-4.0.3.tgz
+	neo4j-0.10.0.tgz
+	prestashop-6.0.2.tgz
+	prestashop-6.1.0.tgz
+	rabbitmq-ha-1.18.0.tgz
+	redis-5.3.0.tgz
+	redis-ha-3.0.5.tgz
+	sentry-1.0.1.tgz
+	travis_wait_2081.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 02831b53a4446e4ab7e09323e79f39713bc736c8
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 02831b53a4446e4ab7e09323e79f39713bc736c8.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.12.0.tgz
+	chart-list.json
+	cloudserver-1.0.0.tgz
+	elastic-stack-1.4.0.tgz
+	gitlab-ee-0.2.2.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kong-0.9.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	prometheus-operator-1.6.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	bookstack-1.0.0.tgz
+	burrow-1.0.1.tgz
+	chartmuseum-1.8.3.tgz
+	coredns-1.2.3.tgz
+	external-dns-1.3.3.tgz
+	fluent-bit-1.3.0.tgz
+	gocd-1.6.3.tgz
+	grafana-1.22.2.tgz
+	grafana-1.23.0.tgz
+	grafana-1.23.1.tgz
+	grafana-1.24.0.tgz
+	grafana-1.24.1.tgz
+	kiam-2.0.1-rc4.tgz
+	minio-2.3.2.tgz
+	minio-2.3.3.tgz
+	moodle-4.0.3.tgz
+	neo4j-0.10.0.tgz
+	prestashop-6.0.2.tgz
+	prestashop-6.1.0.tgz
+	rabbitmq-ha-1.18.0.tgz
+	redis-5.3.0.tgz
+	redis-ha-3.0.5.tgz
+	sentry-1.0.1.tgz
+	travis_wait_2081.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 02831b53a4446e4ab7e09323e79f39713bc736c8
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+   02831b5..9bef542  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:13] spend time is: 310
+[2019-01-13 03:31:15] sysdig-1.2.2.tgz update done.
+[2019-01-13 03:31:21] traefik-1.57.1.tgz update done.
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:23] spend time is: 320
+[2019-01-13 03:31:32] unifi-0.2.7.tgz update done.
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:33] spend time is: 330
+[2019-01-13 03:31:37] wordpress-5.1.1.tgz update done.
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:43] spend time is: 340
+[2019-01-13 03:31:45] xray-0.4.2.tgz update done.
+Already up to date.
