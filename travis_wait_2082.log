@@ -468,3 +468,111 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-01-14 06:00:51] spend time is: 300
 Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
 Already up to date.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 8386c72dd7ff76db77d56368c15860273cb15a98.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 8386c72dd7ff76db77d56368c15860273cb15a98.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 8386c72dd7ff76db77d56368c15860273cb15a98
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 8386c72dd7ff76db77d56368c15860273cb15a98.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 8386c72dd7ff76db77d56368c15860273cb15a98
+output, run
+$ git reset --hard
+to recover.
+[gh-pages 4c4f637] Synchronizing completion at 2019-01-14
+ 12 files changed, 778 insertions(+), 273 deletions(-)
+ rewrite airflow-0.12.0.tgz (98%)
+ rewrite anchore-engine-0.10.0.tgz (99%)
+ rewrite cloudserver-1.0.0.tgz (99%)
+ rewrite elastic-stack-1.4.0.tgz (98%)
+ rewrite hlf-ca-1.1.4.tgz (99%)
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ create mode 100644 travis_wait_2082.log
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.12.0.tgz
+	anchore-engine-0.10.0.tgz
+	chart-list.json
+	cloudserver-1.0.0.tgz
+	elastic-stack-1.4.0.tgz
+	hlf-ca-1.1.4.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	prometheus-operator-1.6.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	travis_wait_2082.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 8386c72dd7ff76db77d56368c15860273cb15a98
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+   8386c72..4c4f637  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:01] spend time is: 310
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:11] spend time is: 320
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:21] spend time is: 330
+[2019-01-14 06:01:26] xray-0.4.2.tgz update done.
+Already up to date.
