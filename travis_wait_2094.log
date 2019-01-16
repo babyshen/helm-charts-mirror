@@ -1,0 +1,424 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38... restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 3622k  100 3622k    0     0  62.5M      0 --:--:-- --:--:-- --:--:-- 63.1M
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:46] spend time is: 30
+[2019-01-16 03:27:47] airflow-0.13.0.tgz update done.
+[2019-01-16 03:27:47] airflow-0.12.0.tgz update done.
+[2019-01-16 03:27:52] atlantis-1.1.2.tgz update done.
+[2019-01-16 03:27:53] bitcoind-0.1.5.tgz update done.
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:56] spend time is: 40
+[2019-01-16 03:27:58] chartmuseum-1.8.4.tgz update done.
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:06] spend time is: 50
+[2019-01-16 03:28:07] spend time is: 50
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:16] spend time is: 60
+[2019-01-16 03:28:22] dokuwiki-4.0.1.tgz update done.
+[2019-01-16 03:28:25] drupal-3.0.3.tgz update done.
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:26] spend time is: 70
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:36] spend time is: 80
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:46] spend time is: 90
+[2019-01-16 03:28:47] spend time is: 90
+[2019-01-16 03:28:52] ghost-6.3.3.tgz update done.
+[2019-01-16 03:28:52] ghost-6.3.2.tgz update done.
+[2019-01-16 03:28:52] ghost-6.3.1.tgz update done.
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:28:56] spend time is: 100
+[2019-01-16 03:29:06] grafana-1.25.0.tgz update done.
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:06] spend time is: 110
+[2019-01-16 03:29:07] spend time is: 110
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:16] spend time is: 120
+[2019-01-16 03:29:23] janusgraph-0.2.0.tgz update done.
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] jenkins-0.28.9.tgz update done.
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:26] spend time is: 130
+[2019-01-16 03:29:34] joomla-4.0.3.tgz update done.
+[2019-01-16 03:29:34] joomla-4.0.2.tgz update done.
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:36] spend time is: 140
+[2019-01-16 03:29:40] kapacitor-1.1.1.tgz update done.
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:46] spend time is: 150
+[2019-01-16 03:29:53] kube-ops-view-0.7.0.tgz update done.
+[2019-01-16 03:29:54] kube-state-metrics-0.12.2.tgz update done.
+[2019-01-16 03:29:54] kube-state-metrics-0.13.0.tgz update done.
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:56] spend time is: 160
+[2019-01-16 03:29:57] spend time is: 160
+[2019-01-16 03:30:05] magento-4.1.4.tgz update done.
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:06] spend time is: 170
+[2019-01-16 03:30:07] spend time is: 170
+[2019-01-16 03:30:10] mariadb-5.4.3.tgz update done.
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:16] spend time is: 180
+[2019-01-16 03:30:19] mediawiki-6.0.1.tgz update done.
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:26] spend time is: 190
+[2019-01-16 03:30:28] minio-2.3.4.tgz update done.
+[2019-01-16 03:30:33] mongodb-5.1.3.tgz update done.
+[2019-01-16 03:30:33] mongodb-5.1.2.tgz update done.
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:36] spend time is: 200
+[2019-01-16 03:30:37] spend time is: 200
+[2019-01-16 03:30:44] moodle-4.0.4.tgz update done.
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:46] spend time is: 210
+[2019-01-16 03:30:53] nats-2.0.3.tgz update done.
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:30:56] spend time is: 220
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] node-problem-detector-1.1.3.tgz update done.
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:06] spend time is: 230
+[2019-01-16 03:31:07] spend time is: 230
+[2019-01-16 03:31:07] odoo-5.0.3.tgz update done.
+[2019-01-16 03:31:12] opencart-4.0.4.tgz update done.
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:16] spend time is: 240
+[2019-01-16 03:31:19] orangehrm-4.0.1.tgz update done.
+[2019-01-16 03:31:22] osclass-4.0.3.tgz update done.
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] owncloud-4.0.2.tgz update done.
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:26] spend time is: 250
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] phabricator-4.0.7.tgz update done.
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:36] spend time is: 260
+[2019-01-16 03:31:43] phpbb-4.0.3.tgz update done.
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:46] spend time is: 270
+[2019-01-16 03:31:47] phpmyadmin-2.0.3.tgz update done.
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] prestashop-6.1.1.tgz update done.
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:56] spend time is: 280
+[2019-01-16 03:31:57] spend time is: 280
+[2019-01-16 03:32:01] prometheus-8.4.5.tgz update done.
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:06] spend time is: 290
+[2019-01-16 03:32:11] prometheus-adapter-v0.4.0.tgz update done.
+[2019-01-16 03:32:16] spend time is: 300
+[2019-01-16 03:32:16] spend time is: 300
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
