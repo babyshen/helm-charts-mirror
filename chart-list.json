@@ -103,7 +103,7 @@
 {
   "name": "airflow",
   "version": "0.13.0",
-  "digest": "9b074cfa04ec679f15ec45c3e99994519adf083fcef6df4eb641ddc7752e3677",
+  "digest": "b382602a667b0350bf3bc1385d92d26f55ca6961eec546977436eabea956b714",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-0.13.0.tgz"
 }
 {
@@ -243,6 +243,12 @@
   "version": "0.1.0",
   "digest": "abc6f74b45f07ef2989bc49fe644acb04161c36e60fe21d5361b4e07f2b60fdb",
   "url": "https://kubernetes-charts.storage.googleapis.com/apm-server-0.1.0.tgz"
+}
+{
+  "name": "ark",
+  "version": "2.0.0",
+  "digest": "df94dd04f7be9fff5fc6dda75d3d207d254b01e732067ecb2bdb4306359a0ab1",
+  "url": "https://kubernetes-charts.storage.googleapis.com/ark-2.0.0.tgz"
 }
 {
   "name": "ark",
@@ -723,6 +729,12 @@
   "version": "0.1.0",
   "digest": "4e48182a9e1bc0120d3a01baeb0aa2ef5b5cb849c396013d07ef9d5d734aa309",
   "url": "https://kubernetes-charts.storage.googleapis.com/bitcoind-0.1.0.tgz"
+}
+{
+  "name": "bookstack",
+  "version": "1.0.1",
+  "digest": "874d1e1c230fedff22bf0ea09d85fc336dd9b8de2d96d4015d59f34403bd0fe8",
+  "url": "https://kubernetes-charts.storage.googleapis.com/bookstack-1.0.1.tgz"
 }
 {
   "name": "bookstack",
@@ -1285,8 +1297,14 @@
 {
   "name": "cloudserver",
   "version": "1.0.0",
-  "digest": "ad93c826c0efcc7b0b6cb610d9d24bfd4cd6cc362aa7a0ae5f0195390933a8da",
+  "digest": "f01b5b8283a2170ed7d9fae4c2edb4e3ba4db1912a28da6a4ece0264be4994c1",
   "url": "https://kubernetes-charts.storage.googleapis.com/cloudserver-1.0.0.tgz"
+}
+{
+  "name": "cluster-autoscaler",
+  "version": "0.11.2",
+  "digest": "e52a952135157e4551e4016f01b9baa84710be4751a1c0491c92db1d5d6ea66b",
+  "url": "https://kubernetes-charts.storage.googleapis.com/cluster-autoscaler-0.11.2.tgz"
 }
 {
   "name": "cluster-autoscaler",
@@ -1689,6 +1707,12 @@
   "version": "0.2.0",
   "digest": "7b41add319a997fd3d862d6649b707313f59ac6fa137842db65230342baff619",
   "url": "https://kubernetes-charts.storage.googleapis.com/cockroachdb-0.2.0.tgz"
+}
+{
+  "name": "concourse",
+  "version": "3.6.0",
+  "digest": "0635e2e33b46c54091632ac927d1b91d6aaa39798a83e796cf176253167319a6",
+  "url": "https://kubernetes-charts.storage.googleapis.com/concourse-3.6.0.tgz"
 }
 {
   "name": "concourse",
@@ -3720,6 +3744,12 @@
 }
 {
   "name": "drupal",
+  "version": "3.0.4",
+  "digest": "0800718c5ce2bfb31d13355c0f179b450610312b25b966de403c6bdceb004323",
+  "url": "https://kubernetes-charts.storage.googleapis.com/drupal-3.0.4.tgz"
+}
+{
+  "name": "drupal",
   "version": "3.0.3",
   "digest": "a22048df295c3f300117170faf24997431f426af440f3191d1ddf9e6fb0a1c72",
   "url": "https://kubernetes-charts.storage.googleapis.com/drupal-3.0.3.tgz"
@@ -4333,7 +4363,7 @@
 {
   "name": "elastic-stack",
   "version": "1.4.1",
-  "digest": "47e691a8f9e7ce09b8ea7e61fc15065db9a82488ac75e381678f049ce1b21612",
+  "digest": "5ebf744b2f39b7fa96972b99321278410b9982a361fdeffc84f44f905d1e4071",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.4.1.tgz"
 }
 {
@@ -4482,6 +4512,12 @@
 }
 {
   "name": "elasticsearch-curator",
+  "version": "1.1.0",
+  "digest": "a9c71c2db5a5f3b6febe2813e86b112233a01d15cf066d4769ba50c7fce00c9f",
+  "url": "https://kubernetes-charts.storage.googleapis.com/elasticsearch-curator-1.1.0.tgz"
+}
+{
+  "name": "elasticsearch-curator",
   "version": "1.0.1",
   "digest": "0c26b1d65d5827ec439b76e326ea3deaa69da95d8bc69187c9dd564f117a042b",
   "url": "https://kubernetes-charts.storage.googleapis.com/elasticsearch-curator-1.0.1.tgz"
@@ -4491,6 +4527,12 @@
   "version": "1.0.0",
   "digest": "e08ff52a403970fb5a96eed8d189977eadf501f931664e7ea0d680909ae2c9e8",
   "url": "https://kubernetes-charts.storage.googleapis.com/elasticsearch-curator-1.0.0.tgz"
+}
+{
+  "name": "elasticsearch-exporter",
+  "version": "1.0.0",
+  "digest": "c97a0083015e3704e149c102092b49875af2a70c3ef89e46ecabb2aab4988b7e",
+  "url": "https://kubernetes-charts.storage.googleapis.com/elasticsearch-exporter-1.0.0.tgz"
 }
 {
   "name": "elasticsearch-exporter",
@@ -5880,6 +5922,12 @@
 }
 {
   "name": "gce-ingress",
+  "version": "1.1.1",
+  "digest": "a75721c2693bc09bee1482f375a0840880484ae47a53b416b51f2dac00a3dfb3",
+  "url": "https://kubernetes-charts.storage.googleapis.com/gce-ingress-1.1.1.tgz"
+}
+{
+  "name": "gce-ingress",
   "version": "1.1.0",
   "digest": "66a89dcc9fabb80d2ebcd37d731e6b03591716e3a8583b8621fd05821c3613bb",
   "url": "https://kubernetes-charts.storage.googleapis.com/gce-ingress-1.1.0.tgz"
@@ -6027,6 +6075,12 @@
   "version": "1.0.0",
   "digest": "89c9637d1e7331e3ecb40070541b6792cb1aa723fb61e0616ee337b46ff6c900",
   "url": "https://kubernetes-charts.storage.googleapis.com/gcp-night-king-1.0.0.tgz"
+}
+{
+  "name": "ghost",
+  "version": "6.3.4",
+  "digest": "a6bbdf1eaf077b5cd29a26a0381834cff0908e005c9e091ad0c95ca5acfcd988",
+  "url": "https://kubernetes-charts.storage.googleapis.com/ghost-6.3.4.tgz"
 }
 {
   "name": "ghost",
@@ -6859,7 +6913,7 @@
 {
   "name": "gitlab-ee",
   "version": "0.2.2",
-  "digest": "43358a820918f0421b2118806c059d0a592782b0a10251998c8b5fedd3b500ec",
+  "digest": "2b6d773acd3f6cc7db818e55e46f66f791f58d7747c36fc356bb3248d6366d48",
   "url": "https://kubernetes-charts.storage.googleapis.com/gitlab-ee-0.2.2.tgz"
 }
 {
@@ -8598,6 +8652,12 @@
 }
 {
   "name": "jaeger-operator",
+  "version": "2.1.1",
+  "digest": "4b3887b44d08451f83c1186ce2e85dda1e1c4a796380c76000b1598e0d9b9da3",
+  "url": "https://kubernetes-charts.storage.googleapis.com/jaeger-operator-2.1.1.tgz"
+}
+{
+  "name": "jaeger-operator",
   "version": "2.1.0",
   "digest": "57d88323f79b5a3ec238568a8c4d6b55e7b04de03039f41967c290806e5a60b2",
   "url": "https://kubernetes-charts.storage.googleapis.com/jaeger-operator-2.1.0.tgz"
@@ -8635,7 +8695,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.0",
-  "digest": "de61848587a860226e48468f6593389c58f415038fe9032c2fa43026c26c3648",
+  "digest": "ff509305ab00369ac642b9271fe25a82cf7b503f1c9be7f45c96d49b79975a87",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.0.tgz"
 }
 {
@@ -10092,6 +10152,12 @@
 }
 {
   "name": "karma",
+  "version": "1.1.9",
+  "digest": "c0da59030c94fcf450dd9a31d7e067ab273be6cc14b87b04cb10a16574699d77",
+  "url": "https://kubernetes-charts.storage.googleapis.com/karma-1.1.9.tgz"
+}
+{
+  "name": "karma",
   "version": "1.1.8",
   "digest": "c0fcb27ff3e74a90e407f020f9df6b5424a78f8e89368e42bed2a045118476b1",
   "url": "https://kubernetes-charts.storage.googleapis.com/karma-1.1.8.tgz"
@@ -10203,6 +10269,12 @@
   "version": "0.1.3",
   "digest": "6985a22061982ebbee90ffaa336695b50073287c5c1528e1d5acf41f06796bfa",
   "url": "https://kubernetes-charts.storage.googleapis.com/keel-0.1.3.tgz"
+}
+{
+  "name": "keycloak",
+  "version": "4.3.0",
+  "digest": "fc74a8d9172b8b4647f383a8b087c3d27f95b68b587b97088dddacc102d9c5d7",
+  "url": "https://kubernetes-charts.storage.googleapis.com/keycloak-4.3.0.tgz"
 }
 {
   "name": "keycloak",
@@ -11053,7 +11125,7 @@
 {
   "name": "kube-ops-view",
   "version": "0.7.0",
-  "digest": "89779bc289289a7a12623428a0a123e3b236a2043202a52194595e0def738409",
+  "digest": "5892c78f824afe31a85b06717657fa764b61f4ecda5d71fc295f6064749e3603",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-0.7.0.tgz"
 }
 {
@@ -12456,6 +12528,12 @@
 }
 {
   "name": "mariadb",
+  "version": "5.5.0",
+  "digest": "c2507027566a6bcc41febff04b42b6a96444b1c518d9bbe692cdbb73ca277f80",
+  "url": "https://kubernetes-charts.storage.googleapis.com/mariadb-5.5.0.tgz"
+}
+{
+  "name": "mariadb",
   "version": "5.4.3",
   "digest": "bb97c852cd408c695891a197ac6b0d8632d1efa5c30c280b2b624e86424c602f",
   "url": "https://kubernetes-charts.storage.googleapis.com/mariadb-5.4.3.tgz"
@@ -13794,6 +13872,12 @@
 }
 {
   "name": "metrics-server",
+  "version": "2.1.1",
+  "digest": "c5ac8db60bb5c17565410ebb1db71cb42c41eee7de6eb4a8d53ef76ce79ebfea",
+  "url": "https://kubernetes-charts.storage.googleapis.com/metrics-server-2.1.1.tgz"
+}
+{
+  "name": "metrics-server",
   "version": "2.1.0",
   "digest": "6b8416e810f2b45fa824f782c1d594c8c49b86af6c12c5cdd66536da3a6e4b01",
   "url": "https://kubernetes-charts.storage.googleapis.com/metrics-server-2.1.0.tgz"
@@ -13929,6 +14013,12 @@
   "version": "0.1.0",
   "digest": "2cd423a28eb8a0186fba171cc17dcbe6f5a53d1a99e4078f9713afed3b61cce6",
   "url": "https://kubernetes-charts.storage.googleapis.com/minecraft-0.1.0.tgz"
+}
+{
+  "name": "minio",
+  "version": "2.3.5",
+  "digest": "76c89b6e3627a24b06ea28f0bfe1018176f849691aa877cc5f7deaac5dfbb6fb",
+  "url": "https://kubernetes-charts.storage.googleapis.com/minio-2.3.5.tgz"
 }
 {
   "name": "minio",
@@ -14331,6 +14421,12 @@
   "version": "0.3.0",
   "digest": "07a342a73ab170d66a77390c13935acfd3409e9efa4aaf260c75ba05cf137c6f",
   "url": "https://kubernetes-charts.storage.googleapis.com/mission-control-0.3.0.tgz"
+}
+{
+  "name": "mongodb",
+  "version": "5.2.0",
+  "digest": "46352c89ab5c4654a8d0b6ead00f04c58845f07725450b578be729e77ba3ad2f",
+  "url": "https://kubernetes-charts.storage.googleapis.com/mongodb-5.2.0.tgz"
 }
 {
   "name": "mongodb",
@@ -17034,6 +17130,12 @@
 }
 {
   "name": "node-problem-detector",
+  "version": "1.1.4",
+  "digest": "ca2821be578345b8cb6ddedfaa6a7b8ac512ebaa85c7420fd3e68126a514b254",
+  "url": "https://kubernetes-charts.storage.googleapis.com/node-problem-detector-1.1.4.tgz"
+}
+{
+  "name": "node-problem-detector",
   "version": "1.1.3",
   "digest": "a10dc01ac05da930b4372eed204b350ddb920e792344889c71c2815ca666a70a",
   "url": "https://kubernetes-charts.storage.googleapis.com/node-problem-detector-1.1.3.tgz"
@@ -19470,6 +19572,18 @@
 }
 {
   "name": "phabricator",
+  "version": "4.0.9",
+  "digest": "8380f75cc3bd4fce5468b366c2b3408309375f00a77060777348285916f6e20e",
+  "url": "https://kubernetes-charts.storage.googleapis.com/phabricator-4.0.9.tgz"
+}
+{
+  "name": "phabricator",
+  "version": "4.0.8",
+  "digest": "50b95a621e7c0da9a82cb000d27ad50d12084e3ff031c348196da18c33713803",
+  "url": "https://kubernetes-charts.storage.googleapis.com/phabricator-4.0.8.tgz"
+}
+{
+  "name": "phabricator",
   "version": "4.0.7",
   "digest": "2defab58e330fd121a7c7ffa676f040b1f9417d889ca370151cd9955e2a34a76",
   "url": "https://kubernetes-charts.storage.googleapis.com/phabricator-4.0.7.tgz"
@@ -20505,6 +20619,12 @@
   "version": "0.1.0",
   "digest": "fcd9a9529d32ed9203151df8dfa4a21dbd4ddabd2c6a8d031520c919d67ff43f",
   "url": "https://kubernetes-charts.storage.googleapis.com/phpmyadmin-0.1.0.tgz"
+}
+{
+  "name": "postgresql",
+  "version": "3.9.2",
+  "digest": "ab9d376767b212a97c4d9f893d66d97f0e341fb4e22c6fd38e1532c31d37db84",
+  "url": "https://kubernetes-charts.storage.googleapis.com/postgresql-3.9.2.tgz"
 }
 {
   "name": "postgresql",
@@ -22302,6 +22422,12 @@
 }
 {
   "name": "prometheus-adapter",
+  "version": "v0.4.1",
+  "digest": "d0119a7366241a746cd2d4b5c4a5cbdf0da717d34e548b8c68afb9f9ef79f84b",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-adapter-v0.4.1.tgz"
+}
+{
+  "name": "prometheus-adapter",
   "version": "v0.4.0",
   "digest": "caa98ea835b26cc0d7246ac0d339c431f33283463017092fc3ab37fdd7391393",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-adapter-v0.4.0.tgz"
@@ -22557,6 +22683,12 @@
   "version": "0.1.0",
   "digest": "f9cb0bfdaaf55f0328a01be05da63579aef404f7c97c3665a89d97a24673e729",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-node-exporter-0.1.0.tgz"
+}
+{
+  "name": "prometheus-operator",
+  "version": "1.8.0",
+  "digest": "c2768bfbe47f8cbf7f6aee574d314ec37bb2fa397747bfa15373b3a8a487ef87",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-operator-1.8.0.tgz"
 }
 {
   "name": "prometheus-operator",
@@ -22875,6 +23007,12 @@
   "version": "0.1.0",
   "digest": "3b01e47daf8ef849e512027ef1571b8b9fef6b7b9a507eb3ac023783c898ceae",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-postgres-exporter-0.1.0.tgz"
+}
+{
+  "name": "prometheus-pushgateway",
+  "version": "0.3.0",
+  "digest": "ce062171a20bfca709f34ee1d3a7b9a9b236d0299c25573c164a5ca37c24a7b8",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-pushgateway-0.3.0.tgz"
 }
 {
   "name": "prometheus-pushgateway",
@@ -26011,7 +26149,7 @@
 {
   "name": "sonarqube",
   "version": "0.13.3",
-  "digest": "f330a4b57d2c51c6d8878a13ad7d0baf360a2ea9489f4e8129c18abb34982ad0",
+  "digest": "e4acf768bece811dcac39d17328a09a507b438251a1695fa6d6bfc72a92cf1a4",
   "url": "https://kubernetes-charts.storage.googleapis.com/sonarqube-0.13.3.tgz"
 }
 {
@@ -26673,6 +26811,18 @@
   "version": "1.0.0",
   "digest": "1c202628cd57e01cb324ee6e9457b52d1e1a5fd665f99d4bb25bd17c92c438e9",
   "url": "https://kubernetes-charts.storage.googleapis.com/spartakus-1.0.0.tgz"
+}
+{
+  "name": "spinnaker",
+  "version": "1.2.1",
+  "digest": "5da2b69c627debfb554002f9ddb95c82e5d554891d6942cd497b43ba5b160198",
+  "url": "https://kubernetes-charts.storage.googleapis.com/spinnaker-1.2.1.tgz"
+}
+{
+  "name": "spinnaker",
+  "version": "1.2.0",
+  "digest": "79a1b0fe6e66e00b6b930456af6901c3b89622d3a54b890f7a71a0037b446ea9",
+  "url": "https://kubernetes-charts.storage.googleapis.com/spinnaker-1.2.0.tgz"
 }
 {
   "name": "spinnaker",
@@ -28167,6 +28317,12 @@
   "version": "0.1.0",
   "digest": "bfe747074f795ecd429f7e067c71593d4ebff330aaeaf82750bc78e4ab5fa73f",
   "url": "https://kubernetes-charts.storage.googleapis.com/tomcat-0.1.0.tgz"
+}
+{
+  "name": "traefik",
+  "version": "1.59.1",
+  "digest": "195a0ce68ac65fb05f3ff7fbfe0f9807b4f5942c5258d99719d935a8aa9273c2",
+  "url": "https://kubernetes-charts.storage.googleapis.com/traefik-1.59.1.tgz"
 }
 {
   "name": "traefik",
