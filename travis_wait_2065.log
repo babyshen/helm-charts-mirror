@@ -439,3 +439,164 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages c9cf042] Synchronizing completion at 2019-01-20
+ 32 files changed, 1455 insertions(+), 267 deletions(-)
+ create mode 100644 ark-2.0.0.tgz
+ create mode 100644 bookstack-1.0.1.tgz
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 cluster-autoscaler-0.11.2.tgz
+ create mode 100644 concourse-3.6.0.tgz
+ create mode 100644 drupal-3.0.4.tgz
+ rewrite elastic-stack-1.4.1.tgz (98%)
+ create mode 100644 elasticsearch-curator-1.1.0.tgz
+ create mode 100644 elasticsearch-exporter-1.0.0.tgz
+ create mode 100644 gce-ingress-1.1.1.tgz
+ create mode 100644 ghost-6.3.4.tgz
+ create mode 100644 jaeger-operator-2.1.1.tgz
+ create mode 100644 karma-1.1.9.tgz
+ create mode 100644 keycloak-4.3.0.tgz
+ rewrite kube-ops-view-0.7.0.tgz (93%)
+ create mode 100644 mariadb-5.5.0.tgz
+ create mode 100644 metrics-server-2.1.1.tgz
+ create mode 100644 minio-2.3.5.tgz
+ create mode 100644 mongodb-5.2.0.tgz
+ create mode 100644 node-problem-detector-1.1.4.tgz
+ create mode 100644 phabricator-4.0.8.tgz
+ create mode 100644 phabricator-4.0.9.tgz
+ create mode 100644 postgresql-3.9.2.tgz
+ create mode 100644 prometheus-adapter-v0.4.1.tgz
+ create mode 100644 prometheus-operator-1.8.0.tgz
+ create mode 100644 prometheus-pushgateway-0.3.0.tgz
+ create mode 100644 travis_wait_2065.log
+To github.com:babyshen/helm-charts-mirror.git
+   c015c26..c9cf042  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:01] spend time is: 310
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:11] spend time is: 320
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:21] spend time is: 330
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:31] spend time is: 340
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:41] spend time is: 350
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:34:51] spend time is: 360
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spinnaker-1.2.1.tgz update done.
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:01] spinnaker-1.2.0.tgz update done.
+[2019-01-20 03:35:01] spend time is: 370
+[2019-01-20 03:35:02] spinnaker-1.1.8.tgz update done.
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] suitecrm-5.0.4.tgz update done.
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:11] spend time is: 380
+[2019-01-20 03:35:17] sumologic-fluentd-0.10.1.tgz update done.
+[2019-01-20 03:35:17] sumologic-fluentd-0.10.0.tgz update done.
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:21] spend time is: 390
+[2019-01-20 03:35:28] traefik-1.59.1.tgz update done.
+[2019-01-20 03:35:29] traefik-1.59.0.tgz update done.
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:31] spend time is: 400
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:41] spend time is: 410
+[2019-01-20 03:35:44] verdaccio-0.6.1.tgz update done.
+[2019-01-20 03:35:48] weave-scope-0.11.0.tgz update done.
+[2019-01-20 03:35:49] wordpress-5.1.2.tgz update done.
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:51] spend time is: 420
+[2019-01-20 03:35:52] spend time is: 420
+[2019-01-20 03:36:01] spend time is: 430
+[2019-01-20 03:36:01] spend time is: 430
+[2019-01-20 03:36:01] spend time is: 430
+[2019-01-20 04:01:30] gitlab-ee-0.2.2.tgz update done.
+Already up to date.
