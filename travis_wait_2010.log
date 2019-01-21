@@ -465,3 +465,87 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 4e455f4] Synchronizing completion at 2019-01-21
+ 13 files changed, 844 insertions(+), 267 deletions(-)
+ rewrite airflow-0.13.0.tgz (98%)
+ rewrite anchore-engine-0.10.0.tgz (99%)
+ rewrite cloudserver-1.0.0.tgz (99%)
+ rewrite elastic-stack-1.4.1.tgz (99%)
+ rewrite kube-ops-view-0.7.0.tgz (93%)
+ create mode 100644 mattermost-team-edition-2.2.0.tgz
+ create mode 100644 prometheus-snmp-exporter-0.0.1.tgz
+ create mode 100644 redmine-8.0.2.tgz
+ create mode 100644 travis_wait_2010.log
+To github.com:babyshen/helm-charts-mirror.git
+   69bed55..4e455f4  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:37] spend time is: 310
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:47] spend time is: 320
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:34:57] spend time is: 330
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:07] spend time is: 340
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:17] spend time is: 350
+[2019-01-21 03:35:21] unifi-0.2.8.tgz update done.
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+[2019-01-21 03:35:27] spend time is: 360
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
