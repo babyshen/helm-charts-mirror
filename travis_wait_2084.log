@@ -456,3 +456,236 @@ spend time is: 140
 [2019-01-24 03:36:08] spend time is: 300
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 Already up to date.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 28c1800245fc5ac050990a92406db41f2e355396.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 28c1800245fc5ac050990a92406db41f2e355396.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 28c1800245fc5ac050990a92406db41f2e355396
+output, run
+$ git reset --hard
+to recover.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.13.0.tgz
+	anchore-engine-0.10.0.tgz
+	chart-list.json
+	elastic-stack-1.4.1.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	mission-control-0.4.3.tgz
+	prometheus-operator-1.8.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	cert-manager-v0.6.0.tgz
+	chaoskube-0.14.0.tgz
+	chartmuseum-1.9.0.tgz
+	cluster-overprovisioner-0.1.0.tgz
+	datadog-1.17.0.tgz
+	docker-registry-1.6.4.tgz
+	drone-2.0.0-rc.1.tgz
+	efs-provisioner-0.1.3.tgz
+	efs-provisioner-0.1.4.tgz
+	ghost-6.3.5.tgz
+	grafana-1.25.2.tgz
+	grafana-1.25.3.tgz
+	hoard-0.6.0.tgz
+	kiam-2.0.1-rc5.tgz
+	mediawiki-6.0.2.tgz
+	mysqldump-2.1.2.tgz
+	nginx-ingress-1.1.5.tgz
+	node-red-1.0.2.tgz
+	opa-0.2.0.tgz
+	postgresql-3.9.3.tgz
+	travis_wait_2084.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 28c1800245fc5ac050990a92406db41f2e355396
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 28c1800245fc5ac050990a92406db41f2e355396.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.13.0.tgz
+	anchore-engine-0.10.0.tgz
+	chart-list.json
+	elastic-stack-1.4.1.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	mission-control-0.4.3.tgz
+	prometheus-operator-1.8.0.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	cert-manager-v0.6.0.tgz
+	chaoskube-0.14.0.tgz
+	chartmuseum-1.9.0.tgz
+	cluster-overprovisioner-0.1.0.tgz
+	datadog-1.17.0.tgz
+	docker-registry-1.6.4.tgz
+	drone-2.0.0-rc.1.tgz
+	efs-provisioner-0.1.3.tgz
+	efs-provisioner-0.1.4.tgz
+	ghost-6.3.5.tgz
+	grafana-1.25.2.tgz
+	grafana-1.25.3.tgz
+	hoard-0.6.0.tgz
+	kiam-2.0.1-rc5.tgz
+	mediawiki-6.0.2.tgz
+	mysqldump-2.1.2.tgz
+	nginx-ingress-1.1.5.tgz
+	node-red-1.0.2.tgz
+	opa-0.2.0.tgz
+	postgresql-3.9.3.tgz
+	travis_wait_2084.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 28c1800245fc5ac050990a92406db41f2e355396
+output, run
+$ git reset --hard
+to recover.
+[gh-pages 37ddd97] Synchronizing completion at 2019-01-24
+ 31 files changed, 1525 insertions(+), 278 deletions(-)
+ rewrite airflow-0.13.0.tgz (99%)
+ rewrite anchore-engine-0.10.0.tgz (99%)
+ create mode 100644 cert-manager-v0.6.0.tgz
+ create mode 100644 chaoskube-0.14.0.tgz
+ create mode 100644 chartmuseum-1.9.0.tgz
+ create mode 100644 cluster-overprovisioner-0.1.0.tgz
+ create mode 100644 datadog-1.17.0.tgz
+ create mode 100644 docker-registry-1.6.4.tgz
+ create mode 100644 drone-2.0.0-rc.1.tgz
+ create mode 100644 efs-provisioner-0.1.3.tgz
+ create mode 100644 efs-provisioner-0.1.4.tgz
+ rewrite elastic-stack-1.4.1.tgz (99%)
+ create mode 100644 ghost-6.3.5.tgz
+ create mode 100644 grafana-1.25.2.tgz
+ create mode 100644 grafana-1.25.3.tgz
+ create mode 100644 hoard-0.6.0.tgz
+ create mode 100644 kiam-2.0.1-rc5.tgz
+ rewrite kube-ops-view-0.7.0.tgz (94%)
+ create mode 100644 mediawiki-6.0.2.tgz
+ rewrite mission-control-0.4.3.tgz (99%)
+ create mode 100644 mysqldump-2.1.2.tgz
+ create mode 100644 nginx-ingress-1.1.5.tgz
+ create mode 100644 node-red-1.0.2.tgz
+ create mode 100644 opa-0.2.0.tgz
+ create mode 100644 postgresql-3.9.3.tgz
+ create mode 100644 travis_wait_2084.log
+To github.com:babyshen/helm-charts-mirror.git
+   28c1800..37ddd97  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] redmine-8.0.3.tgz update done.
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:18] spend time is: 310
+[2019-01-24 03:36:26] schema-registry-ui-0.2.1.tgz update done.
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:28] spend time is: 320
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:38] spend time is: 330
+[2019-01-24 03:36:44] spinnaker-1.3.0.tgz update done.
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spring-cloud-data-flow-1.0.2.tgz update done.
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:48] spend time is: 340
+[2019-01-24 03:36:50] stolon-1.1.0.tgz update done.
+[2019-01-24 03:36:57] sumologic-fluentd-0.11.0.tgz update done.
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:36:58] spend time is: 350
+[2019-01-24 03:37:07] traefik-1.59.2.tgz update done.
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:08] spend time is: 360
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:18] spend time is: 370
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:28] spend time is: 380
+[2019-01-24 03:37:32] xray-0.4.2.tgz update done.
+Already up to date.
