@@ -487,3 +487,225 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages dcf8d2e] Synchronizing completion at 2019-02-14
+ 46 files changed, 2169 insertions(+), 275 deletions(-)
+ rewrite airflow-0.15.0.tgz (97%)
+ create mode 100644 airflow-0.16.0.tgz
+ create mode 100644 airflow-0.17.0.tgz
+ create mode 100644 airflow-0.17.1.tgz
+ create mode 100644 airflow-0.17.2.tgz
+ create mode 100644 ambassador-1.0.0.tgz
+ create mode 100644 ambassador-1.1.0.tgz
+ create mode 100644 atlantis-1.1.5.tgz
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 concourse-3.7.3.tgz
+ create mode 100644 drupal-3.0.6.tgz
+ rewrite elastic-stack-1.5.0.tgz (98%)
+ create mode 100644 elasticsearch-exporter-1.1.1.tgz
+ create mode 100644 fluent-bit-1.7.0.tgz
+ create mode 100644 ghost-6.3.10.tgz
+ create mode 100644 ghost-6.3.9.tgz
+ create mode 100644 grafana-2.0.0.tgz
+ create mode 100644 hackmd-1.1.0.tgz
+ create mode 100644 influxdb-1.1.2.tgz
+ create mode 100644 jenkins-0.30.0.tgz
+ create mode 100644 jenkins-0.31.0.tgz
+ create mode 100644 jenkins-0.32.0.tgz
+ create mode 100644 joomla-4.0.4.tgz
+ create mode 100644 kiam-2.1.0.tgz
+ create mode 100644 kibana-1.5.1.tgz
+ rewrite kube-ops-view-0.7.0.tgz (94%)
+ create mode 100644 kube-state-metrics-0.14.0.tgz
+ create mode 100644 kuberhealthy-1.0.0.tgz
+ create mode 100644 kuberhealthy-1.0.1.tgz
+ create mode 100644 mattermost-team-edition-2.2.2.tgz
+ create mode 100644 metrics-server-2.4.0.tgz
+ create mode 100644 mongodb-5.3.3.tgz
+ create mode 100644 mongodb-5.3.4.tgz
+ create mode 100644 nextcloud-1.0.0.tgz
+ create mode 100644 nextcloud-1.0.1.tgz
+ create mode 100644 oauth2-proxy-0.9.0.tgz
+ create mode 100644 oauth2-proxy-0.9.1.tgz
+ create mode 100644 postgresql-3.10.2.tgz
+ create mode 100644 postgresql-3.11.0.tgz
+ create mode 100644 prometheus-8.7.1.tgz
+ create mode 100644 prometheus-operator-2.2.0.tgz
+ create mode 100644 travis_wait_2068.log
+To github.com:babyshen/helm-charts-mirror.git
+   41ad59e..dcf8d2e  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-02-14 03:47:01] prometheus-redis-exporter-1.0.2.tgz update done.
+[2019-02-14 03:47:03] rabbitmq-4.2.0.tgz update done.
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:04] spend time is: 310
+[2019-02-14 03:47:13] rabbitmq-ha-1.19.0.tgz update done.
+[2019-02-14 03:47:13] rabbitmq-ha-1.18.1.tgz update done.
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:14] spend time is: 320
+[2019-02-14 03:47:18] redis-6.0.1.tgz update done.
+[2019-02-14 03:47:18] redis-6.0.0.tgz update done.
+[2019-02-14 03:47:18] redis-5.5.0.tgz update done.
+[2019-02-14 03:47:18] redis-5.4.0.tgz update done.
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:24] spend time is: 330
+[2019-02-14 03:47:30] redis-ha-3.1.5.tgz update done.
+[2019-02-14 03:47:30] redis-ha-3.1.4.tgz update done.
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:34] spend time is: 340
+[2019-02-14 03:47:40] rocketchat-0.3.4.tgz update done.
+[2019-02-14 03:47:40] rocketchat-0.3.3.tgz update done.
+[2019-02-14 03:47:40] rocketchat-0.3.2.tgz update done.
+[2019-02-14 03:47:40] rocketchat-0.3.1.tgz update done.
+[2019-02-14 03:47:40] rocketchat-0.3.0.tgz update done.
+[2019-02-14 03:47:42] satisfy-0.1.0.tgz update done.
+[2019-02-14 03:47:43] schema-registry-ui-0.3.0.tgz update done.
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] selenium-1.0.1.tgz update done.
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] selenium-1.0.0.tgz update done.
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:44] spend time is: 350
+[2019-02-14 03:47:47] sematext-agent-1.0.1.tgz update done.
+[2019-02-14 03:47:48] sentry-1.3.1.tgz update done.
+[2019-02-14 03:47:49] sentry-1.3.0.tgz update done.
+[2019-02-14 03:47:49] sentry-1.2.0.tgz update done.
+[2019-02-14 03:47:51] seq-0.1.2.tgz update done.
+[2019-02-14 03:47:52] sonarqube-0.13.4.tgz update done.
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:54] spend time is: 360
+[2019-02-14 03:47:56] sonatype-nexus-1.16.0.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.7.0.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.6.1.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.6.0.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.5.1.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.5.0.tgz update done.
+[2019-02-14 03:48:03] spinnaker-1.4.0.tgz update done.
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:04] spend time is: 370
+[2019-02-14 03:48:07] spring-cloud-data-flow-1.0.3.tgz update done.
+[2019-02-14 03:48:12] suitecrm-5.0.5.tgz update done.
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:14] spend time is: 380
+[2019-02-14 03:48:17] sumologic-fluentd-0.12.0.tgz update done.
+[2019-02-14 03:48:19] superset-1.1.4.tgz update done.
+[2019-02-14 03:48:19] superset-1.1.3.tgz update done.
+[2019-02-14 03:48:19] superset-1.1.1.tgz update done.
+[2019-02-14 03:48:24] testlink-4.0.3.tgz update done.
+[2019-02-14 03:48:24] testlink-4.0.2.tgz update done.
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:24] testlink-4.0.1.tgz update done.
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:24] spend time is: 390
+[2019-02-14 03:48:25] spend time is: 390
+[2019-02-14 03:48:29] traefik-1.61.0.tgz update done.
+[2019-02-14 03:48:29] traefik-1.60.0.tgz update done.
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:34] spend time is: 400
+[2019-02-14 03:48:41] unifi-0.3.1.tgz update done.
+[2019-02-14 03:48:41] unifi-0.3.0.tgz update done.
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:44] spend time is: 410
+[2019-02-14 03:48:47] wordpress-5.2.2.tgz update done.
+[2019-02-14 03:48:47] wordpress-5.2.1.tgz update done.
+[2019-02-14 03:48:47] wordpress-5.2.0.tgz update done.
+[2019-02-14 03:48:47] wordpress-5.1.3.tgz update done.
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:54] spend time is: 420
+[2019-02-14 03:48:57] xray-0.4.2.tgz update done.
+Already up to date.
