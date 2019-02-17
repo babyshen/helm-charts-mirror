@@ -454,3 +454,265 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-02-17 03:48:17] spend time is: 300
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 Already up to date.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 07b88406ac0010250308c91a7a3b7fe350e4d679.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 07b88406ac0010250308c91a7a3b7fe350e4d679.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 07b88406ac0010250308c91a7a3b7fe350e4d679
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 07b88406ac0010250308c91a7a3b7fe350e4d679.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 07b88406ac0010250308c91a7a3b7fe350e4d679
+output, run
+$ git reset --hard
+to recover.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-0.17.2.tgz
+	chart-list.json
+	elastic-stack-1.5.0.tgz
+	gitlab-ee-0.2.2.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	airflow-0.17.3.tgz
+	ambassador-1.1.1.tgz
+	ambassador-1.1.2.tgz
+	ambassador-1.1.3.tgz
+	aws-iam-authenticator-0.1.0.tgz
+	external-dns-1.6.1.tgz
+	filebeat-1.3.0.tgz
+	ghost-6.3.11.tgz
+	grafana-2.0.1.tgz
+	jenkins-0.32.1.tgz
+	jenkins-0.32.2.tgz
+	jenkins-0.32.3.tgz
+	jenkins-0.32.4.tgz
+	jenkins-0.32.5.tgz
+	jenkins-0.32.6.tgz
+	kong-0.9.3.tgz
+	kube-state-metrics-0.14.1.tgz
+	lamp-1.1.0.tgz
+	metabase-0.4.6.tgz
+	minio-2.4.3.tgz
+	newrelic-infrastructure-0.8.0.tgz
+	nginx-ingress-1.3.1.tgz
+	phabricator-4.0.12.tgz
+	postgresql-3.11.1.tgz
+	postgresql-3.11.2.tgz
+	prometheus-operator-2.2.1.tgz
+	prometheus-operator-2.2.2.tgz
+	travis_wait_2079.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 07b88406ac0010250308c91a7a3b7fe350e4d679
+output, run
+$ git reset --hard
+to recover.
+[gh-pages f5d0fde] Synchronizing completion at 2019-02-17
+ 36 files changed, 1956 insertions(+), 278 deletions(-)
+ create mode 100644 airflow-0.17.3.tgz
+ create mode 100644 ambassador-1.1.1.tgz
+ create mode 100644 ambassador-1.1.2.tgz
+ create mode 100644 ambassador-1.1.3.tgz
+ create mode 100644 aws-iam-authenticator-0.1.0.tgz
+ rewrite elastic-stack-1.5.0.tgz (99%)
+ create mode 100644 external-dns-1.6.1.tgz
+ create mode 100644 filebeat-1.3.0.tgz
+ create mode 100644 ghost-6.3.11.tgz
+ rewrite gitlab-ee-0.2.2.tgz (99%)
+ create mode 100644 grafana-2.0.1.tgz
+ create mode 100644 jenkins-0.32.1.tgz
+ create mode 100644 jenkins-0.32.2.tgz
+ create mode 100644 jenkins-0.32.3.tgz
+ create mode 100644 jenkins-0.32.4.tgz
+ create mode 100644 jenkins-0.32.5.tgz
+ create mode 100644 jenkins-0.32.6.tgz
+ create mode 100644 kong-0.9.3.tgz
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ create mode 100644 kube-state-metrics-0.14.1.tgz
+ create mode 100644 lamp-1.1.0.tgz
+ create mode 100644 metabase-0.4.6.tgz
+ create mode 100644 minio-2.4.3.tgz
+ create mode 100644 newrelic-infrastructure-0.8.0.tgz
+ create mode 100644 nginx-ingress-1.3.1.tgz
+ create mode 100644 phabricator-4.0.12.tgz
+ create mode 100644 postgresql-3.11.1.tgz
+ create mode 100644 postgresql-3.11.2.tgz
+ create mode 100644 prometheus-operator-2.2.1.tgz
+ create mode 100644 prometheus-operator-2.2.2.tgz
+ create mode 100644 travis_wait_2079.log
+To github.com:babyshen/helm-charts-mirror.git
+   07b8840..f5d0fde  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:27] spend time is: 310
+[2019-02-17 03:48:30] rabbitmq-4.2.1.tgz update done.
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:37] spend time is: 320
+[2019-02-17 03:48:44] redis-6.1.0.tgz update done.
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:47] spend time is: 330
+[2019-02-17 03:48:48] spend time is: 330
+[2019-02-17 03:48:56] redis-ha-3.1.6.tgz update done.
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:48:57] spend time is: 340
+[2019-02-17 03:49:04] reloader-1.0.1.tgz update done.
+[2019-02-17 03:49:04] reloader-1.0.0.tgz update done.
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:07] spend time is: 350
+[2019-02-17 03:49:08] satisfy-0.1.1.tgz update done.
+[2019-02-17 03:49:10] selenium-1.0.2.tgz update done.
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:17] spend time is: 360
+[2019-02-17 03:49:18] sonarqube-0.14.0.tgz update done.
+[2019-02-17 03:49:18] sonarqube-0.13.5.tgz update done.
+[2019-02-17 03:49:18] sonarqube-0.13.4.tgz update done.
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:27] spend time is: 370
+[2019-02-17 03:49:28] spinnaker-1.7.2.tgz update done.
+[2019-02-17 03:49:29] spinnaker-1.7.1.tgz update done.
+[2019-02-17 03:49:29] spinnaker-1.7.0.tgz update done.
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:37] spend time is: 380
+[2019-02-17 03:49:45] superset-1.1.5.tgz update done.
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:47] spend time is: 390
+[2019-02-17 03:49:54] traefik-1.61.1.tgz update done.
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:49:57] spend time is: 400
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:07] spend time is: 410
+[2019-02-17 03:50:08] spend time is: 410
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+[2019-02-17 03:50:17] spend time is: 420
+Already up to date.
