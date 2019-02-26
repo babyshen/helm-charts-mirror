@@ -459,3 +459,196 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 0bd01d4] Synchronizing completion at 2019-02-26
+ 30 files changed, 1323 insertions(+), 278 deletions(-)
+ rewrite airflow-1.0.1.tgz (98%)
+ create mode 100644 airflow-2.0.0.tgz
+ create mode 100644 airflow-2.0.1.tgz
+ create mode 100644 ambassador-1.1.5.tgz
+ create mode 100644 chartmuseum-1.9.2.tgz
+ create mode 100644 concourse-3.7.5.tgz
+ create mode 100644 concourse-3.8.0.tgz
+ create mode 100644 datadog-1.22.0.tgz
+ rewrite distribution-0.4.2.tgz (99%)
+ rewrite elastic-stack-1.5.0.tgz (98%)
+ create mode 100644 elasticsearch-1.21.1.tgz
+ create mode 100644 grafana-2.1.0.tgz
+ create mode 100644 grafana-2.1.1.tgz
+ create mode 100644 grafana-2.1.2.tgz
+ create mode 100644 grafana-2.2.0.tgz
+ rewrite janusgraph-0.2.0.tgz (99%)
+ create mode 100644 jenkins-0.32.10.tgz
+ create mode 100644 jenkins-0.33.0.tgz
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ create mode 100644 kuberhealthy-1.1.1.tgz
+ create mode 100644 kuberhealthy-1.1.2.tgz
+ create mode 100644 metricbeat-1.1.1.tgz
+ create mode 100644 percona-xtradb-cluster-0.6.3.tgz
+ create mode 100644 postgresql-3.11.6.tgz
+ create mode 100644 prestashop-6.1.3.tgz
+ create mode 100644 prestashop-6.2.0.tgz
+ create mode 100644 travis_wait_2072.log
+To github.com:babyshen/helm-charts-mirror.git
+   749cf5a..0bd01d4  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-02-26 03:53:48] prometheus-cloudwatch-exporter-0.4.2.tgz update done.
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:48] spend time is: 310
+[2019-02-26 03:53:51] prometheus-operator-4.1.1.tgz update done.
+[2019-02-26 03:53:51] prometheus-operator-4.1.0.tgz update done.
+[2019-02-26 03:53:51] prometheus-operator-4.0.0.tgz update done.
+[2019-02-26 03:53:52] prometheus-operator-3.0.0.tgz update done.
+[2019-02-26 03:53:52] prometheus-operator-2.6.0.tgz update done.
+[2019-02-26 03:53:52] prometheus-operator-2.3.2.tgz update done.
+[2019-02-26 03:53:52] prometheus-operator-2.3.1.tgz update done.
+[2019-02-26 03:53:52] prometheus-operator-2.3.0.tgz update done.
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:53:58] spend time is: 320
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:08] spend time is: 330
+[2019-02-26 03:54:12] rabbitmq-ha-1.20.0.tgz update done.
+[2019-02-26 03:54:17] redis-6.1.3.tgz update done.
+[2019-02-26 03:54:18] redis-6.1.2.tgz update done.
+[2019-02-26 03:54:18] redis-6.1.1.tgz update done.
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:18] spend time is: 340
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:28] spend time is: 350
+[2019-02-26 03:54:30] redis-ha-3.2.0.tgz update done.
+[2019-02-26 03:54:33] redmine-8.0.4.tgz update done.
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:38] spend time is: 360
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:48] spend time is: 370
+[2019-02-26 03:54:52] sonarqube-0.15.0.tgz update done.
+[2019-02-26 03:54:56] sonatype-nexus-1.16.2.tgz update done.
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:54:58] spend time is: 380
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:08] spend time is: 390
+[2019-02-26 03:55:12] suitecrm-5.0.6.tgz update done.
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:18] spend time is: 400
+[2019-02-26 03:55:19] spend time is: 400
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:28] spend time is: 410
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:38] spend time is: 420
+[2019-02-26 03:55:46] wordpress-5.2.3.tgz update done.
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+[2019-02-26 03:55:48] spend time is: 430
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
