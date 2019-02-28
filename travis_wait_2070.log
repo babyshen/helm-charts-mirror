@@ -463,3 +463,239 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 352c279] Synchronizing completion at 2019-02-28
+ 58 files changed, 2502 insertions(+), 280 deletions(-)
+ rewrite airflow-2.0.1.tgz (96%)
+ create mode 100644 airflow-2.0.2.tgz
+ create mode 100644 airflow-2.1.0.tgz
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 cockroachdb-2.1.0.tgz
+ create mode 100644 dokuwiki-4.0.2.tgz
+ create mode 100644 drupal-3.0.8.tgz
+ rewrite elastic-stack-1.5.0.tgz (98%)
+ create mode 100644 external-dns-1.6.2.tgz
+ create mode 100644 filebeat-1.4.1.tgz
+ create mode 100644 filebeat-1.4.2.tgz
+ create mode 100644 ghost-6.3.13.tgz
+ rewrite gitlab-ce-0.2.2.tgz (100%)
+ rewrite gitlab-ee-0.2.2.tgz (99%)
+ create mode 100644 hlf-ca-1.1.6.tgz
+ create mode 100644 hlf-couchdb-1.0.6.tgz
+ create mode 100644 hlf-peer-1.2.6.tgz
+ create mode 100644 hoard-0.6.5.tgz
+ create mode 100644 influxdb-1.1.3.tgz
+ rewrite janusgraph-0.2.0.tgz (99%)
+ create mode 100644 jasperreports-4.0.3.tgz
+ create mode 100644 joomla-4.0.5.tgz
+ create mode 100644 kong-0.9.4.tgz
+ rewrite kube-ops-view-0.7.0.tgz (97%)
+ create mode 100644 logstash-1.5.1.tgz
+ create mode 100644 magento-4.1.5.tgz
+ create mode 100644 mariadb-5.5.4.tgz
+ create mode 100644 mediawiki-6.0.3.tgz
+ create mode 100644 minio-2.4.4.tgz
+ create mode 100644 minio-2.4.5.tgz
+ create mode 100644 minio-2.4.6.tgz
+ create mode 100644 mongodb-5.6.0.tgz
+ create mode 100644 mongodb-5.6.1.tgz
+ create mode 100644 mongodb-5.6.2.tgz
+ create mode 100644 mongodb-replicaset-3.9.1.tgz
+ create mode 100644 moodle-4.0.5.tgz
+ create mode 100644 nats-2.0.6.tgz
+ create mode 100644 odoo-6.0.0.tgz
+ create mode 100644 odoo-6.0.1.tgz
+ create mode 100644 opa-0.3.0.tgz
+ create mode 100644 opa-0.4.0.tgz
+ create mode 100644 opa-0.5.0.tgz
+ create mode 100644 opencart-4.0.5.tgz
+ create mode 100644 openebs-0.8.3.tgz
+ create mode 100644 openvpn-3.12.0.tgz
+ create mode 100644 orangehrm-4.0.2.tgz
+ create mode 100644 osclass-4.0.4.tgz
+ create mode 100644 owncloud-4.0.4.tgz
+ create mode 100644 parse-6.0.3.tgz
+ create mode 100644 phabricator-4.0.13.tgz
+ create mode 100644 phabricator-4.0.14.tgz
+ create mode 100644 phpbb-4.0.4.tgz
+ create mode 100644 phpmyadmin-2.0.5.tgz
+ create mode 100644 postgresql-3.11.7.tgz
+ create mode 100644 travis_wait_2070.log
+To github.com:babyshen/helm-charts-mirror.git
+   dad5d6d..352c279  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] prestashop-6.2.1.tgz update done.
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:24] spend time is: 310
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:34] spend time is: 320
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:44] spend time is: 330
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:55:54] spend time is: 340
+[2019-02-28 03:56:00] rabbitmq-4.3.1.tgz update done.
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:04] spend time is: 350
+[2019-02-28 03:56:10] rabbitmq-ha-1.20.1.tgz update done.
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:14] spend time is: 360
+[2019-02-28 03:56:15] redis-6.1.4.tgz update done.
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:24] spend time is: 370
+[2019-02-28 03:56:31] redmine-9.0.1.tgz update done.
+[2019-02-28 03:56:31] redmine-9.0.0.tgz update done.
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:34] spend time is: 380
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:44] spend time is: 390
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:56:54] spend time is: 400
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:04] spend time is: 410
+[2019-02-28 03:57:12] suitecrm-5.0.7.tgz update done.
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:14] spend time is: 420
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] testlink-4.0.4.tgz update done.
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:24] spend time is: 430
+[2019-02-28 03:57:29] traefik-1.62.0.tgz update done.
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:34] spend time is: 440
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:44] spend time is: 450
+[2019-02-28 03:57:48] wordpress-5.2.6.tgz update done.
+[2019-02-28 03:57:48] wordpress-5.2.5.tgz update done.
+[2019-02-28 03:57:48] wordpress-5.2.4.tgz update done.
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+[2019-02-28 03:57:54] spend time is: 460
+Already up to date.
