@@ -421,3 +421,225 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+Already up to date.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 25c686e43e34f4ef752d2e6f7a86f2f7da10975e.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-2.1.0.tgz
+	chart-list.json
+	cloudserver-1.0.0.tgz
+	elastic-stack-1.5.0.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+	mission-control-0.4.3.tgz
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	collabora-code-1.0.0.tgz
+	filebeat-1.4.3.tgz
+	grafana-2.2.1.tgz
+	metabase-0.5.0.tgz
+	mongodb-5.7.0.tgz
+	travis_wait_2025.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 25c686e43e34f4ef752d2e6f7a86f2f7da10975e
+output, run
+$ git reset --hard
+to recover.
+[gh-pages 1c74bcc] Synchronizing completion at 2019-03-02
+ 15 files changed, 937 insertions(+), 286 deletions(-)
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 collabora-code-1.0.0.tgz
+ rewrite elastic-stack-1.5.0.tgz (99%)
+ create mode 100644 filebeat-1.4.3.tgz
+ create mode 100644 grafana-2.2.1.tgz
+ rewrite kube-ops-view-0.7.0.tgz (90%)
+ create mode 100644 metabase-0.5.0.tgz
+ rewrite mission-control-0.4.3.tgz (99%)
+ create mode 100644 mongodb-5.7.0.tgz
+ create mode 100644 travis_wait_2025.log
+To github.com:babyshen/helm-charts-mirror.git
+   25c686e..1c74bcc  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:08] spend time is: 310
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:18] spend time is: 320
+[2019-03-02 03:56:23] prometheus-operator-4.2.1.tgz update done.
+[2019-03-02 03:56:23] prometheus-operator-4.2.0.tgz update done.
+[2019-03-02 03:56:23] prometheus-operator-4.1.1.tgz update done.
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:28] spend time is: 330
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:38] spend time is: 340
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:48] spend time is: 350
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:56:58] spend time is: 360
+[2019-03-02 03:57:02] redis-ha-3.3.0.tgz update done.
+[2019-03-02 03:57:02] redis-ha-3.2.1.tgz update done.
+[2019-03-02 03:57:05] redmine-9.0.1.tgz update done.
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:08] spend time is: 370
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:18] spend time is: 380
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:28] spend time is: 390
+[2019-03-02 03:57:36] spinnaker-1.7.2.tgz update done.
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:38] spend time is: 400
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:48] spend time is: 410
+[2019-03-02 03:57:54] sysdig-1.4.0.tgz update done.
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:57:58] spend time is: 420
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:08] spend time is: 430
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:18] spend time is: 440
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+[2019-03-02 03:58:28] spend time is: 450
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
