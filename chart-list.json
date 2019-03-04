@@ -103,7 +103,7 @@
 {
   "name": "airflow",
   "version": "2.1.0",
-  "digest": "7a9dca3d5de65cbb95bf24db4b919918116a323f1105450bdb0934fb0e0136e0",
+  "digest": "3752bb5cf67ad8d4de2422778fc9e36045b4f4b26d0054c4fb86a5239d33ad8e",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-2.1.0.tgz"
 }
 {
@@ -3685,7 +3685,7 @@
 {
   "name": "distribution",
   "version": "0.4.2",
-  "digest": "147c19593650f3fb5e665aae8893b740ba70ca5eb3093f2f3a33b73961558186",
+  "digest": "ff011af7ebf84fb03d3bc99abde8c6d85e52ed10d6895209fa9070b808aff320",
   "url": "https://kubernetes-charts.storage.googleapis.com/distribution-0.4.2.tgz"
 }
 {
@@ -4909,7 +4909,7 @@
 {
   "name": "elastic-stack",
   "version": "1.5.0",
-  "digest": "cf59fb324be29354991cc3fbd8a9ce78596656ef7eae7e3a34705f6a111fcef1",
+  "digest": "f53bc63203b800706d42a1d310556f843681e0df3f46da4037336dd73eed209a",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.5.0.tgz"
 }
 {
@@ -9715,7 +9715,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.0",
-  "digest": "8c9e62d52f4eaf5b9f7a3d695e2755908eec0410887a1730091945a072a738eb",
+  "digest": "2355c300b6d85a0e86cf0db962b2ce8505f85d90dc0f0c97d13745ce8401e67a",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.0.tgz"
 }
 {
@@ -12421,7 +12421,7 @@
 {
   "name": "kube-ops-view",
   "version": "0.7.0",
-  "digest": "07520008f9b285e2916d255e5f969d06181a9bc41818e2b4e7ac7a65dce08539",
+  "digest": "6dc8fec36d33f14dfad71e3c582dd6183f24a00085b64b22c7db70aac4eb4d6b",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-0.7.0.tgz"
 }
 {
@@ -27643,7 +27643,7 @@
 {
   "name": "redmine",
   "version": "9.0.1",
-  "digest": "31ba4f2926c5a180ed4bd70a5bf12b4f39fe085af8fac4174c67d066ba93fa2f",
+  "digest": "193ce5194b80959939ec8bd49f9493647074a3f6589c723fae51bb8b81f8451e",
   "url": "https://kubernetes-charts.storage.googleapis.com/redmine-9.0.1.tgz"
 }
 {
@@ -29899,7 +29899,7 @@
 {
   "name": "spring-cloud-data-flow",
   "version": "1.0.3",
-  "digest": "f60781c1cb3d465583466690cff621c94a3f92df7df5a0de43e60e64afa7b787",
+  "digest": "ed7a9aaebfd42e0dc7a8f7655bbec2e3e350cb09cc9dff641dc93dc786f53220",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-1.0.3.tgz"
 }
 {
@@ -32088,6 +32088,12 @@
 }
 {
   "name": "unifi",
+  "version": "0.3.2",
+  "digest": "26587c49fdedb5638f84480b978bea2e7540ea092f5d0679d97c7ff46de1c1a0",
+  "url": "https://kubernetes-charts.storage.googleapis.com/unifi-0.3.2.tgz"
+}
+{
+  "name": "unifi",
   "version": "0.3.1",
   "digest": "4a65ff238709647b1a947d26e0273d89ea3db03fdfde21d2f40a58a2ac8984c4",
   "url": "https://kubernetes-charts.storage.googleapis.com/unifi-0.3.1.tgz"
@@ -32407,7 +32413,7 @@
 {
   "name": "weave-scope",
   "version": "0.11.0",
-  "digest": "1098228ce398fe5c94122a794ee2e492d93dbdf5c7d3a74c1d973b363e95b523",
+  "digest": "95841b5b420c160968a3d20cfa06a76428de475e3f462b58620111d9d332590c",
   "url": "https://kubernetes-charts.storage.googleapis.com/weave-scope-0.11.0.tgz"
 }
 {
