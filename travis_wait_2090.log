@@ -424,3 +424,204 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit dc5f474999d39a141d20fa3325938359bb84b781.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit dc5f474999d39a141d20fa3325938359bb84b781.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff dc5f474999d39a141d20fa3325938359bb84b781
+output, run
+$ git reset --hard
+to recover.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-2.1.0.tgz
+	chart-list.json
+	distribution-0.4.2.tgz
+	elastic-stack-1.5.0.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-0.7.0.tgz
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	travis_wait_2090.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff dc5f474999d39a141d20fa3325938359bb84b781
+output, run
+$ git reset --hard
+to recover.
+[gh-pages 75842f1] Synchronizing completion at 2019-03-04
+ 9 files changed, 775 insertions(+), 283 deletions(-)
+ rewrite airflow-2.1.0.tgz (99%)
+ rewrite distribution-0.4.2.tgz (99%)
+ rewrite elastic-stack-1.5.0.tgz (98%)
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ create mode 100644 travis_wait_2090.log
+To github.com:babyshen/helm-charts-mirror.git
+   dc5f474..75842f1  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:17] spend time is: 310
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] prometheus-operator-4.2.1.tgz update done.
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:27] spend time is: 320
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:37] spend time is: 330
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:47] spend time is: 340
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:57:57] spend time is: 350
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:07] spend time is: 360
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:17] spend time is: 370
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:27] spend time is: 380
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:37] spend time is: 390
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:47] spend time is: 400
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:58:57] spend time is: 410
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:07] spend time is: 420
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:17] spend time is: 430
+[2019-03-04 03:59:18] unifi-0.3.2.tgz update done.
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+[2019-03-04 03:59:27] spend time is: 440
+Already up to date.
