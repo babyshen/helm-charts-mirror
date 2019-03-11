@@ -470,3 +470,224 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 796b15b] Synchronizing completion at 2019-03-11
+ 42 files changed, 1809 insertions(+), 286 deletions(-)
+ rewrite airflow-2.1.0.tgz (97%)
+ rewrite anchore-engine-0.11.0.tgz (99%)
+ create mode 100644 ark-4.1.0.tgz
+ create mode 100644 burrow-1.0.5.tgz
+ create mode 100644 chaoskube-1.0.0.tgz
+ rewrite cloudserver-1.0.0.tgz (99%)
+ create mode 100644 cockroachdb-2.1.1.tgz
+ create mode 100644 concourse-4.0.0.tgz
+ create mode 100644 coredns-1.2.5.tgz
+ rewrite elastic-stack-1.5.0.tgz (99%)
+ create mode 100644 external-dns-1.7.0.tgz
+ create mode 100644 ghost-6.3.17.tgz
+ create mode 100644 gocd-1.7.0.tgz
+ create mode 100644 grafana-2.2.2.tgz
+ create mode 100644 grafana-2.2.3.tgz
+ create mode 100644 grafana-2.2.4.tgz
+ rewrite graylog-0.1.0.tgz (99%)
+ create mode 100644 hazelcast-1.3.0.tgz
+ create mode 100644 heartbeat-1.0.1.tgz
+ rewrite hlf-ca-1.1.6.tgz (99%)
+ create mode 100644 jasperreports-4.0.4.tgz
+ create mode 100644 jenkins-0.33.2.tgz
+ create mode 100644 kafka-manager-1.1.1.tgz
+ create mode 100644 kibana-1.6.0.tgz
+ create mode 100644 kong-0.9.6.tgz
+ rewrite kube-ops-view-0.7.0.tgz (84%)
+ create mode 100644 kuberhealthy-1.2.3.tgz
+ create mode 100644 kured-1.1.1.tgz
+ create mode 100644 logstash-1.5.2.tgz
+ create mode 100644 mariadb-5.7.2.tgz
+ create mode 100644 mattermost-team-edition-3.0.0.tgz
+ create mode 100644 memcached-2.7.0.tgz
+ rewrite mission-control-0.4.3.tgz (99%)
+ create mode 100644 mongodb-5.8.0.tgz
+ create mode 100644 moodle-4.0.6.tgz
+ create mode 100644 opa-1.3.0.tgz
+ create mode 100644 orangehrm-4.0.3.tgz
+ create mode 100644 travis_wait_1998.log
+To github.com:babyshen/helm-charts-mirror.git
+   bb71964..796b15b  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:28] spend time is: 310
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:38] spend time is: 320
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] prometheus-node-exporter-1.3.2.tgz update done.
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:48] prometheus-node-exporter-1.3.1.tgz update done.
+[2019-03-11 04:00:48] spend time is: 330
+[2019-03-11 04:00:50] prometheus-operator-4.3.2.tgz update done.
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:00:58] spend time is: 340
+[2019-03-11 04:01:02] rabbitmq-4.3.2.tgz update done.
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:08] spend time is: 350
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:18] spend time is: 360
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:28] spend time is: 370
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:38] spend time is: 380
+[2019-03-11 04:01:44] selenium-1.0.3.tgz update done.
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:48] spend time is: 390
+[2019-03-11 04:01:52] seq-0.1.3.tgz update done.
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:01:58] spend time is: 400
+[2019-03-11 04:02:03] spark-history-server-0.4.0.tgz update done.
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:08] spend time is: 410
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:18] spend time is: 420
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:28] spend time is: 430
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:38] spend time is: 440
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:48] spend time is: 450
+[2019-03-11 04:02:49] wordpress-5.4.1.tgz update done.
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+[2019-03-11 04:02:58] spend time is: 460
+Already up to date.
