@@ -478,3 +478,363 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages b5650ad] Synchronizing completion at 2019-05-01
+ 72 files changed, 3169 insertions(+), 301 deletions(-)
+ rewrite airflow-2.4.4.tgz (98%)
+ create mode 100644 airflow-2.5.0.tgz
+ create mode 100644 airflow-2.6.0.tgz
+ create mode 100644 ambassador-2.2.2.tgz
+ create mode 100644 ambassador-2.2.3.tgz
+ rewrite anchore-engine-0.13.0.tgz (99%)
+ create mode 100644 atlantis-3.0.0.tgz
+ create mode 100644 atlantis-3.1.0.tgz
+ create mode 100644 atlantis-3.2.0.tgz
+ create mode 100644 cerebro-1.0.1.tgz
+ create mode 100644 chaoskube-1.1.0.tgz
+ create mode 100644 cluster-autoscaler-0.12.3.tgz
+ create mode 100644 cockroachdb-2.1.2.tgz
+ create mode 100644 cockroachdb-2.1.3.tgz
+ create mode 100644 collabora-code-1.0.2.tgz
+ create mode 100644 concourse-6.0.0.tgz
+ create mode 100644 coredns-1.5.0.tgz
+ create mode 100644 coredns-1.5.1.tgz
+ create mode 100644 docker-registry-1.8.0.tgz
+ create mode 100644 drone-2.0.0-rc.11.tgz
+ create mode 100644 elastalert-0.12.1.tgz
+ rewrite elastic-stack-1.6.0.tgz (98%)
+ create mode 100644 external-dns-1.7.5.tgz
+ create mode 100644 falco-0.7.3.tgz
+ create mode 100644 fluentd-1.9.0.tgz
+ rewrite gitlab-ce-0.2.2.tgz (100%)
+ create mode 100644 gocd-1.9.0.tgz
+ create mode 100644 goldpinger-1.1.2.tgz
+ create mode 100644 grafana-3.3.3.tgz
+ create mode 100644 grafana-3.3.4.tgz
+ create mode 100644 grafana-3.3.5.tgz
+ rewrite graylog-0.1.3.tgz (63%)
+ create mode 100644 graylog-0.1.4.tgz
+ create mode 100644 helm-exporter-0.2.1.tgz
+ rewrite hlf-ca-1.1.6.tgz (99%)
+ create mode 100644 home-assistant-0.7.1.tgz
+ create mode 100644 home-assistant-0.7.2.tgz
+ create mode 100644 instana-agent-1.0.4.tgz
+ create mode 100644 jenkins-1.1.10.tgz
+ create mode 100644 jenkins-1.1.11.tgz
+ create mode 100644 jenkins-1.1.6.tgz
+ create mode 100644 jenkins-1.1.7.tgz
+ create mode 100644 jenkins-1.1.8.tgz
+ create mode 100644 jenkins-1.1.9.tgz
+ create mode 100644 k8s-spot-termination-handler-1.2.0.tgz
+ create mode 100644 kafka-manager-2.1.3.tgz
+ create mode 100644 keycloak-4.10.1.tgz
+ create mode 100644 kiam-2.2.3.tgz
+ create mode 100644 kibana-2.3.0.tgz
+ create mode 100644 kong-0.10.0.tgz
+ rewrite kong-0.9.9.tgz (99%)
+ rewrite kube-ops-view-0.8.0.tgz (95%)
+ create mode 100644 kube-slack-0.4.2.tgz
+ create mode 100644 kube-state-metrics-1.2.0.tgz
+ create mode 100644 kubernetes-dashboard-1.4.1.tgz
+ create mode 100644 kubernetes-dashboard-1.5.0.tgz
+ create mode 100644 luigi-2.7.5.tgz
+ create mode 100644 mailhog-2.3.1.tgz
+ create mode 100644 metrics-server-2.7.1.tgz
+ create mode 100644 mongodb-5.16.3.tgz
+ create mode 100644 mysql-0.16.0.tgz
+ create mode 100644 mysql-0.17.0.tgz
+ create mode 100644 node-red-1.2.1.tgz
+ create mode 100644 odoo-7.0.0.tgz
+ create mode 100644 opa-1.4.0.tgz
+ create mode 100644 opa-1.4.1.tgz
+ create mode 100644 openebs-0.8.5.tgz
+ create mode 100644 travis_wait_2107.log
+To github.com:babyshen/helm-charts-mirror.git
+   1b4df37..b5650ad  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-05-01 04:28:21] openvpn-3.12.3.tgz update done.
+[2019-05-01 04:28:21] openvpn-3.12.2.tgz update done.
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] orangehrm-4.3.2.tgz update done.
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:24] spend time is: 310
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:34] spend time is: 320
+[2019-05-01 04:28:41] parse-6.2.4.tgz update done.
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:44] spend time is: 330
+[2019-05-01 04:28:50] phabricator-4.2.7.tgz update done.
+[2019-05-01 04:28:50] phabricator-4.2.6.tgz update done.
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:28:54] spend time is: 340
+[2019-05-01 04:29:02] phpbb-4.3.1.tgz update done.
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:04] spend time is: 350
+[2019-05-01 04:29:09] postgresql-3.18.3.tgz update done.
+[2019-05-01 04:29:09] postgresql-3.18.2.tgz update done.
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:14] spend time is: 360
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:24] spend time is: 370
+[2019-05-01 04:29:30] prometheus-8.10.3.tgz update done.
+[2019-05-01 04:29:30] prometheus-8.10.2.tgz update done.
+[2019-05-01 04:29:30] prometheus-8.10.1.tgz update done.
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:34] spend time is: 380
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:44] spend time is: 390
+[2019-05-01 04:29:45] prometheus-adapter-v0.5.0.tgz update done.
+[2019-05-01 04:29:45] prometheus-adapter-v0.4.2.tgz update done.
+[2019-05-01 04:29:47] prometheus-blackbox-exporter-0.3.0.tgz update done.
+[2019-05-01 04:29:49] prometheus-mongodb-exporter-2.0.0.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.5.0.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.4.1.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.4.0.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.3.0.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.2.0.tgz update done.
+[2019-05-01 04:29:53] prometheus-operator-5.1.0.tgz update done.
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:29:54] spend time is: 400
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:04] spend time is: 410
+[2019-05-01 04:30:05] prometheus-rabbitmq-exporter-0.4.1.tgz update done.
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:14] spend time is: 420
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:24] spend time is: 430
+[2019-05-01 04:30:26] redis-7.0.0.tgz update done.
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:34] spend time is: 440
+[2019-05-01 04:30:40] redis-ha-3.4.1.tgz update done.
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:44] spend time is: 450
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:30:54] spend time is: 460
+[2019-05-01 04:31:01] sematext-agent-1.0.4.tgz update done.
+[2019-05-01 04:31:03] sentry-1.3.4.tgz update done.
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:04] spend time is: 470
+[2019-05-01 04:31:07] socat-tunneller-0.1.0.tgz update done.
+[2019-05-01 04:31:07] sonarqube-1.0.0.tgz update done.
+[2019-05-01 04:31:08] sonarqube-0.16.1.tgz update done.
+[2019-05-01 04:31:08] sonarqube-0.15.2.tgz update done.
+[2019-05-01 04:31:08] sonarqube-0.15.1.tgz update done.
+[2019-05-01 04:31:08] sonarqube-0.15.0.tgz update done.
+[2019-05-01 04:31:13] sonatype-nexus-1.18.0.tgz update done.
+[2019-05-01 04:31:13] sonatype-nexus-1.17.0.tgz update done.
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:14] spend time is: 480
+[2019-05-01 04:31:21] spinnaker-1.8.1.tgz update done.
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:24] spend time is: 490
+[2019-05-01 04:31:26] spring-cloud-data-flow-2.0.2.tgz update done.
+[2019-05-01 04:31:26] spring-cloud-data-flow-2.0.1.tgz update done.
+[2019-05-01 04:31:27] stackdriver-exporter-1.1.0.tgz update done.
+[2019-05-01 04:31:32] suitecrm-5.3.2.tgz update done.
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:34] spend time is: 500
+[2019-05-01 04:31:41] sysdig-1.4.4.tgz update done.
+[2019-05-01 04:31:43] telegraf-1.1.0.tgz update done.
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:44] spend time is: 510
+[2019-05-01 04:31:50] traefik-1.67.1.tgz update done.
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:31:54] spend time is: 520
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] unifi-0.4.1.tgz update done.
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:04] spend time is: 530
+[2019-05-01 04:32:06] velero-1.0.1.tgz update done.
+[2019-05-01 04:32:06] verdaccio-0.7.0.tgz update done.
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+[2019-05-01 04:32:14] spend time is: 540
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
