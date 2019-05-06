@@ -109,7 +109,7 @@
 {
   "name": "airflow",
   "version": "2.7.1",
-  "digest": "ba6afea8c24925059d02c77879d0bb82a90637f9972c56b58475552f30440f7e",
+  "digest": "63c17b1afa1ab91973fd6c4043ec72e3abc16a75158395747a3fb1981a034dac",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-2.7.1.tgz"
 }
 {
@@ -403,7 +403,7 @@
 {
   "name": "anchore-engine",
   "version": "0.13.0",
-  "digest": "18acd0e0f0ecc07f1af5aa57563cec2bbb3bb342e6fe0ca8c8c4de0a1e0ae12b",
+  "digest": "f5bbca3751ee048594dc5a60453bdbd3a0269c5f2a5250f4fcaebfe69edf1ef4",
   "url": "https://kubernetes-charts.storage.googleapis.com/anchore-engine-0.13.0.tgz"
 }
 {
@@ -2151,6 +2151,12 @@
   "version": "0.1.0",
   "digest": "75d0e6742add4081d8e45fe6df594beca9570365af48b6c1e6edfa773575bb45",
   "url": "https://kubernetes-charts.storage.googleapis.com/cluster-overprovisioner-0.1.0.tgz"
+}
+{
+  "name": "cockroachdb",
+  "version": "2.1.5",
+  "digest": "65f324125e53e60ab06b6794794edc68d24d2adf636c9d93418dd424d36c07ef",
+  "url": "https://kubernetes-charts.storage.googleapis.com/cockroachdb-2.1.5.tgz"
 }
 {
   "name": "cockroachdb",
@@ -4351,7 +4357,7 @@
 {
   "name": "distribution",
   "version": "0.4.2",
-  "digest": "ff011af7ebf84fb03d3bc99abde8c6d85e52ed10d6895209fa9070b808aff320",
+  "digest": "147c19593650f3fb5e665aae8893b740ba70ca5eb3093f2f3a33b73961558186",
   "url": "https://kubernetes-charts.storage.googleapis.com/distribution-0.4.2.tgz"
 }
 {
@@ -5719,7 +5725,7 @@
 {
   "name": "elastic-stack",
   "version": "1.6.0",
-  "digest": "24a214bdf35a300c2a7ddacb2c6cdf975640df0809af59094d3c36411ecdf870",
+  "digest": "a9075907b0a580d56cb64bbaf582f588e9888149c48bb22558963060b4565099",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.6.0.tgz"
 }
 {
@@ -5769,6 +5775,12 @@
   "version": "1.0.0",
   "digest": "71bb7909e90c891a34c1cf027148ea626272d94cc2a115c86190b3d7d45619a1",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.0.0.tgz"
+}
+{
+  "name": "elasticsearch",
+  "version": "1.26.1",
+  "digest": "4b028230554d3702b78635ed5d312a609624cb912b54421d2d6d54490febe5e1",
+  "url": "https://kubernetes-charts.storage.googleapis.com/elasticsearch-1.26.1.tgz"
 }
 {
   "name": "elasticsearch",
@@ -8839,7 +8851,7 @@
 {
   "name": "gitlab-ce",
   "version": "0.2.2",
-  "digest": "2ceca61491e2a64cd3e4ff0ec443468e9bee71be6871644cb6c8a8435b8e2c06",
+  "digest": "91b923d989bf7686fc9b489dedb1b7d235a4f7267dd9ca36d4f3428e91b9318c",
   "url": "https://kubernetes-charts.storage.googleapis.com/gitlab-ce-0.2.2.tgz"
 }
 {
@@ -8935,7 +8947,7 @@
 {
   "name": "gitlab-ee",
   "version": "0.2.2",
-  "digest": "43358a820918f0421b2118806c059d0a592782b0a10251998c8b5fedd3b500ec",
+  "digest": "2b6d773acd3f6cc7db818e55e46f66f791f58d7747c36fc356bb3248d6366d48",
   "url": "https://kubernetes-charts.storage.googleapis.com/gitlab-ee-0.2.2.tgz"
 }
 {
@@ -10201,7 +10213,7 @@
 {
   "name": "graylog",
   "version": "0.1.4",
-  "digest": "ee391f5d9fcdd2914957121dd7dd40cf5d871dc4aad504ad800e3cec2a23cd84",
+  "digest": "bb9d925b4109f6069c992ce64cc4e0f95ac1160217ed75e25ef1b82f4de6b05f",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-0.1.4.tgz"
 }
 {
@@ -11281,7 +11293,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.0",
-  "digest": "43be32cc9d8fe8729f9c582ba5e3de6fc8e7bccddc8a054b74e7f0e0f91b4b8d",
+  "digest": "c96f56ba11f3d865f460ddddf00366971ce9e6c5983b6d6ef3312e7206a46d13",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.0.tgz"
 }
 {
@@ -14443,7 +14455,7 @@
 {
   "name": "kube-ops-view",
   "version": "0.8.0",
-  "digest": "5fd05438632656a57e3e66a3a68a302888089026f3998a6c3aa5c2259ca6f12a",
+  "digest": "20fb22a8f909a872032d58ce702ce65fba75c0987400f10a46e32e15881f163d",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-0.8.0.tgz"
 }
 {
@@ -25380,6 +25392,12 @@
 }
 {
   "name": "phpbb",
+  "version": "4.3.2",
+  "digest": "e535f75a0c8d585aaa8c38039d028e04fd0bbee2ba1e2aa850d6d84f0623be58",
+  "url": "https://kubernetes-charts.storage.googleapis.com/phpbb-4.3.2.tgz"
+}
+{
+  "name": "phpbb",
   "version": "4.3.1",
   "digest": "15a71ba13344a5ef2071a6e0925233b0ccda4267910fe352f50ce39fa41baf8c",
   "url": "https://kubernetes-charts.storage.googleapis.com/phpbb-4.3.1.tgz"
@@ -28401,6 +28419,12 @@
   "version": "0.1.0",
   "digest": "f9cb0bfdaaf55f0328a01be05da63579aef404f7c97c3665a89d97a24673e729",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-node-exporter-0.1.0.tgz"
+}
+{
+  "name": "prometheus-operator",
+  "version": "5.5.1",
+  "digest": "a44e6f5bade47ab984dac237a7c93ab8aace17b1e2b4626aeeae73aa88f74981",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-operator-5.5.1.tgz"
 }
 {
   "name": "prometheus-operator",
@@ -32671,7 +32695,7 @@
 {
   "name": "sentry",
   "version": "1.3.4",
-  "digest": "fbc68966cf18df1c93ff7fe7c06ff86393b328366d3dcce70f2112bb9e9b130e",
+  "digest": "127a5377991811559facc2ecc85045232da6f306c8e694500bcb28c7a871050e",
   "url": "https://kubernetes-charts.storage.googleapis.com/sentry-1.3.4.tgz"
 }
 {
@@ -32923,7 +32947,7 @@
 {
   "name": "sonarqube",
   "version": "1.0.0",
-  "digest": "c785887b748c0744b82d39156108052e4e8c5bc84f7af40faa1022226a874a3d",
+  "digest": "9166b418bb331ef5c097ef1ad452671656ad9f841117b5e4ee711011323cdf07",
   "url": "https://kubernetes-charts.storage.googleapis.com/sonarqube-1.0.0.tgz"
 }
 {
@@ -36384,6 +36408,12 @@
 }
 {
   "name": "unifi",
+  "version": "0.4.2",
+  "digest": "9339ab50f909c9ad8cd9f2c26cd619e291b009e58edd21dc93068454a87e878a",
+  "url": "https://kubernetes-charts.storage.googleapis.com/unifi-0.4.2.tgz"
+}
+{
+  "name": "unifi",
   "version": "0.4.1",
   "digest": "60d4869b1796042a655b4be68b2e6df928a9a1103dd0d938392de0b4c33c9843",
   "url": "https://kubernetes-charts.storage.googleapis.com/unifi-0.4.1.tgz"
@@ -37501,7 +37531,7 @@
 {
   "name": "xray",
   "version": "0.4.2",
-  "digest": "7ce7b64e15056bd22a3e43c47861d3ec596eba2c6e8bbb01c351dd81c10faf9a",
+  "digest": "a18ca0d9c8644b5c704510afeed828e3f68dd459da43948192f5547fa5ce7052",
   "url": "https://kubernetes-charts.storage.googleapis.com/xray-0.4.2.tgz"
 }
 {
