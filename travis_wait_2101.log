@@ -378,3 +378,302 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 82c6c4a] Synchronizing completion at 2019-05-21
+ 21 files changed, 1380 insertions(+), 293 deletions(-)
+ rewrite airflow-2.8.2.tgz (60%)
+ create mode 100644 ambassador-2.6.0.tgz
+ create mode 100644 burrow-1.3.0.tgz
+ rewrite cloudserver-1.0.2.tgz (99%)
+ create mode 100644 cluster-autoscaler-0.13.2.tgz
+ create mode 100644 concourse-6.2.0.tgz
+ rewrite elastic-stack-1.6.0.tgz (98%)
+ create mode 100644 external-dns-1.7.6.tgz
+ rewrite graylog-1.1.0.tgz (63%)
+ create mode 100644 graylog-1.1.1.tgz
+ rewrite hlf-ca-1.1.6.tgz (99%)
+ create mode 100644 jaeger-operator-2.4.2.tgz
+ create mode 100644 jenkins-1.1.21.tgz
+ rewrite kube-ops-view-1.0.0.tgz (84%)
+ create mode 100644 magic-namespace-0.5.2.tgz
+ create mode 100644 metrics-server-2.8.0.tgz
+ create mode 100644 travis_wait_2101.log
+To github.com:babyshen/helm-charts-mirror.git
+   47d11a3..82c6c4a  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:06] spend time is: 310
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:16] spend time is: 320
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:26] spend time is: 330
+[2019-05-21 04:37:32] nextcloud-1.0.4.tgz update done.
+[2019-05-21 04:37:35] nginx-ingress-1.6.10.tgz update done.
+[2019-05-21 04:37:36] nginx-ingress-1.6.9.tgz update done.
+[2019-05-21 04:37:36] nginx-ingress-1.6.8.tgz update done.
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] nginx-ingress-1.6.7.tgz update done.
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:36] spend time is: 340
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:46] spend time is: 350
+[2019-05-21 04:37:51] oauth2-proxy-0.12.2.tgz update done.
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:37:56] spend time is: 360
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:06] spend time is: 370
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:16] spend time is: 380
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:26] spend time is: 390
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:36] spend time is: 400
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:46] spend time is: 410
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:38:56] spend time is: 420
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:06] spend time is: 430
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:16] spend time is: 440
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:26] spend time is: 450
+[2019-05-21 04:39:29] prometheus-8.11.3.tgz update done.
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:36] spend time is: 460
+[2019-05-21 04:39:45] prometheus-adapter-1.0.1.tgz update done.
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:46] spend time is: 470
+[2019-05-21 04:39:51] prometheus-node-exporter-1.5.0.tgz update done.
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:39:56] spend time is: 480
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:06] spend time is: 490
+[2019-05-21 04:40:10] rabbitmq-5.5.2.tgz update done.
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:16] spend time is: 500
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:26] spend time is: 510
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:36] spend time is: 520
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:46] spend time is: 530
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:40:56] spend time is: 540
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:06] spend time is: 550
+[2019-05-21 04:41:11] sematext-agent-1.0.6.tgz update done.
+[2019-05-21 04:41:13] sentry-1.3.6.tgz update done.
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:16] spend time is: 560
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:26] spend time is: 570
+[2019-05-21 04:41:33] spinnaker-1.10.0.tgz update done.
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:36] spend time is: 580
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:46] spend time is: 590
+[2019-05-21 04:41:56] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
