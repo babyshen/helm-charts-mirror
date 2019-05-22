@@ -1,0 +1,381 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38... restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 95 4830k   95 4616k    0     0   124M      0 --:--:-- --:--:-- --:--:--  121M100 4830k  100 4830k    0     0   127M      0 --:--:-- --:--:-- --:--:--  127M
+[2019-05-22 04:32:13] aerospike-0.2.6.tgz update done.
+[2019-05-22 04:32:13] aerospike-0.2.7.tgz update done.
+[2019-05-22 04:32:14] airflow-2.8.2.tgz update done.
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:19] spend time is: 40
+[2019-05-22 04:32:21] apm-server-2.1.2.tgz update done.
+[2019-05-22 04:32:27] atlantis-3.3.1.tgz update done.
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:29] spend time is: 50
+[2019-05-22 04:32:30] spend time is: 50
+[2019-05-22 04:32:36] chaoskube-3.1.0.tgz update done.
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:39] spend time is: 60
+[2019-05-22 04:32:44] cockroachdb-2.1.7.tgz update done.
+[2019-05-22 04:32:44] cockroachdb-2.1.8.tgz update done.
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] [2019-05-22 04:32:49] spend time is: 70
+spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:49] spend time is: 70
+[2019-05-22 04:32:50] spend time is: 70
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:32:59] spend time is: 80
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:09] spend time is: 90
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:19] spend time is: 100
+[2019-05-22 04:33:21] drone-2.0.0-rc.13.tgz update done.
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:29] spend time is: 110
+[2019-05-22 04:33:30] efs-provisioner-0.4.0.tgz update done.
+[2019-05-22 04:33:33] elastic-stack-1.6.0.tgz update done.
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:39] spend time is: 120
+[2019-05-22 04:33:43] external-dns-1.7.7.tgz update done.
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:49] spend time is: 130
+[2019-05-22 04:33:50] spend time is: 130
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:33:59] spend time is: 140
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:09] spend time is: 150
+[2019-05-22 04:34:10] spend time is: 150
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:19] spend time is: 160
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:29] spend time is: 170
+[2019-05-22 04:34:35] graylog-1.1.1.tgz update done.
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:39] spend time is: 180
+[2019-05-22 04:34:40] spend time is: 180
+[2019-05-22 04:34:40] hlf-ca-1.1.6.tgz update done.
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:49] spend time is: 190
+[2019-05-22 04:34:50] janusgraph-0.2.0.tgz update done.
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:34:59] spend time is: 200
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:09] spend time is: 210
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:19] spend time is: 220
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:29] spend time is: 230
+[2019-05-22 04:35:34] kube-ops-view-1.0.0.tgz update done.
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:39] spend time is: 240
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:49] spend time is: 250
+[2019-05-22 04:35:53] magento-5.0.1.tgz update done.
+[2019-05-22 04:35:53] magento-5.0.0.tgz update done.
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:35:59] spend time is: 260
+[2019-05-22 04:36:00] mariadb-6.1.0.tgz update done.
+[2019-05-22 04:36:00] spend time is: 260
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:09] spend time is: 270
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:19] spend time is: 280
+[2019-05-22 04:36:20] spend time is: 280
+[2019-05-22 04:36:20] spend time is: 280
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:29] spend time is: 290
+[2019-05-22 04:36:39] spend time is: 300
+[2019-05-22 04:36:39] spend time is: 300
+[2019-05-22 04:36:39] spend time is: 300
+[2019-05-22 04:36:39] spend time is: 300
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
