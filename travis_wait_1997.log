@@ -887,3 +887,162 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-05-30 04:45:03] sentry-1.4.0.tgz update done.
 [2019-05-30 04:45:04] spend time is: 600
 Already up to date.
+[gh-pages cd1b492] Synchronizing completion at 2019-05-30
+ 53 files changed, 496 insertions(+), 1 deletion(-)
+ create mode 100644 mongodb-5.17.2.tgz
+ create mode 100644 mongodb-5.17.3.tgz
+ create mode 100644 mongodb-5.17.4.tgz
+ create mode 100644 mongodb-replicaset-3.9.5.tgz
+ create mode 100644 moodle-4.2.3.tgz
+ create mode 100644 moodle-4.2.4.tgz
+ create mode 100644 nats-2.5.2.tgz
+ create mode 100644 nats-2.5.3.tgz
+ create mode 100644 nextcloud-1.1.0.tgz
+ create mode 100644 nextcloud-1.1.1.tgz
+ create mode 100644 nginx-ingress-1.6.14.tgz
+ create mode 100644 nginx-ingress-1.6.15.tgz
+ create mode 100644 nginx-ingress-1.6.16.tgz
+ create mode 100644 node-red-1.2.3.tgz
+ create mode 100644 odoo-8.0.2.tgz
+ create mode 100644 odoo-8.0.3.tgz
+ create mode 100644 opa-1.4.3.tgz
+ create mode 100644 opencart-4.4.2.tgz
+ create mode 100644 opencart-4.4.3.tgz
+ create mode 100644 orangehrm-4.3.3.tgz
+ create mode 100644 orangehrm-4.3.4.tgz
+ create mode 100644 osclass-4.3.1.tgz
+ create mode 100644 osclass-4.3.2.tgz
+ create mode 100644 owncloud-4.2.4.tgz
+ create mode 100644 parse-6.2.6.tgz
+ create mode 100644 parse-6.2.7.tgz
+ create mode 100644 phabricator-4.2.10.tgz
+ create mode 100644 phabricator-4.2.11.tgz
+ create mode 100644 phabricator-4.2.9.tgz
+ create mode 100644 phpbb-4.3.3.tgz
+ create mode 100644 phpbb-4.3.4.tgz
+ create mode 100644 phpmyadmin-2.2.1.tgz
+ create mode 100644 phpmyadmin-2.2.2.tgz
+ create mode 100644 postgresql-5.1.1.tgz
+ create mode 100644 postgresql-5.1.2.tgz
+ create mode 100644 prestashop-6.5.2.tgz
+ create mode 100644 prestashop-6.5.3.tgz
+ create mode 100644 prometheus-operator-5.10.5.tgz
+ create mode 100644 prometheus-operator-5.11.0.tgz
+ create mode 100644 rabbitmq-5.7.0.tgz
+ create mode 100644 rabbitmq-5.8.0.tgz
+ create mode 100644 rabbitmq-5.8.1.tgz
+ create mode 100644 rabbitmq-5.8.2.tgz
+ create mode 100644 redis-8.0.2.tgz
+ create mode 100644 redis-8.0.3.tgz
+ create mode 100644 redis-8.0.4.tgz
+ create mode 100644 redis-8.0.5.tgz
+ create mode 100644 redmine-10.0.1.tgz
+ create mode 100644 redmine-10.0.2.tgz
+ create mode 100644 sentry-1.4.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   fd7b5b0..cd1b492  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:14] spend time is: 610
+[2019-05-30 04:45:17] sonarqube-1.0.4.tgz update done.
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:24] spend time is: 620
+[2019-05-30 04:45:32] spinnaker-1.11.0.tgz update done.
+[2019-05-30 04:45:32] spinnaker-1.10.2.tgz update done.
+[2019-05-30 04:45:33] spinnaker-1.10.1.tgz update done.
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:34] spend time is: 630
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:44] spend time is: 640
+[2019-05-30 04:45:46] suitecrm-5.3.5.tgz update done.
+[2019-05-30 04:45:46] suitecrm-5.3.4.tgz update done.
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:54] spend time is: 650
+[2019-05-30 04:45:58] sysdig-1.4.8.tgz update done.
+[2019-05-30 04:46:03] testlink-4.3.2.tgz update done.
+[2019-05-30 04:46:03] testlink-4.3.1.tgz update done.
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:04] spend time is: 660
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:14] spend time is: 670
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:24] spend time is: 680
+[2019-05-30 04:46:28] velero-2.0.3.tgz update done.
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] weave-scope-1.1.1.tgz update done.
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:34] spend time is: 690
+[2019-05-30 04:46:35] wordpress-5.9.8.tgz update done.
+[2019-05-30 04:46:35] wordpress-5.9.7.tgz update done.
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:44] spend time is: 700
+[2019-05-30 04:46:49] xray-0.4.2.tgz update done.
+Already up to date.
