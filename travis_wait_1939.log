@@ -355,3 +355,274 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 11692bb] Synchronizing completion at 2019-06-14
+ 21 files changed, 1013 insertions(+), 299 deletions(-)
+ create mode 100644 airflow-3.0.0.tgz
+ create mode 100644 ambassador-2.8.2.tgz
+ rewrite anchore-engine-1.1.0.tgz (98%)
+ create mode 100644 anchore-engine-1.1.1.tgz
+ create mode 100644 concourse-6.4.0.tgz
+ create mode 100644 concourse-6.4.1.tgz
+ create mode 100644 drone-2.0.2.tgz
+ rewrite elastic-stack-1.7.0.tgz (98%)
+ create mode 100644 elasticsearch-1.28.4.tgz
+ create mode 100644 elasticsearch-1.28.5.tgz
+ rewrite graylog-1.1.2.tgz (63%)
+ create mode 100644 graylog-1.2.0.tgz
+ create mode 100644 jenkins-1.2.2.tgz
+ rewrite kong-0.12.1.tgz (99%)
+ rewrite kube-ops-view-1.0.1.tgz (98%)
+ create mode 100644 travis_wait_1939.log
+To github.com:babyshen/helm-charts-mirror.git
+   0a5cec5..11692bb  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:31] spend time is: 310
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:41] spend time is: 320
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:47:51] spend time is: 330
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:01] spend time is: 340
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:11] spend time is: 350
+[2019-06-14 04:48:12] mission-control-0.4.3.tgz update done.
+[2019-06-14 04:48:12] spend time is: 350
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:21] spend time is: 360
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:31] spend time is: 370
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:41] spend time is: 380
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:48:51] spend time is: 390
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:01] spend time is: 400
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:11] spend time is: 410
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:21] spend time is: 420
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:31] spend time is: 430
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:41] spend time is: 440
+[2019-06-14 04:49:42] spend time is: 440
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:49:51] spend time is: 450
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:01] spend time is: 460
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:11] spend time is: 470
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:21] spend time is: 480
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:31] spend time is: 490
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:41] spend time is: 500
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:50:51] spend time is: 510
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:01] spend time is: 520
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:11] spend time is: 530
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:21] spend time is: 540
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:31] spend time is: 550
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:41] spend time is: 560
+[2019-06-14 04:51:42] prometheus-cloudwatch-exporter-0.4.6.tgz update done.
+[2019-06-14 04:51:49] prometheus-operator-5.12.3.tgz update done.
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:51:51] spend time is: 570
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:01] spend time is: 580
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:11] spend time is: 590
+[2019-06-14 04:52:21] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
