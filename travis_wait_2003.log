@@ -303,3 +303,161 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages d833353] Synchronizing completion at 2019-06-17
+ 12 files changed, 715 insertions(+), 301 deletions(-)
+ rewrite airflow-3.0.0.tgz (98%)
+ rewrite distribution-0.4.2.tgz (99%)
+ rewrite elastic-stack-1.7.0.tgz (99%)
+ rewrite graylog-1.2.0.tgz (98%)
+ rewrite hlf-ca-1.1.6.tgz (99%)
+ rewrite kube-ops-view-1.0.1.tgz (99%)
+ create mode 100644 kube-slack-1.1.0.tgz
+ create mode 100644 travis_wait_2003.log
+To github.com:babyshen/helm-charts-mirror.git
+   64a0b01..d833353  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-17 04:49:23] spend time is: 310
+[2019-06-17 04:49:23] spend time is: 310
+[2019-06-17 04:49:23] spend time is: 310
+[2019-06-17 04:49:23] spend time is: 310
+[2019-06-17 04:49:23] spend time is: 310
+[2019-06-17 04:49:33] spend time is: 320
+[2019-06-17 04:49:33] spend time is: 320
+[2019-06-17 04:49:33] spend time is: 320
+[2019-06-17 04:49:33] spend time is: 320
+[2019-06-17 04:49:43] spend time is: 330
+[2019-06-17 04:49:43] spend time is: 330
+[2019-06-17 04:49:43] spend time is: 330
+[2019-06-17 04:49:43] spend time is: 330
+[2019-06-17 04:49:53] spend time is: 340
+[2019-06-17 04:49:53] spend time is: 340
+[2019-06-17 04:49:53] spend time is: 340
+[2019-06-17 04:49:53] spend time is: 340
+[2019-06-17 04:49:54] spend time is: 340
+[2019-06-17 04:50:03] spend time is: 350
+[2019-06-17 04:50:03] spend time is: 350
+[2019-06-17 04:50:03] spend time is: 350
+[2019-06-17 04:50:03] spend time is: 350
+[2019-06-17 04:50:04] spend time is: 350
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:13] spend time is: 360
+[2019-06-17 04:50:23] spend time is: 370
+[2019-06-17 04:50:23] spend time is: 370
+[2019-06-17 04:50:23] spend time is: 370
+[2019-06-17 04:50:23] spend time is: 370
+[2019-06-17 04:50:23] spend time is: 370
+[2019-06-17 04:50:33] spend time is: 380
+[2019-06-17 04:50:33] spend time is: 380
+[2019-06-17 04:50:33] spend time is: 380
+[2019-06-17 04:50:33] spend time is: 380
+[2019-06-17 04:50:33] spend time is: 380
+[2019-06-17 04:50:43] spend time is: 390
+[2019-06-17 04:50:43] spend time is: 390
+[2019-06-17 04:50:43] spend time is: 390
+[2019-06-17 04:50:43] spend time is: 390
+[2019-06-17 04:50:53] spend time is: 400
+[2019-06-17 04:50:53] spend time is: 400
+[2019-06-17 04:50:53] spend time is: 400
+[2019-06-17 04:50:53] spend time is: 400
+[2019-06-17 04:50:53] spend time is: 400
+[2019-06-17 04:51:03] spend time is: 410
+[2019-06-17 04:51:03] spend time is: 410
+[2019-06-17 04:51:03] spend time is: 410
+[2019-06-17 04:51:03] spend time is: 410
+[2019-06-17 04:51:03] spend time is: 410
+[2019-06-17 04:51:13] spend time is: 420
+[2019-06-17 04:51:13] spend time is: 420
+[2019-06-17 04:51:13] spend time is: 420
+[2019-06-17 04:51:13] spend time is: 420
+[2019-06-17 04:51:14] spend time is: 420
+[2019-06-17 04:51:18] minecraft-1.0.3.tgz update done.
+[2019-06-17 04:51:23] spend time is: 430
+[2019-06-17 04:51:23] spend time is: 430
+[2019-06-17 04:51:23] spend time is: 430
+[2019-06-17 04:51:23] spend time is: 430
+[2019-06-17 04:51:23] spend time is: 430
+[2019-06-17 04:51:33] spend time is: 440
+[2019-06-17 04:51:33] spend time is: 440
+[2019-06-17 04:51:33] spend time is: 440
+[2019-06-17 04:51:33] spend time is: 440
+[2019-06-17 04:51:33] spend time is: 440
+[2019-06-17 04:51:43] spend time is: 450
+[2019-06-17 04:51:43] spend time is: 450
+[2019-06-17 04:51:43] spend time is: 450
+[2019-06-17 04:51:43] spend time is: 450
+[2019-06-17 04:51:43] spend time is: 450
+[2019-06-17 04:51:53] spend time is: 460
+[2019-06-17 04:51:53] spend time is: 460
+[2019-06-17 04:51:53] spend time is: 460
+[2019-06-17 04:51:53] spend time is: 460
+[2019-06-17 04:51:54] spend time is: 460
+[2019-06-17 04:52:03] spend time is: 470
+[2019-06-17 04:52:03] spend time is: 470
+[2019-06-17 04:52:03] spend time is: 470
+[2019-06-17 04:52:03] spend time is: 470
+[2019-06-17 04:52:03] spend time is: 470
+[2019-06-17 04:52:13] spend time is: 480
+[2019-06-17 04:52:13] spend time is: 480
+[2019-06-17 04:52:13] spend time is: 480
+[2019-06-17 04:52:13] spend time is: 480
+[2019-06-17 04:52:13] spend time is: 480
+[2019-06-17 04:52:23] spend time is: 490
+[2019-06-17 04:52:23] spend time is: 490
+[2019-06-17 04:52:23] spend time is: 490
+[2019-06-17 04:52:23] spend time is: 490
+[2019-06-17 04:52:23] spend time is: 490
+[2019-06-17 04:52:33] spend time is: 500
+[2019-06-17 04:52:33] spend time is: 500
+[2019-06-17 04:52:33] spend time is: 500
+[2019-06-17 04:52:33] spend time is: 500
+[2019-06-17 04:52:33] spend time is: 500
+[2019-06-17 04:52:43] spend time is: 510
+[2019-06-17 04:52:43] spend time is: 510
+[2019-06-17 04:52:43] spend time is: 510
+[2019-06-17 04:52:43] spend time is: 510
+[2019-06-17 04:52:43] spend time is: 510
+[2019-06-17 04:52:53] spend time is: 520
+[2019-06-17 04:52:53] spend time is: 520
+[2019-06-17 04:52:53] spend time is: 520
+[2019-06-17 04:52:53] spend time is: 520
+[2019-06-17 04:53:03] spend time is: 530
+[2019-06-17 04:53:03] spend time is: 530
+[2019-06-17 04:53:03] spend time is: 530
+[2019-06-17 04:53:03] spend time is: 530
+[2019-06-17 04:53:11] nextcloud-1.3.0.tgz update done.
+[2019-06-17 04:53:13] spend time is: 540
+[2019-06-17 04:53:13] spend time is: 540
+[2019-06-17 04:53:13] spend time is: 540
+[2019-06-17 04:53:13] spend time is: 540
+[2019-06-17 04:53:14] spend time is: 540
+[2019-06-17 04:53:23] spend time is: 550
+[2019-06-17 04:53:23] spend time is: 550
+[2019-06-17 04:53:23] spend time is: 550
+[2019-06-17 04:53:23] spend time is: 550
+[2019-06-17 04:53:33] spend time is: 560
+[2019-06-17 04:53:33] spend time is: 560
+[2019-06-17 04:53:33] spend time is: 560
+[2019-06-17 04:53:33] spend time is: 560
+[2019-06-17 04:53:33] spend time is: 560
+[2019-06-17 04:53:43] spend time is: 570
+[2019-06-17 04:53:43] spend time is: 570
+[2019-06-17 04:53:43] spend time is: 570
+[2019-06-17 04:53:43] spend time is: 570
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:53:53] spend time is: 580
+[2019-06-17 04:54:03] spend time is: 590
+[2019-06-17 04:54:03] spend time is: 590
+[2019-06-17 04:54:03] spend time is: 590
+[2019-06-17 04:54:03] spend time is: 590
+[2019-06-17 04:54:03] spend time is: 590
+[2019-06-17 04:54:13] spend time is: 600
+Already up to date.
