@@ -262,3 +262,174 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages b3c4f32] Synchronizing completion at 2019-06-20
+ 27 files changed, 1969 insertions(+), 397 deletions(-)
+ rewrite airflow-3.0.0.tgz (99%)
+ create mode 100644 airflow-3.0.1.tgz
+ create mode 100644 bitcoind-0.2.2.tgz
+ create mode 100644 cerebro-1.1.0.tgz
+ create mode 100644 cockroachdb-2.1.10.tgz
+ create mode 100644 cockroachdb-2.1.11.tgz
+ create mode 100644 consul-3.6.3.tgz
+ create mode 100644 datadog-1.31.0.tgz
+ create mode 100644 datadog-1.31.1.tgz
+ create mode 100644 datadog-1.31.2.tgz
+ create mode 100644 efs-provisioner-0.6.0.tgz
+ rewrite elastic-stack-1.7.0.tgz (98%)
+ create mode 100644 external-dns-1.7.10.tgz
+ create mode 100644 falco-0.7.9.tgz
+ create mode 100644 grafana-3.4.3.tgz
+ create mode 100644 grafana-3.5.3.tgz
+ create mode 100644 grafana-3.5.4.tgz
+ rewrite graylog-1.2.0.tgz (99%)
+ create mode 100644 home-assistant-0.9.3.tgz
+ create mode 100644 influxdb-1.1.7.tgz
+ create mode 100644 jenkins-1.3.0.tgz
+ create mode 100644 jenkins-1.3.1.tgz
+ create mode 100644 travis_wait_1964.log
+To github.com:babyshen/helm-charts-mirror.git
+   127c8cf..b3c4f32  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-20 04:51:25] spend time is: 310
+[2019-06-20 04:51:25] spend time is: 310
+[2019-06-20 04:51:25] spend time is: 310
+[2019-06-20 04:51:25] spend time is: 310
+[2019-06-20 04:51:35] spend time is: 320
+[2019-06-20 04:51:35] spend time is: 320
+[2019-06-20 04:51:35] spend time is: 320
+[2019-06-20 04:51:35] spend time is: 320
+[2019-06-20 04:51:35] spend time is: 320
+[2019-06-20 04:51:45] spend time is: 330
+[2019-06-20 04:51:45] spend time is: 330
+[2019-06-20 04:51:45] spend time is: 330
+[2019-06-20 04:51:45] spend time is: 330
+[2019-06-20 04:51:45] spend time is: 330
+[2019-06-20 04:51:55] spend time is: 340
+[2019-06-20 04:51:55] spend time is: 340
+[2019-06-20 04:51:55] spend time is: 340
+[2019-06-20 04:51:55] spend time is: 340
+[2019-06-20 04:51:55] spend time is: 340
+[2019-06-20 04:52:05] spend time is: 350
+[2019-06-20 04:52:05] spend time is: 350
+[2019-06-20 04:52:05] spend time is: 350
+[2019-06-20 04:52:05] spend time is: 350
+[2019-06-20 04:52:05] spend time is: 350
+[2019-06-20 04:52:15] spend time is: 360
+[2019-06-20 04:52:15] spend time is: 360
+[2019-06-20 04:52:15] spend time is: 360
+[2019-06-20 04:52:15] spend time is: 360
+[2019-06-20 04:52:25] spend time is: 370
+[2019-06-20 04:52:25] spend time is: 370
+[2019-06-20 04:52:25] spend time is: 370
+[2019-06-20 04:52:25] spend time is: 370
+[2019-06-20 04:52:34] kibana-3.1.0.tgz update done.
+[2019-06-20 04:52:35] spend time is: 380
+[2019-06-20 04:52:35] spend time is: 380
+[2019-06-20 04:52:35] spend time is: 380
+[2019-06-20 04:52:35] spend time is: 380
+[2019-06-20 04:52:35] spend time is: 380
+[2019-06-20 04:52:45] spend time is: 390
+[2019-06-20 04:52:45] spend time is: 390
+[2019-06-20 04:52:45] spend time is: 390
+[2019-06-20 04:52:45] spend time is: 390
+[2019-06-20 04:52:49] kong-0.12.1.tgz update done.
+[2019-06-20 04:52:55] spend time is: 400
+[2019-06-20 04:52:55] spend time is: 400
+[2019-06-20 04:52:55] spend time is: 400
+[2019-06-20 04:52:55] spend time is: 400
+[2019-06-20 04:52:55] spend time is: 400
+[2019-06-20 04:53:05] kube-ops-view-1.0.1.tgz update done.
+[2019-06-20 04:53:05] spend time is: 410
+[2019-06-20 04:53:05] spend time is: 410
+[2019-06-20 04:53:05] spend time is: 410
+[2019-06-20 04:53:05] spend time is: 410
+[2019-06-20 04:53:15] spend time is: 420
+[2019-06-20 04:53:15] spend time is: 420
+[2019-06-20 04:53:15] spend time is: 420
+[2019-06-20 04:53:15] spend time is: 420
+[2019-06-20 04:53:25] spend time is: 430
+[2019-06-20 04:53:25] spend time is: 430
+[2019-06-20 04:53:25] spend time is: 430
+[2019-06-20 04:53:25] spend time is: 430
+[2019-06-20 04:53:25] spend time is: 430
+[2019-06-20 04:53:35] spend time is: 440
+[2019-06-20 04:53:35] spend time is: 440
+[2019-06-20 04:53:35] spend time is: 440
+[2019-06-20 04:53:35] spend time is: 440
+[2019-06-20 04:53:35] spend time is: 440
+[2019-06-20 04:53:45] spend time is: 450
+[2019-06-20 04:53:45] spend time is: 450
+[2019-06-20 04:53:45] spend time is: 450
+[2019-06-20 04:53:45] spend time is: 450
+[2019-06-20 04:53:49] locust-1.1.0.tgz update done.
+[2019-06-20 04:53:51] logdna-agent-1.0.1.tgz update done.
+[2019-06-20 04:53:55] spend time is: 460
+[2019-06-20 04:53:55] spend time is: 460
+[2019-06-20 04:53:55] spend time is: 460
+[2019-06-20 04:53:55] spend time is: 460
+[2019-06-20 04:53:55] spend time is: 460
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:05] spend time is: 470
+[2019-06-20 04:54:15] spend time is: 480
+[2019-06-20 04:54:15] mariadb-6.5.2.tgz update done.
+[2019-06-20 04:54:15] spend time is: 480
+[2019-06-20 04:54:16] mariadb-6.5.1.tgz update done.
+[2019-06-20 04:54:16] spend time is: 480
+[2019-06-20 04:54:16] mariadb-6.5.0.tgz update done.
+[2019-06-20 04:54:25] spend time is: 490
+[2019-06-20 04:54:25] spend time is: 490
+[2019-06-20 04:54:25] spend time is: 490
+[2019-06-20 04:54:25] spend time is: 490
+[2019-06-20 04:54:35] spend time is: 500
+[2019-06-20 04:54:35] spend time is: 500
+[2019-06-20 04:54:35] spend time is: 500
+[2019-06-20 04:54:35] spend time is: 500
+[2019-06-20 04:54:35] spend time is: 500
+[2019-06-20 04:54:45] spend time is: 510
+[2019-06-20 04:54:45] spend time is: 510
+[2019-06-20 04:54:45] spend time is: 510
+[2019-06-20 04:54:45] spend time is: 510
+[2019-06-20 04:54:55] spend time is: 520
+[2019-06-20 04:54:55] spend time is: 520
+[2019-06-20 04:54:55] spend time is: 520
+[2019-06-20 04:54:55] spend time is: 520
+[2019-06-20 04:54:56] spend time is: 520
+[2019-06-20 04:55:05] spend time is: 530
+[2019-06-20 04:55:05] spend time is: 530
+[2019-06-20 04:55:05] spend time is: 530
+[2019-06-20 04:55:05] spend time is: 530
+[2019-06-20 04:55:15] spend time is: 540
+[2019-06-20 04:55:15] spend time is: 540
+[2019-06-20 04:55:15] spend time is: 540
+[2019-06-20 04:55:15] spend time is: 540
+[2019-06-20 04:55:15] spend time is: 540
+[2019-06-20 04:55:25] spend time is: 550
+[2019-06-20 04:55:25] spend time is: 550
+[2019-06-20 04:55:25] spend time is: 550
+[2019-06-20 04:55:25] spend time is: 550
+[2019-06-20 04:55:25] spend time is: 550
+[2019-06-20 04:55:35] spend time is: 560
+[2019-06-20 04:55:35] spend time is: 560
+[2019-06-20 04:55:35] spend time is: 560
+[2019-06-20 04:55:35] spend time is: 560
+[2019-06-20 04:55:45] spend time is: 570
+[2019-06-20 04:55:45] spend time is: 570
+[2019-06-20 04:55:45] spend time is: 570
+[2019-06-20 04:55:45] spend time is: 570
+[2019-06-20 04:55:45] spend time is: 570
+[2019-06-20 04:55:47] mongodb-5.20.0.tgz update done.
+[2019-06-20 04:55:55] spend time is: 580
+[2019-06-20 04:55:55] spend time is: 580
+[2019-06-20 04:55:55] spend time is: 580
+[2019-06-20 04:55:55] spend time is: 580
+[2019-06-20 04:56:05] spend time is: 590
+[2019-06-20 04:56:05] spend time is: 590
+[2019-06-20 04:56:05] spend time is: 590
+[2019-06-20 04:56:05] spend time is: 590
+[2019-06-20 04:56:05] spend time is: 590
+[2019-06-20 04:56:15] spend time is: 600
+Already up to date.
