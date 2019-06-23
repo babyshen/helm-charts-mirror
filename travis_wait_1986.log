@@ -633,3 +633,197 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-06-23 04:58:10] spend time is: 590
 [2019-06-23 04:58:20] spend time is: 600
 Already up to date.
+[gh-pages 3c835d4] Synchronizing completion at 2019-06-23
+ 11 files changed, 310 insertions(+), 1 deletion(-)
+ create mode 100644 metallb-0.9.7.tgz
+ create mode 100644 metricbeat-1.7.0.tgz
+ create mode 100644 newrelic-infrastructure-0.13.0.tgz
+ create mode 100644 oauth2-proxy-0.13.0.tgz
+ create mode 100644 openebs-1.0.0.tgz
+ create mode 100644 postgresql-5.3.9.tgz
+ create mode 100644 prometheus-couchdb-exporter-0.1.1.tgz
+ create mode 100644 prometheus-mysql-exporter-0.4.0.tgz
+ create mode 100644 prometheus-operator-5.12.4.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   5dc677d..3c835d4  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-23 04:58:27] prometheus-rabbitmq-exporter-0.5.1.tgz update done.
+[2019-06-23 04:58:29] prometheus-redis-exporter-2.0.1.tgz update done.
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:30] spend time is: 610
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:40] spend time is: 620
+[2019-06-23 04:58:49] rabbitmq-ha-1.27.2.tgz update done.
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:50] spend time is: 630
+[2019-06-23 04:58:57] redis-8.0.11.tgz update done.
+[2019-06-23 04:58:57] redis-8.0.10.tgz update done.
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:00] spend time is: 640
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:10] spend time is: 650
+[2019-06-23 04:59:11] spend time is: 650
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:20] spend time is: 660
+[2019-06-23 04:59:21] redmine-10.0.6.tgz update done.
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:30] spend time is: 670
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:40] spend time is: 680
+[2019-06-23 04:59:43] sematext-agent-1.0.9.tgz update done.
+[2019-06-23 04:59:46] sentry-1.5.1.tgz update done.
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:50] spend time is: 690
+[2019-06-23 04:59:53] sonarqube-2.0.0.tgz update done.
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:00] spend time is: 700
+[2019-06-23 05:00:08] spark-history-server-1.0.1.tgz update done.
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:10] spinnaker-1.12.0.tgz update done.
+[2019-06-23 05:00:10] spend time is: 710
+[2019-06-23 05:00:11] spinnaker-1.11.3.tgz update done.
+[2019-06-23 05:00:19] spring-cloud-data-flow-2.2.1.tgz update done.
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:20] spend time is: 720
+[2019-06-23 05:00:22] stolon-1.1.2.tgz update done.
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:30] spend time is: 730
+[2019-06-23 05:00:40] sysdig-1.4.10.tgz update done.
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:40] spend time is: 740
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:50] spend time is: 750
+[2019-06-23 05:00:52] traefik-1.69.1.tgz update done.
+[2019-06-23 05:00:53] traefik-1.69.0.tgz update done.
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:00] spend time is: 760
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:10] spend time is: 770
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:20] spend time is: 780
+[2019-06-23 05:01:22] wordpress-5.12.4.tgz update done.
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+[2019-06-23 05:01:30] spend time is: 790
+Already up to date.
