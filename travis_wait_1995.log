@@ -349,3 +349,282 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 6b8227e9d90eb81b49a39b610daa669de2c76650.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-3.0.2.tgz
+	chart-list.json
+	elastic-stack-1.8.0.tgz
+	graylog-1.2.0.tgz
+	index.yaml
+	janusgraph-0.2.0.tgz
+	kube-ops-view-1.0.1.tgz
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	apm-server-2.1.4.tgz
+	atlantis-3.6.1.tgz
+	cerebro-1.1.1.tgz
+	chronograf-1.0.3.tgz
+	clamav-1.0.1.tgz
+	cluster-autoscaler-0.14.0.tgz
+	cluster-autoscaler-0.14.1.tgz
+	cluster-autoscaler-0.14.2.tgz
+	collabora-code-1.0.3.tgz
+	concourse-7.0.1.tgz
+	elasticsearch-1.29.1.tgz
+	elasticsearch-exporter-1.5.0.tgz
+	express-gateway-1.6.0.tgz
+	external-dns-1.8.3.tgz
+	falco-0.8.0.tgz
+	fluent-bit-2.1.0.tgz
+	fluent-bit-2.1.1.tgz
+	ghost-6.7.24.tgz
+	grafana-3.5.5.tgz
+	hadoop-1.1.1.tgz
+	heapster-1.0.0.tgz
+	influxdb-1.1.8.tgz
+	influxdb-1.1.9.tgz
+	janusgraph-0.2.1.tgz
+	jenkins-1.3.3.tgz
+	kapacitor-1.1.3.tgz
+	kiam-2.4.1.tgz
+	kube-ops-view-1.1.0.tgz
+	kube2iam-1.0.1.tgz
+	kubernetes-dashboard-1.5.3.tgz
+	travis_wait_1995.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 6b8227e9d90eb81b49a39b610daa669de2c76650
+output, run
+$ git reset --hard
+to recover.
+[gh-pages d467ae2] Synchronizing completion at 2019-06-28
+ 39 files changed, 2315 insertions(+), 291 deletions(-)
+ rewrite airflow-3.0.2.tgz (96%)
+ create mode 100644 apm-server-2.1.4.tgz
+ create mode 100644 atlantis-3.6.1.tgz
+ create mode 100644 cerebro-1.1.1.tgz
+ create mode 100644 chronograf-1.0.3.tgz
+ create mode 100644 clamav-1.0.1.tgz
+ create mode 100644 cluster-autoscaler-0.14.0.tgz
+ create mode 100644 cluster-autoscaler-0.14.1.tgz
+ create mode 100644 cluster-autoscaler-0.14.2.tgz
+ create mode 100644 collabora-code-1.0.3.tgz
+ create mode 100644 concourse-7.0.1.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 elasticsearch-1.29.1.tgz
+ create mode 100644 elasticsearch-exporter-1.5.0.tgz
+ create mode 100644 express-gateway-1.6.0.tgz
+ create mode 100644 external-dns-1.8.3.tgz
+ create mode 100644 falco-0.8.0.tgz
+ create mode 100644 fluent-bit-2.1.0.tgz
+ create mode 100644 fluent-bit-2.1.1.tgz
+ create mode 100644 ghost-6.7.24.tgz
+ create mode 100644 grafana-3.5.5.tgz
+ rewrite graylog-1.2.0.tgz (99%)
+ create mode 100644 hadoop-1.1.1.tgz
+ create mode 100644 heapster-1.0.0.tgz
+ create mode 100644 influxdb-1.1.8.tgz
+ create mode 100644 influxdb-1.1.9.tgz
+ create mode 100644 janusgraph-0.2.1.tgz
+ create mode 100644 jenkins-1.3.3.tgz
+ create mode 100644 kapacitor-1.1.3.tgz
+ create mode 100644 kiam-2.4.1.tgz
+ rewrite kube-ops-view-1.0.1.tgz (99%)
+ create mode 100644 kube-ops-view-1.1.0.tgz
+ create mode 100644 kube2iam-1.0.1.tgz
+ create mode 100644 kubernetes-dashboard-1.5.3.tgz
+ create mode 100644 travis_wait_1995.log
+To github.com:babyshen/helm-charts-mirror.git
+   6b8227e..d467ae2  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-28 04:55:48] kuberos-0.2.1.tgz update done.
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:50] spend time is: 310
+[2019-06-28 04:55:51] kured-1.3.0.tgz update done.
+[2019-06-28 04:55:57] logstash-2.1.0.tgz update done.
+[2019-06-28 04:55:57] logstash-2.0.0.tgz update done.
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:00] spend time is: 320
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:10] spend time is: 330
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:20] spend time is: 340
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:30] spend time is: 350
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:40] spend time is: 360
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:56:50] spend time is: 370
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:00] spend time is: 380
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:10] spend time is: 390
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:20] spend time is: 400
+[2019-06-28 04:57:25] mongodb-5.20.1.tgz update done.
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:30] spend time is: 410
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:40] spend time is: 420
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:57:50] spend time is: 430
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:00] spend time is: 440
+[2019-06-28 04:58:10] spend time is: 450
+[2019-06-28 04:58:10] spend time is: 450
+[2019-06-28 04:58:10] mysql-1.2.1.tgz update done.
+[2019-06-28 04:58:10] spend time is: 450
+[2019-06-28 04:58:10] spend time is: 450
+[2019-06-28 04:58:10] spend time is: 450
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:20] spend time is: 460
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:30] spend time is: 470
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:40] spend time is: 480
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:58:50] spend time is: 490
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:00] spend time is: 500
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:10] spend time is: 510
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:20] spend time is: 520
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:30] spend time is: 530
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:40] spend time is: 540
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 04:59:50] spend time is: 550
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:00] spend time is: 560
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:10] spend time is: 570
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:20] spend time is: 580
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:30] spend time is: 590
+[2019-06-28 05:00:40] spend time is: 600
+Already up to date.
