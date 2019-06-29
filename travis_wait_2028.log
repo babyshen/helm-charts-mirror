@@ -414,3 +414,148 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-06-29 05:01:12] spend time is: 590
 [2019-06-29 05:01:22] spend time is: 600
 Already up to date.
+[gh-pages ea75b8e] Synchronizing completion at 2019-06-29
+ 7 files changed, 156 insertions(+), 1 deletion(-)
+ create mode 100644 kiam-2.4.2.tgz
+ rewrite kube-ops-view-1.1.0.tgz (98%)
+ create mode 100644 kubernetes-dashboard-1.6.0.tgz
+ create mode 100644 metabase-0.6.0.tgz
+ create mode 100644 minio-2.4.17.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   50e9872..ea75b8e  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-29 05:01:32] spend time is: 610
+[2019-06-29 05:01:32] spend time is: 610
+[2019-06-29 05:01:32] spend time is: 610
+[2019-06-29 05:01:32] spend time is: 610
+[2019-06-29 05:01:42] spend time is: 620
+[2019-06-29 05:01:42] spend time is: 620
+[2019-06-29 05:01:42] spend time is: 620
+[2019-06-29 05:01:42] spend time is: 620
+[2019-06-29 05:01:52] spend time is: 630
+[2019-06-29 05:01:52] spend time is: 630
+[2019-06-29 05:01:52] spend time is: 630
+[2019-06-29 05:01:52] spend time is: 630
+[2019-06-29 05:02:02] spend time is: 640
+[2019-06-29 05:02:02] spend time is: 640
+[2019-06-29 05:02:02] spend time is: 640
+[2019-06-29 05:02:02] spend time is: 640
+[2019-06-29 05:02:10] nats-3.0.0.tgz update done.
+[2019-06-29 05:02:12] spend time is: 650
+[2019-06-29 05:02:12] spend time is: 650
+[2019-06-29 05:02:12] spend time is: 650
+[2019-06-29 05:02:12] spend time is: 650
+[2019-06-29 05:02:22] spend time is: 660
+[2019-06-29 05:02:22] spend time is: 660
+[2019-06-29 05:02:22] spend time is: 660
+[2019-06-29 05:02:22] spend time is: 660
+[2019-06-29 05:02:32] spend time is: 670
+[2019-06-29 05:02:32] spend time is: 670
+[2019-06-29 05:02:32] spend time is: 670
+[2019-06-29 05:02:32] spend time is: 670
+[2019-06-29 05:02:32] spend time is: 670
+[2019-06-29 05:02:42] spend time is: 680
+[2019-06-29 05:02:42] spend time is: 680
+[2019-06-29 05:02:42] spend time is: 680
+[2019-06-29 05:02:42] spend time is: 680
+[2019-06-29 05:02:52] spend time is: 690
+[2019-06-29 05:02:52] spend time is: 690
+[2019-06-29 05:02:52] spend time is: 690
+[2019-06-29 05:02:52] spend time is: 690
+[2019-06-29 05:03:02] spend time is: 700
+[2019-06-29 05:03:02] spend time is: 700
+[2019-06-29 05:03:02] spend time is: 700
+[2019-06-29 05:03:02] spend time is: 700
+[2019-06-29 05:03:12] spend time is: 710
+[2019-06-29 05:03:12] spend time is: 710
+[2019-06-29 05:03:12] spend time is: 710
+[2019-06-29 05:03:12] spend time is: 710
+[2019-06-29 05:03:12] spend time is: 710
+[2019-06-29 05:03:15] odoo-8.1.4.tgz update done.
+[2019-06-29 05:03:22] spend time is: 720
+[2019-06-29 05:03:22] spend time is: 720
+[2019-06-29 05:03:22] spend time is: 720
+[2019-06-29 05:03:22] spend time is: 720
+[2019-06-29 05:03:22] spend time is: 720
+[2019-06-29 05:03:32] spend time is: 730
+[2019-06-29 05:03:32] spend time is: 730
+[2019-06-29 05:03:32] spend time is: 730
+[2019-06-29 05:03:32] spend time is: 730
+[2019-06-29 05:03:42] spend time is: 740
+[2019-06-29 05:03:42] spend time is: 740
+[2019-06-29 05:03:42] spend time is: 740
+[2019-06-29 05:03:42] spend time is: 740
+[2019-06-29 05:03:52] spend time is: 750
+[2019-06-29 05:03:52] spend time is: 750
+[2019-06-29 05:03:52] spend time is: 750
+[2019-06-29 05:03:52] spend time is: 750
+[2019-06-29 05:03:52] spend time is: 750
+[2019-06-29 05:03:54] openldap-1.1.0.tgz update done.
+[2019-06-29 05:04:02] spend time is: 760
+[2019-06-29 05:04:02] spend time is: 760
+[2019-06-29 05:04:02] spend time is: 760
+[2019-06-29 05:04:02] spend time is: 760
+[2019-06-29 05:04:12] spend time is: 770
+[2019-06-29 05:04:12] spend time is: 770
+[2019-06-29 05:04:12] spend time is: 770
+[2019-06-29 05:04:12] spend time is: 770
+[2019-06-29 05:04:12] spend time is: 770
+[2019-06-29 05:04:22] spend time is: 780
+[2019-06-29 05:04:22] spend time is: 780
+[2019-06-29 05:04:22] spend time is: 780
+[2019-06-29 05:04:22] spend time is: 780
+[2019-06-29 05:04:32] spend time is: 790
+[2019-06-29 05:04:32] spend time is: 790
+[2019-06-29 05:04:32] spend time is: 790
+[2019-06-29 05:04:32] spend time is: 790
+[2019-06-29 05:04:32] spend time is: 790
+[2019-06-29 05:04:42] spend time is: 800
+[2019-06-29 05:04:42] spend time is: 800
+[2019-06-29 05:04:42] spend time is: 800
+[2019-06-29 05:04:42] spend time is: 800
+[2019-06-29 05:04:52] spend time is: 810
+[2019-06-29 05:04:52] spend time is: 810
+[2019-06-29 05:04:52] spend time is: 810
+[2019-06-29 05:04:52] spend time is: 810
+[2019-06-29 05:04:52] spend time is: 810
+[2019-06-29 05:05:02] spend time is: 820
+[2019-06-29 05:05:02] spend time is: 820
+[2019-06-29 05:05:02] spend time is: 820
+[2019-06-29 05:05:02] spend time is: 820
+[2019-06-29 05:05:12] spend time is: 830
+[2019-06-29 05:05:12] spend time is: 830
+[2019-06-29 05:05:12] spend time is: 830
+[2019-06-29 05:05:12] spend time is: 830
+[2019-06-29 05:05:12] spend time is: 830
+[2019-06-29 05:05:22] spend time is: 840
+[2019-06-29 05:05:22] spend time is: 840
+[2019-06-29 05:05:22] spend time is: 840
+[2019-06-29 05:05:22] spend time is: 840
+[2019-06-29 05:05:22] spend time is: 840
+[2019-06-29 05:05:32] spend time is: 850
+[2019-06-29 05:05:32] spend time is: 850
+[2019-06-29 05:05:32] spend time is: 850
+[2019-06-29 05:05:32] spend time is: 850
+[2019-06-29 05:05:33] spend time is: 850
+[2019-06-29 05:05:42] spend time is: 860
+[2019-06-29 05:05:42] spend time is: 860
+[2019-06-29 05:05:42] spend time is: 860
+[2019-06-29 05:05:42] spend time is: 860
+[2019-06-29 05:05:42] spend time is: 860
+[2019-06-29 05:05:52] spend time is: 870
+[2019-06-29 05:05:52] spend time is: 870
+[2019-06-29 05:05:52] spend time is: 870
+[2019-06-29 05:05:52] spend time is: 870
+[2019-06-29 05:05:52] spend time is: 870
+[2019-06-29 05:06:02] spend time is: 880
+[2019-06-29 05:06:02] spend time is: 880
+[2019-06-29 05:06:02] spend time is: 880
+[2019-06-29 05:06:02] spend time is: 880
+[2019-06-29 05:06:02] spend time is: 880
+[2019-06-29 05:06:12] spend time is: 890
+[2019-06-29 05:06:12] spend time is: 890
+[2019-06-29 05:06:12] spend time is: 890
+[2019-06-29 05:06:12] spend time is: 890
+[2019-06-29 05:06:12] spend time is: 890
+[2019-06-29 05:06:22] spend time is: 900
+Already up to date.
