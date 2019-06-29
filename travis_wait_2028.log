@@ -259,3 +259,158 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 50e9872] Synchronizing completion at 2019-06-29
+ 14 files changed, 1126 insertions(+), 295 deletions(-)
+ create mode 100644 dex-1.5.0.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 external-dns-1.9.0.tgz
+ create mode 100644 falco-0.9.0.tgz
+ create mode 100644 fluent-bit-2.2.0.tgz
+ create mode 100644 grafana-3.5.6.tgz
+ rewrite graylog-1.2.0.tgz (62%)
+ create mode 100644 jaeger-operator-2.7.1.tgz
+ create mode 100644 travis_wait_2028.log
+To github.com:babyshen/helm-charts-mirror.git
+   dfe0b90..50e9872  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-06-29 04:56:32] spend time is: 310
+[2019-06-29 04:56:32] spend time is: 310
+[2019-06-29 04:56:32] spend time is: 310
+[2019-06-29 04:56:32] spend time is: 310
+[2019-06-29 04:56:32] spend time is: 310
+[2019-06-29 04:56:42] spend time is: 320
+[2019-06-29 04:56:42] spend time is: 320
+[2019-06-29 04:56:42] spend time is: 320
+[2019-06-29 04:56:42] spend time is: 320
+[2019-06-29 04:56:52] spend time is: 330
+[2019-06-29 04:56:52] spend time is: 330
+[2019-06-29 04:56:52] spend time is: 330
+[2019-06-29 04:56:52] spend time is: 330
+[2019-06-29 04:56:52] spend time is: 330
+[2019-06-29 04:57:02] spend time is: 340
+[2019-06-29 04:57:02] spend time is: 340
+[2019-06-29 04:57:02] spend time is: 340
+[2019-06-29 04:57:02] spend time is: 340
+[2019-06-29 04:57:02] spend time is: 340
+[2019-06-29 04:57:12] spend time is: 350
+[2019-06-29 04:57:12] spend time is: 350
+[2019-06-29 04:57:12] spend time is: 350
+[2019-06-29 04:57:12] spend time is: 350
+[2019-06-29 04:57:12] spend time is: 350
+[2019-06-29 04:57:22] spend time is: 360
+[2019-06-29 04:57:22] spend time is: 360
+[2019-06-29 04:57:22] spend time is: 360
+[2019-06-29 04:57:22] spend time is: 360
+[2019-06-29 04:57:23] kiam-2.4.2.tgz update done.
+[2019-06-29 04:57:23] spend time is: 360
+[2019-06-29 04:57:32] spend time is: 370
+[2019-06-29 04:57:32] spend time is: 370
+[2019-06-29 04:57:32] spend time is: 370
+[2019-06-29 04:57:32] spend time is: 370
+[2019-06-29 04:57:42] spend time is: 380
+[2019-06-29 04:57:42] spend time is: 380
+[2019-06-29 04:57:42] spend time is: 380
+[2019-06-29 04:57:42] spend time is: 380
+[2019-06-29 04:57:42] spend time is: 380
+[2019-06-29 04:57:52] spend time is: 390
+[2019-06-29 04:57:52] spend time is: 390
+[2019-06-29 04:57:52] spend time is: 390
+[2019-06-29 04:57:52] spend time is: 390
+[2019-06-29 04:57:59] kube-ops-view-1.1.0.tgz update done.
+[2019-06-29 04:58:02] spend time is: 400
+[2019-06-29 04:58:02] spend time is: 400
+[2019-06-29 04:58:02] spend time is: 400
+[2019-06-29 04:58:02] spend time is: 400
+[2019-06-29 04:58:12] spend time is: 410
+[2019-06-29 04:58:12] spend time is: 410
+[2019-06-29 04:58:12] spend time is: 410
+[2019-06-29 04:58:12] spend time is: 410
+[2019-06-29 04:58:12] spend time is: 410
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:22] spend time is: 420
+[2019-06-29 04:58:23] spend time is: 420
+[2019-06-29 04:58:25] kubernetes-dashboard-1.6.0.tgz update done.
+[2019-06-29 04:58:32] spend time is: 430
+[2019-06-29 04:58:32] spend time is: 430
+[2019-06-29 04:58:32] spend time is: 430
+[2019-06-29 04:58:32] spend time is: 430
+[2019-06-29 04:58:42] spend time is: 440
+[2019-06-29 04:58:42] spend time is: 440
+[2019-06-29 04:58:42] spend time is: 440
+[2019-06-29 04:58:42] spend time is: 440
+[2019-06-29 04:58:52] spend time is: 450
+[2019-06-29 04:58:52] spend time is: 450
+[2019-06-29 04:58:52] spend time is: 450
+[2019-06-29 04:58:52] spend time is: 450
+[2019-06-29 04:58:52] spend time is: 450
+[2019-06-29 04:59:02] spend time is: 460
+[2019-06-29 04:59:02] spend time is: 460
+[2019-06-29 04:59:02] spend time is: 460
+[2019-06-29 04:59:02] spend time is: 460
+[2019-06-29 04:59:12] spend time is: 470
+[2019-06-29 04:59:12] spend time is: 470
+[2019-06-29 04:59:12] spend time is: 470
+[2019-06-29 04:59:12] spend time is: 470
+[2019-06-29 04:59:22] spend time is: 480
+[2019-06-29 04:59:22] spend time is: 480
+[2019-06-29 04:59:22] spend time is: 480
+[2019-06-29 04:59:22] spend time is: 480
+[2019-06-29 04:59:23] spend time is: 480
+[2019-06-29 04:59:32] spend time is: 490
+[2019-06-29 04:59:32] spend time is: 490
+[2019-06-29 04:59:32] spend time is: 490
+[2019-06-29 04:59:32] spend time is: 490
+[2019-06-29 04:59:32] spend time is: 490
+[2019-06-29 04:59:42] spend time is: 500
+[2019-06-29 04:59:42] spend time is: 500
+[2019-06-29 04:59:42] spend time is: 500
+[2019-06-29 04:59:42] spend time is: 500
+[2019-06-29 04:59:43] spend time is: 500
+[2019-06-29 04:59:52] spend time is: 510
+[2019-06-29 04:59:52] spend time is: 510
+[2019-06-29 04:59:52] spend time is: 510
+[2019-06-29 04:59:52] spend time is: 510
+[2019-06-29 05:00:02] spend time is: 520
+[2019-06-29 05:00:02] spend time is: 520
+[2019-06-29 05:00:02] spend time is: 520
+[2019-06-29 05:00:02] spend time is: 520
+[2019-06-29 05:00:08] metabase-0.6.0.tgz update done.
+[2019-06-29 05:00:12] spend time is: 530
+[2019-06-29 05:00:12] spend time is: 530
+[2019-06-29 05:00:12] spend time is: 530
+[2019-06-29 05:00:12] spend time is: 530
+[2019-06-29 05:00:22] spend time is: 540
+[2019-06-29 05:00:22] spend time is: 540
+[2019-06-29 05:00:22] spend time is: 540
+[2019-06-29 05:00:22] spend time is: 540
+[2019-06-29 05:00:22] spend time is: 540
+[2019-06-29 05:00:29] minio-2.4.17.tgz update done.
+[2019-06-29 05:00:32] spend time is: 550
+[2019-06-29 05:00:32] spend time is: 550
+[2019-06-29 05:00:32] spend time is: 550
+[2019-06-29 05:00:32] spend time is: 550
+[2019-06-29 05:00:42] spend time is: 560
+[2019-06-29 05:00:42] spend time is: 560
+[2019-06-29 05:00:42] spend time is: 560
+[2019-06-29 05:00:42] spend time is: 560
+[2019-06-29 05:00:42] spend time is: 560
+[2019-06-29 05:00:52] spend time is: 570
+[2019-06-29 05:00:52] spend time is: 570
+[2019-06-29 05:00:52] spend time is: 570
+[2019-06-29 05:00:52] spend time is: 570
+[2019-06-29 05:00:52] spend time is: 570
+[2019-06-29 05:01:02] spend time is: 580
+[2019-06-29 05:01:02] spend time is: 580
+[2019-06-29 05:01:02] spend time is: 580
+[2019-06-29 05:01:02] spend time is: 580
+[2019-06-29 05:01:12] spend time is: 590
+[2019-06-29 05:01:12] spend time is: 590
+[2019-06-29 05:01:12] spend time is: 590
+[2019-06-29 05:01:12] spend time is: 590
+[2019-06-29 05:01:12] spend time is: 590
+[2019-06-29 05:01:22] spend time is: 600
+Already up to date.
