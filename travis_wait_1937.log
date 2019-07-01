@@ -190,3 +190,234 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 94129d1] Synchronizing completion at 2019-07-01
+ 6 files changed, 580 insertions(+), 301 deletions(-)
+ rewrite elastic-stack-1.8.0.tgz (99%)
+ create mode 100644 travis_wait_1937.log
+To github.com:babyshen/helm-charts-mirror.git
+   4285683..94129d1  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-07-01 04:57:35] spend time is: 310
+[2019-07-01 04:57:35] spend time is: 310
+[2019-07-01 04:57:35] spend time is: 310
+[2019-07-01 04:57:35] spend time is: 310
+[2019-07-01 04:57:35] spend time is: 310
+[2019-07-01 04:57:45] spend time is: 320
+[2019-07-01 04:57:45] spend time is: 320
+[2019-07-01 04:57:45] spend time is: 320
+[2019-07-01 04:57:45] spend time is: 320
+[2019-07-01 04:57:45] spend time is: 320
+[2019-07-01 04:57:55] spend time is: 330
+[2019-07-01 04:57:55] spend time is: 330
+[2019-07-01 04:57:55] spend time is: 330
+[2019-07-01 04:57:55] spend time is: 330
+[2019-07-01 04:57:55] spend time is: 330
+[2019-07-01 04:58:05] spend time is: 340
+[2019-07-01 04:58:05] spend time is: 340
+[2019-07-01 04:58:05] spend time is: 340
+[2019-07-01 04:58:05] spend time is: 340
+[2019-07-01 04:58:05] spend time is: 340
+[2019-07-01 04:58:15] spend time is: 350
+[2019-07-01 04:58:15] spend time is: 350
+[2019-07-01 04:58:15] spend time is: 350
+[2019-07-01 04:58:15] spend time is: 350
+[2019-07-01 04:58:16] graylog-1.2.0.tgz update done.
+[2019-07-01 04:58:16] spend time is: 350
+[2019-07-01 04:58:25] spend time is: 360
+[2019-07-01 04:58:25] spend time is: 360
+[2019-07-01 04:58:25] spend time is: 360
+[2019-07-01 04:58:25] spend time is: 360
+[2019-07-01 04:58:25] spend time is: 360
+[2019-07-01 04:58:33] hlf-ca-1.1.6.tgz update done.
+[2019-07-01 04:58:35] spend time is: 370
+[2019-07-01 04:58:35] spend time is: 370
+[2019-07-01 04:58:35] spend time is: 370
+[2019-07-01 04:58:35] spend time is: 370
+[2019-07-01 04:58:35] spend time is: 370
+[2019-07-01 04:58:45] spend time is: 380
+[2019-07-01 04:58:45] spend time is: 380
+[2019-07-01 04:58:45] spend time is: 380
+[2019-07-01 04:58:45] spend time is: 380
+[2019-07-01 04:58:55] spend time is: 390
+[2019-07-01 04:58:55] spend time is: 390
+[2019-07-01 04:58:55] spend time is: 390
+[2019-07-01 04:58:55] spend time is: 390
+[2019-07-01 04:58:55] spend time is: 390
+[2019-07-01 04:59:03] janusgraph-0.2.1.tgz update done.
+[2019-07-01 04:59:05] spend time is: 400
+[2019-07-01 04:59:05] spend time is: 400
+[2019-07-01 04:59:05] spend time is: 400
+[2019-07-01 04:59:05] spend time is: 400
+[2019-07-01 04:59:15] spend time is: 410
+[2019-07-01 04:59:15] spend time is: 410
+[2019-07-01 04:59:15] spend time is: 410
+[2019-07-01 04:59:15] spend time is: 410
+[2019-07-01 04:59:15] spend time is: 410
+[2019-07-01 04:59:25] spend time is: 420
+[2019-07-01 04:59:25] spend time is: 420
+[2019-07-01 04:59:25] spend time is: 420
+[2019-07-01 04:59:25] spend time is: 420
+[2019-07-01 04:59:35] spend time is: 430
+[2019-07-01 04:59:35] spend time is: 430
+[2019-07-01 04:59:35] spend time is: 430
+[2019-07-01 04:59:35] spend time is: 430
+[2019-07-01 04:59:35] spend time is: 430
+[2019-07-01 04:59:45] spend time is: 440
+[2019-07-01 04:59:45] spend time is: 440
+[2019-07-01 04:59:45] spend time is: 440
+[2019-07-01 04:59:45] spend time is: 440
+[2019-07-01 04:59:55] spend time is: 450
+[2019-07-01 04:59:55] spend time is: 450
+[2019-07-01 04:59:55] spend time is: 450
+[2019-07-01 04:59:55] spend time is: 450
+[2019-07-01 04:59:55] spend time is: 450
+[2019-07-01 05:00:05] spend time is: 460
+[2019-07-01 05:00:05] spend time is: 460
+[2019-07-01 05:00:05] spend time is: 460
+[2019-07-01 05:00:05] spend time is: 460
+[2019-07-01 05:00:05] spend time is: 460
+[2019-07-01 05:00:15] spend time is: 470
+[2019-07-01 05:00:15] spend time is: 470
+[2019-07-01 05:00:15] spend time is: 470
+[2019-07-01 05:00:15] spend time is: 470
+[2019-07-01 05:00:15] spend time is: 470
+[2019-07-01 05:00:25] spend time is: 480
+[2019-07-01 05:00:25] spend time is: 480
+[2019-07-01 05:00:25] spend time is: 480
+[2019-07-01 05:00:25] spend time is: 480
+[2019-07-01 05:00:33] kiam-2.4.3.tgz update done.
+[2019-07-01 05:00:35] spend time is: 490
+[2019-07-01 05:00:35] spend time is: 490
+[2019-07-01 05:00:35] spend time is: 490
+[2019-07-01 05:00:35] spend time is: 490
+[2019-07-01 05:00:45] spend time is: 500
+[2019-07-01 05:00:45] spend time is: 500
+[2019-07-01 05:00:45] spend time is: 500
+[2019-07-01 05:00:45] spend time is: 500
+[2019-07-01 05:00:45] spend time is: 500
+[2019-07-01 05:00:55] spend time is: 510
+[2019-07-01 05:00:55] spend time is: 510
+[2019-07-01 05:00:55] spend time is: 510
+[2019-07-01 05:00:55] spend time is: 510
+[2019-07-01 05:00:56] spend time is: 510
+[2019-07-01 05:01:05] spend time is: 520
+[2019-07-01 05:01:05] spend time is: 520
+[2019-07-01 05:01:05] spend time is: 520
+[2019-07-01 05:01:05] spend time is: 520
+[2019-07-01 05:01:05] spend time is: 520
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2019-07-01 05:13:33] anchore-engine-1.1.1.tgz update done.
+[2019-07-01 05:13:35] spend time is: 1270
+[2019-07-01 05:13:35] spend time is: 1270
+[2019-07-01 05:13:35] spend time is: 1270
+[2019-07-01 05:13:35] spend time is: 1270
+[2019-07-01 05:13:35] spend time is: 1270
+[2019-07-01 05:13:45] spend time is: 1280
+[2019-07-01 05:13:45] spend time is: 1280
+[2019-07-01 05:13:45] spend time is: 1280
+[2019-07-01 05:13:45] spend time is: 1280
+[2019-07-01 05:13:45] spend time is: 1280
+[2019-07-01 05:13:55] spend time is: 1290
+[2019-07-01 05:13:55] spend time is: 1290
+[2019-07-01 05:13:55] spend time is: 1290
+[2019-07-01 05:13:55] spend time is: 1290
+[2019-07-01 05:13:55] spend time is: 1290
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+[2019-07-01 05:14:05] spend time is: 1300
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2019-07-01 05:14:29] magento-5.1.4.tgz update done.
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:35] spend time is: 1330
+[2019-07-01 05:14:45] spend time is: 1340
+[2019-07-01 05:14:45] spend time is: 1340
+[2019-07-01 05:14:45] spend time is: 1340
+[2019-07-01 05:14:45] spend time is: 1340
+[2019-07-01 05:14:55] spend time is: 1350
+[2019-07-01 05:14:55] spend time is: 1350
+[2019-07-01 05:14:55] spend time is: 1350
+[2019-07-01 05:14:55] spend time is: 1350
+[2019-07-01 05:15:05] spend time is: 1360
+[2019-07-01 05:15:05] spend time is: 1360
+[2019-07-01 05:15:05] spend time is: 1360
+[2019-07-01 05:15:05] spend time is: 1360
+[2019-07-01 05:15:15] spend time is: 1370
+[2019-07-01 05:15:15] spend time is: 1370
+[2019-07-01 05:15:15] spend time is: 1370
+[2019-07-01 05:15:15] spend time is: 1370
+[2019-07-01 05:15:25] spend time is: 1380
+[2019-07-01 05:15:25] spend time is: 1380
+[2019-07-01 05:15:25] spend time is: 1380
+[2019-07-01 05:15:25] spend time is: 1380
+[2019-07-01 05:15:25] spend time is: 1380
+[2019-07-01 05:15:35] spend time is: 1390
+[2019-07-01 05:15:35] spend time is: 1390
+[2019-07-01 05:15:35] spend time is: 1390
+[2019-07-01 05:15:35] spend time is: 1390
+[2019-07-01 05:15:35] spend time is: 1390
+[2019-07-01 05:15:45] spend time is: 1400
+[2019-07-01 05:15:45] spend time is: 1400
+[2019-07-01 05:15:45] spend time is: 1400
+[2019-07-01 05:15:45] spend time is: 1400
+[2019-07-01 05:15:55] spend time is: 1410
+[2019-07-01 05:15:55] spend time is: 1410
+[2019-07-01 05:15:55] spend time is: 1410
+[2019-07-01 05:15:55] spend time is: 1410
+[2019-07-01 05:16:05] spend time is: 1420
+[2019-07-01 05:16:05] spend time is: 1420
+[2019-07-01 05:16:05] spend time is: 1420
+[2019-07-01 05:16:05] spend time is: 1420
+[2019-07-01 05:16:05] spend time is: 1420
+[2019-07-01 05:16:15] spend time is: 1430
+[2019-07-01 05:16:15] spend time is: 1430
+[2019-07-01 05:16:15] spend time is: 1430
+[2019-07-01 05:16:15] spend time is: 1430
+[2019-07-01 05:16:15] spend time is: 1430
+[2019-07-01 05:16:25] spend time is: 1440
+[2019-07-01 05:16:25] spend time is: 1440
+[2019-07-01 05:16:25] spend time is: 1440
+[2019-07-01 05:16:25] spend time is: 1440
+[2019-07-01 05:16:35] spend time is: 1450
+[2019-07-01 05:16:35] spend time is: 1450
+[2019-07-01 05:16:35] spend time is: 1450
+[2019-07-01 05:16:35] spend time is: 1450
+[2019-07-01 05:16:45] spend time is: 1460
+[2019-07-01 05:16:45] spend time is: 1460
+[2019-07-01 05:16:45] spend time is: 1460
+[2019-07-01 05:16:45] spend time is: 1460
+[2019-07-01 05:16:45] spend time is: 1460
+[2019-07-01 05:16:55] spend time is: 1470
+[2019-07-01 05:16:55] spend time is: 1470
+[2019-07-01 05:16:55] spend time is: 1470
+[2019-07-01 05:16:55] spend time is: 1470
+[2019-07-01 05:16:55] spend time is: 1470
+[2019-07-01 05:17:05] spend time is: 1480
+[2019-07-01 05:17:05] spend time is: 1480
+[2019-07-01 05:17:05] spend time is: 1480
+[2019-07-01 05:17:05] spend time is: 1480
+[2019-07-01 05:17:05] spend time is: 1480
+[2019-07-01 05:17:15] spend time is: 1490
+[2019-07-01 05:17:15] spend time is: 1490
+[2019-07-01 05:17:15] spend time is: 1490
+[2019-07-01 05:17:15] spend time is: 1490
+[2019-07-01 05:17:15] spend time is: 1490
+[2019-07-01 05:17:25] spend time is: 1500
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
