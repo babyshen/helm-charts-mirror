@@ -1,0 +1,224 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 5365k  100 5365k    0     0  48.1M      0 --:--:-- --:--:-- --:--:-- 48.5M
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:26] spend time is: 50
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:36] spend time is: 60
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:46] spend time is: 70
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:54:56] spend time is: 80
+[2019-07-04 04:55:02] concourse-8.0.0.tgz update done.
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:06] spend time is: 90
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:16] spend time is: 100
+[2019-07-04 04:55:21] datadog-1.31.4.tgz update done.
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:26] spend time is: 110
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:36] spend time is: 120
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:46] spend time is: 130
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:55:56] spend time is: 140
+[2019-07-04 04:56:04] elastic-stack-1.8.0.tgz update done.
+[2019-07-04 04:56:05] elasticsearch-1.30.0.tgz update done.
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:06] spend time is: 150
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:16] spend time is: 160
+[2019-07-04 04:56:21] external-dns-2.0.0.tgz update done.
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+[2019-07-04 04:56:26] spend time is: 170
+curl: (7) Failed to connect to kubernetes-charts.storage.googleapis.com port 443: Connection timed out
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:36] spend time is: 180
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:46] spend time is: 190
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:56:56] spend time is: 200
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+[2019-07-04 04:57:06] spend time is: 210
+curl: (7) Failed to connect to kubernetes-charts.storage.googleapis.com port 443: Connection timed out
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:16] spend time is: 220
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:26] spend time is: 230
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+[2019-07-04 04:57:36] spend time is: 240
+curl: (7) Failed to connect to kubernetes-charts.storage.googleapis.com port 443: Connection timed out
+[2019-07-04 04:58:16] graylog-1.2.0.tgz update done.
+[2019-07-04 04:58:16] spend time is: 280
+[2019-07-04 04:58:16] spend time is: 280
+[2019-07-04 04:58:18] concourse-7.0.2.tgz update done.
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:26] spend time is: 290
+[2019-07-04 04:58:36] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
