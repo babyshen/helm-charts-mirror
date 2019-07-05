@@ -511,3 +511,209 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-07-05 05:03:58] spend time is: 590
 [2019-07-05 05:04:07] spend time is: 600
 Already up to date.
+[gh-pages 01e55a5] Synchronizing completion at 2019-07-05
+ 16 files changed, 210 insertions(+), 1 deletion(-)
+ create mode 100644 kong-0.14.0.tgz
+ create mode 100644 kong-0.14.1.tgz
+ create mode 100644 kube-hunter-1.0.3.tgz
+ rewrite kube-ops-view-1.1.0.tgz (83%)
+ create mode 100644 kube-state-metrics-1.6.5.tgz
+ create mode 100644 locust-1.1.1.tgz
+ create mode 100644 mariadb-6.5.4.tgz
+ create mode 100644 mariadb-6.5.5.tgz
+ create mode 100644 mediawiki-6.3.6.tgz
+ create mode 100644 minio-2.4.18.tgz
+ create mode 100644 mongodb-5.20.3.tgz
+ create mode 100644 mongodb-6.0.0.tgz
+ create mode 100644 mysql-1.2.2.tgz
+ create mode 100644 nginx-ingress-1.8.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   6a6bff1..01e55a5  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-07-05 05:04:13] orangehrm-4.4.4.tgz update done.
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:17] spend time is: 610
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:27] spend time is: 620
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:37] spend time is: 630
+[2019-07-05 05:04:45] parse-6.2.13.tgz update done.
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:47] spend time is: 640
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:04:57] spend time is: 650
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:07] spend time is: 660
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:17] spend time is: 670
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:27] spend time is: 680
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:37] spend time is: 690
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:47] spend time is: 700
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:05:57] spend time is: 710
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:07] spend time is: 720
+[2019-07-05 05:06:08] spend time is: 720
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:17] spend time is: 730
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:27] spend time is: 740
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:37] spend time is: 750
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:47] spend time is: 760
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:06:57] spend time is: 770
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:07] spend time is: 780
+[2019-07-05 05:07:08] spend time is: 780
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:17] spend time is: 790
+[2019-07-05 05:07:21] prometheus-pushgateway-0.4.1.tgz update done.
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:27] spend time is: 800
+[2019-07-05 05:07:31] rabbitmq-6.1.4.tgz update done.
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:37] spend time is: 810
+[2019-07-05 05:07:38] spend time is: 810
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:47] spend time is: 820
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:07:57] spend time is: 830
+[2019-07-05 05:08:05] redis-8.0.16.tgz update done.
+[2019-07-05 05:08:06] redis-8.0.15.tgz update done.
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:07] spend time is: 840
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:17] spend time is: 850
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:27] spend time is: 860
+[2019-07-05 05:08:37] spend time is: 870
+[2019-07-05 05:08:37] spend time is: 870
+[2019-07-05 05:08:37] spend time is: 870
+[2019-07-05 05:08:37] spend time is: 870
+[2019-07-05 05:08:37] spend time is: 870
+[2019-07-05 05:08:38] spend time is: 870
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:47] spend time is: 880
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:08:57] spend time is: 890
+[2019-07-05 05:09:07] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
