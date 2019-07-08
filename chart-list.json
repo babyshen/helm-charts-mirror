@@ -139,7 +139,7 @@
 {
   "name": "airflow",
   "version": "3.0.2",
-  "digest": "a0362d8f92f9f00f562df86239426dcff48c849a261f264f7631456d44a73735",
+  "digest": "ff8ecef3506ae4824fb6a5cfd4278a0791aa4e271b7fcf9e8988f715d9202240",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-3.0.2.tgz"
 }
 {
@@ -6697,7 +6697,7 @@
 {
   "name": "elastic-stack",
   "version": "1.8.0",
-  "digest": "17fadb414c758b69985be37b36b4331684585cbee24111025b6340c691a1e8d0",
+  "digest": "02e0bdba4c4cb3594146cc32f12aaca7ac42823ca6bc243fe826bb16e5c829c9",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.8.0.tgz"
 }
 {
@@ -11791,7 +11791,7 @@
 {
   "name": "graylog",
   "version": "1.2.0",
-  "digest": "dc6c9792dd5bbef73f1a6ec491f8e33f7acb2e665ec6a24f6dfd0b1e7204b7e7",
+  "digest": "50dac935a969b31dd60f39c58da5002f34f4c218496b49237d59557adce09a10",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.2.0.tgz"
 }
 {
@@ -13111,7 +13111,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.1",
-  "digest": "163b00344d3c3d32052504df23d88e4ed5a23156018267ca78bbdd23b37f0f5e",
+  "digest": "3f4e38087550a273566d07634b4579ba288250dee4c52bcdcbbe2765e3693aba",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.1.tgz"
 }
 {
@@ -16231,7 +16231,7 @@
 {
   "name": "kong",
   "version": "0.14.1",
-  "digest": "4b70eca12aedee91742943d4e554031f0514abc3c2940ff84ed04a65295821e6",
+  "digest": "a1d2e235eda95eb0810dabfaea66521148c36534996c2146cc71f903a2db8b72",
   "url": "https://kubernetes-charts.storage.googleapis.com/kong-0.14.1.tgz"
 }
 {
@@ -16717,7 +16717,7 @@
 {
   "name": "kube-ops-view",
   "version": "1.1.0",
-  "digest": "ef909564f8df3fdcd2e27d1f8e490b490ca76fcda8affeb56cdceb7a8be31e5d",
+  "digest": "08264b122c264ba4eeec568023cd920317c53cb563e156b520cc446b5207ab9e",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-1.1.0.tgz"
 }
 {
@@ -23172,6 +23172,12 @@
 }
 {
   "name": "mysql",
+  "version": "1.3.0",
+  "digest": "f6010451b66b84cc4c6982fa5010acdbe6db036617900d2b2824be2e27fe389e",
+  "url": "https://kubernetes-charts.storage.googleapis.com/mysql-1.3.0.tgz"
+}
+{
+  "name": "mysql",
   "version": "1.2.2",
   "digest": "e2e36f48fcfdf3b36ce2aa12cfc6e5d8fbc6d91fa6c3d5fc362f6fc448152eda",
   "url": "https://kubernetes-charts.storage.googleapis.com/mysql-1.2.2.tgz"
@@ -24103,7 +24109,7 @@
 {
   "name": "nextcloud",
   "version": "1.5.0",
-  "digest": "2b84fcb2e34b6a7283a9c3788cc8d6ee0b600dd70fdca600704e5bbf92df8476",
+  "digest": "6a3ed46b51eb5ddadf64f1774c1c51c0c8500ca77f6895fd656edfd63839cc67",
   "url": "https://kubernetes-charts.storage.googleapis.com/nextcloud-1.5.0.tgz"
 }
 {
@@ -39133,7 +39139,7 @@
 {
   "name": "spinnaker",
   "version": "1.13.2",
-  "digest": "5d822beb3d4cb6a02d468382ed89e511ce99a6d338c097578c68aa10f5c87670",
+  "digest": "a1161b44b12b0982202e5dc0675cb3066463935ac18c6d3c0a01937cbe81d16f",
   "url": "https://kubernetes-charts.storage.googleapis.com/spinnaker-1.13.2.tgz"
 }
 {
@@ -39541,7 +39547,7 @@
 {
   "name": "spring-cloud-data-flow",
   "version": "2.3.0",
-  "digest": "b64b09bbbbbd0776a435e6f177fa9affcc36390dc3cbc2014e1ad0f1376185f1",
+  "digest": "b93cf0d4a5ed2a58ae66cf4e10a7abc930547e6574786452418f095536b8d64e",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.3.0.tgz"
 }
 {
@@ -40755,6 +40761,12 @@
   "version": "0.2.0",
   "digest": "4c916b3cd6017d480ae0320aa671729699dcad1afd98d1f611d183c7cf21a9db",
   "url": "https://kubernetes-charts.storage.googleapis.com/sysdig-0.2.0.tgz"
+}
+{
+  "name": "telegraf",
+  "version": "1.1.4",
+  "digest": "f5c8b2ce89024894bfaba76018e8384e51af904d2e109ec3a032cf3bae234d3b",
+  "url": "https://kubernetes-charts.storage.googleapis.com/telegraf-1.1.4.tgz"
 }
 {
   "name": "telegraf",
@@ -43543,7 +43555,7 @@
 {
   "name": "xray",
   "version": "0.4.2",
-  "digest": "929c2d1aab4954b0bac6ab823594bca89ec31511106fbb1530f59d6229b5470b",
+  "digest": "a18ca0d9c8644b5c704510afeed828e3f68dd459da43948192f5547fa5ce7052",
   "url": "https://kubernetes-charts.storage.googleapis.com/xray-0.4.2.tgz"
 }
 {
