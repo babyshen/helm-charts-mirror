@@ -639,3 +639,280 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-07-18 05:11:03] spend time is: 590
 [2019-07-18 05:11:13] spend time is: 600
 Already up to date.
+[gh-pages 312a2ab] Synchronizing completion at 2019-07-18
+ 33 files changed, 293 insertions(+), 1 deletion(-)
+ rewrite kube-ops-view-1.1.0.tgz (83%)
+ create mode 100644 kubernetes-dashboard-1.7.1.tgz
+ create mode 100644 kubewatch-0.8.4.tgz
+ create mode 100644 logdna-agent-1.2.0.tgz
+ create mode 100644 mariadb-6.5.7.tgz
+ create mode 100644 mariadb-6.5.8.tgz
+ create mode 100644 mediawiki-6.3.8.tgz
+ create mode 100644 mercure-1.0.7.tgz
+ create mode 100644 mongodb-6.1.2.tgz
+ create mode 100644 mongodb-6.1.3.tgz
+ create mode 100644 mongodb-6.1.4.tgz
+ create mode 100644 moodle-4.2.10.tgz
+ create mode 100644 nats-3.0.3.tgz
+ create mode 100644 nats-3.0.4.tgz
+ create mode 100644 nextcloud-1.6.1.tgz
+ create mode 100644 nginx-ingress-1.10.2.tgz
+ create mode 100644 odoo-8.1.7.tgz
+ create mode 100644 odoo-8.1.8.tgz
+ create mode 100644 opencart-4.5.5.tgz
+ create mode 100644 openvpn-3.13.2.tgz
+ create mode 100644 openvpn-3.13.3.tgz
+ create mode 100644 orangehrm-4.4.6.tgz
+ create mode 100644 osclass-4.4.5.tgz
+ create mode 100644 osclass-5.0.0.tgz
+ create mode 100644 owncloud-4.3.6.tgz
+ create mode 100644 parse-6.2.16.tgz
+ create mode 100644 phabricator-5.0.5.tgz
+ create mode 100644 phpbb-4.4.5.tgz
+ create mode 100644 phpmyadmin-2.2.7.tgz
+ create mode 100644 phpmyadmin-2.2.8.tgz
+ create mode 100644 postgresql-5.3.13.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   861cd34..312a2ab  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:23] spend time is: 610
+[2019-07-18 05:11:28] prestashop-6.6.6.tgz update done.
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:33] spend time is: 620
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:43] spend time is: 630
+[2019-07-18 05:11:44] spend time is: 630
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:11:53] spend time is: 640
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:03] spend time is: 650
+[2019-07-18 05:12:11] prometheus-operator-5.16.0.tgz update done.
+[2019-07-18 05:12:11] prometheus-operator-5.15.0.tgz update done.
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:13] spend time is: 660
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:23] spend time is: 670
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] prometheus-to-sd-0.2.0.tgz update done.
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:33] spend time is: 680
+[2019-07-18 05:12:35] rabbitmq-6.2.1.tgz update done.
+[2019-07-18 05:12:35] rabbitmq-6.2.0.tgz update done.
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:43] spend time is: 690
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:12:53] spend time is: 700
+[2019-07-18 05:13:02] redis-8.1.4.tgz update done.
+[2019-07-18 05:13:02] redis-8.1.3.tgz update done.
+[2019-07-18 05:13:02] redis-8.1.2.tgz update done.
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:03] spend time is: 710
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:13] spend time is: 720
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:23] spend time is: 730
+[2019-07-18 05:13:29] redmine-10.0.9.tgz update done.
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:33] spend time is: 740
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:43] spend time is: 750
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:13:53] sematext-agent-1.0.14.tgz update done.
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:13:53] spend time is: 760
+[2019-07-18 05:14:03] seq-1.0.2.tgz update done.
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:03] spend time is: 770
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:13] spend time is: 780
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:23] spend time is: 790
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:33] spend time is: 800
+[2019-07-18 05:14:39] suitecrm-5.4.7.tgz update done.
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:43] spend time is: 810
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:14:53] spend time is: 820
+[2019-07-18 05:15:00] testlink-4.4.5.tgz update done.
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:03] spend time is: 830
+[2019-07-18 05:15:04] spend time is: 830
+[2019-07-18 05:15:07] traefik-1.72.1.tgz update done.
+[2019-07-18 05:15:08] traefik-1.72.0.tgz update done.
+[2019-07-18 05:15:08] traefik-1.71.2.tgz update done.
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:13] spend time is: 840
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:23] spend time is: 850
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:33] spend time is: 860
+[2019-07-18 05:15:38] weave-scope-1.1.2.tgz update done.
+[2019-07-18 05:15:39] wordpress-5.13.2.tgz update done.
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:43] spend time is: 870
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+[2019-07-18 05:15:53] spend time is: 880
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
