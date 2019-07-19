@@ -612,3 +612,270 @@ error: failed to push some refs to 'git@github.com:babyshen/helm-charts-mirror.g
 [2019-07-19 05:11:19] postgresql-6.0.0.tgz update done.
 [2019-07-19 05:11:23] spend time is: 600
 Already up to date.
+[gh-pages 93c11c8] Synchronizing completion at 2019-07-19
+ 23 files changed, 284 insertions(+), 1 deletion(-)
+ rewrite kube-ops-view-1.1.0.tgz (99%)
+ create mode 100644 kubewatch-0.8.5.tgz
+ rewrite magento-5.1.4.tgz (99%)
+ create mode 100644 mariadb-6.5.9.tgz
+ create mode 100644 mediawiki-7.0.0.tgz
+ create mode 100644 minio-2.5.1.tgz
+ create mode 100644 mongodb-6.1.5.tgz
+ create mode 100644 moodle-5.0.0.tgz
+ create mode 100644 nats-4.0.0.tgz
+ rewrite nextcloud-1.6.1.tgz (99%)
+ create mode 100644 nginx-ingress-1.10.3.tgz
+ create mode 100644 node-problem-detector-1.5.0.tgz
+ create mode 100644 odoo-9.0.0.tgz
+ create mode 100644 opencart-5.0.0.tgz
+ create mode 100644 orangehrm-5.0.0.tgz
+ create mode 100644 owncloud-5.0.0.tgz
+ create mode 100644 parse-7.0.0.tgz
+ create mode 100644 phabricator-6.0.0.tgz
+ create mode 100644 phpbb-5.0.0.tgz
+ create mode 100644 phpmyadmin-2.2.9.tgz
+ create mode 100644 postgresql-6.0.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   7f1ef8d..93c11c8  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:33] spend time is: 610
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:43] spend time is: 620
+[2019-07-19 05:11:44] prestashop-7.0.0.tgz update done.
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:11:53] spend time is: 630
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:03] spend time is: 640
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:13] spend time is: 650
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:23] spend time is: 660
+[2019-07-19 05:12:27] prometheus-operator-5.16.0.tgz update done.
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:33] spend time is: 670
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:43] spend time is: 680
+[2019-07-19 05:12:51] rabbitmq-6.2.2.tgz update done.
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:12:53] spend time is: 690
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:03] spend time is: 700
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:13] spend time is: 710
+[2019-07-19 05:13:17] redis-8.1.5.tgz update done.
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:23] spend time is: 720
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:33] spend time is: 730
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:43] spend time is: 740
+[2019-07-19 05:13:45] redmine-11.0.0.tgz update done.
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:13:53] spend time is: 750
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:03] spend time is: 760
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:13] sentry-2.0.1.tgz update done.
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:13] spend time is: 770
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:23] spend time is: 780
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:33] spend time is: 790
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:43] spend time is: 800
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:53] spend time is: 810
+[2019-07-19 05:14:54] spend time is: 810
+[2019-07-19 05:14:55] suitecrm-6.0.0.tgz update done.
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:03] spend time is: 820
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:13] spend time is: 830
+[2019-07-19 05:15:16] testlink-5.0.0.tgz update done.
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:23] spend time is: 840
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:33] spend time is: 850
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:43] spend time is: 860
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:53] spend time is: 870
+[2019-07-19 05:15:55] wordpress-6.0.0.tgz update done.
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:03] spend time is: 880
+[2019-07-19 05:16:13] spend time is: 890
+[2019-07-19 05:16:13] spend time is: 890
+[2019-07-19 05:16:13] xray-0.4.2.tgz update done.
+[2019-07-19 05:16:13] spend time is: 890
+[2019-07-19 05:16:13] spend time is: 890
+[2019-07-19 05:16:13] spend time is: 890
+[2019-07-19 05:16:13] spend time is: 890
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
