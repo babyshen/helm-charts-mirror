@@ -329,3 +329,286 @@ are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
 Already up to date.
+[gh-pages 7f1ef8d] Synchronizing completion at 2019-07-19
+ 1 file changed, 9 insertions(+)
+[gh-pages e772716] Synchronizing completion at 2019-07-19
+ 21 files changed, 1715 insertions(+), 305 deletions(-)
+ create mode 100644 airflow-3.0.4.tgz
+ rewrite anchore-engine-1.2.0.tgz (99%)
+ create mode 100644 concourse-8.1.1.tgz
+ create mode 100644 dokuwiki-5.0.0.tgz
+ create mode 100644 drupal-4.0.0.tgz
+ rewrite elastic-stack-1.8.0.tgz (99%)
+ create mode 100644 external-dns-2.3.3.tgz
+ create mode 100644 ghost-6.7.31.tgz
+ rewrite gitlab-ce-0.2.2.tgz (100%)
+ create mode 100644 grafana-3.5.12.tgz
+ rewrite graylog-1.2.0.tgz (62%)
+ rewrite hlf-ca-1.1.6.tgz (99%)
+ create mode 100644 hlf-ca-1.1.7.tgz
+ rewrite janusgraph-0.2.1.tgz (99%)
+ create mode 100644 jasperreports-5.0.0.tgz
+ create mode 100644 joomla-5.0.0.tgz
+ create mode 100644 travis_wait_2054.log
+To github.com:babyshen/helm-charts-mirror.git
+   0b2b503..7f1ef8d  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+To github.com:babyshen/helm-charts-mirror.git
+ ! [remote rejected] gh-pages -> gh-pages (cannot lock ref 'refs/heads/gh-pages': is at 7f1ef8df739a7f110610429fc62fd4d355a50720 but expected 0b2b503edb704846028a9141f25416d96ff4b79d)
+error: failed to push some refs to 'git@github.com:babyshen/helm-charts-mirror.git'
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:33] spend time is: 310
+[2019-07-19 05:06:36] kube-ops-view-1.1.0.tgz update done.
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:43] spend time is: 320
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:53] spend time is: 330
+[2019-07-19 05:06:58] kubewatch-0.8.5.tgz update done.
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:03] spend time is: 340
+[2019-07-19 05:07:09] magento-5.1.4.tgz update done.
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:13] spend time is: 350
+[2019-07-19 05:07:20] mariadb-6.5.9.tgz update done.
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:23] spend time is: 360
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:33] spend time is: 370
+[2019-07-19 05:07:40] mediawiki-7.0.0.tgz update done.
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:43] spend time is: 380
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:07:53] spend time is: 390
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:03] spend time is: 400
+[2019-07-19 05:08:05] minio-2.5.1.tgz update done.
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:13] spend time is: 410
+[2019-07-19 05:08:16] mongodb-6.1.5.tgz update done.
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:23] spend time is: 420
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:33] spend time is: 430
+[2019-07-19 05:08:41] moodle-5.0.0.tgz update done.
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:43] spend time is: 440
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:08:53] spend time is: 450
+[2019-07-19 05:09:02] nats-4.0.0.tgz update done.
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:03] spend time is: 460
+[2019-07-19 05:09:12] nextcloud-1.6.1.tgz update done.
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:13] spend time is: 470
+[2019-07-19 05:09:17] nginx-ingress-1.10.3.tgz update done.
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:23] spend time is: 480
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:33] spend time is: 490
+[2019-07-19 05:09:35] node-problem-detector-1.5.0.tgz update done.
+[2019-07-19 05:09:41] odoo-9.0.0.tgz update done.
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:43] spend time is: 500
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:53] spend time is: 510
+[2019-07-19 05:09:54] opencart-5.0.0.tgz update done.
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:03] spend time is: 520
+[2019-07-19 05:10:11] orangehrm-5.0.0.tgz update done.
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:13] spend time is: 530
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:23] spend time is: 540
+[2019-07-19 05:10:25] owncloud-5.0.0.tgz update done.
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:33] spend time is: 550
+[2019-07-19 05:10:36] parse-7.0.0.tgz update done.
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:43] spend time is: 560
+[2019-07-19 05:10:49] phabricator-6.0.0.tgz update done.
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:10:53] spend time is: 570
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:03] spend time is: 580
+[2019-07-19 05:11:06] phpbb-5.0.0.tgz update done.
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:13] spend time is: 590
+[2019-07-19 05:11:14] phpmyadmin-2.2.9.tgz update done.
+[2019-07-19 05:11:14] spend time is: 590
+[2019-07-19 05:11:19] postgresql-6.0.0.tgz update done.
+[2019-07-19 05:11:23] spend time is: 600
+Already up to date.
