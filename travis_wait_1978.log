@@ -999,3 +999,112 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-07-29 05:22:48] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
 Already up to date.
+[gh-pages dae08e9] Synchronizing completion at 2019-07-29
+ 61 files changed, 330 insertions(+), 1 deletion(-)
+ create mode 100644 phabricator-6.1.0.tgz
+ create mode 100644 phabricator-6.1.1.tgz
+ create mode 100644 phabricator-6.2.0.tgz
+ create mode 100644 phpbb-5.1.0.tgz
+ create mode 100644 phpbb-5.1.1.tgz
+ create mode 100644 phpbb-6.0.0.tgz
+ create mode 100644 phpmyadmin-2.3.0.tgz
+ create mode 100644 phpmyadmin-2.3.1.tgz
+ create mode 100644 phpmyadmin-3.0.0.tgz
+ create mode 100644 pomerium-1.2.1.tgz
+ create mode 100644 postgresql-6.1.0.tgz
+ create mode 100644 postgresql-6.2.0.tgz
+ create mode 100644 prestashop-7.1.0.tgz
+ create mode 100644 prestashop-7.1.1.tgz
+ create mode 100644 prestashop-8.0.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-1.0.0.tgz
+ create mode 100644 prometheus-cloudwatch-exporter-0.4.8.tgz
+ create mode 100644 prometheus-nats-exporter-2.2.0.tgz
+ create mode 100644 prometheus-node-exporter-1.5.2.tgz
+ create mode 100644 prometheus-node-exporter-1.6.0.tgz
+ create mode 100644 prometheus-operator-5.17.0.tgz
+ create mode 100644 prometheus-operator-5.18.0.tgz
+ create mode 100644 prometheus-operator-5.19.0.tgz
+ create mode 100644 prometheus-operator-6.0.0.tgz
+ create mode 100644 prometheus-operator-6.1.0.tgz
+ create mode 100644 prometheus-operator-6.1.1.tgz
+ create mode 100644 prometheus-operator-6.1.2.tgz
+ create mode 100644 prometheus-operator-6.2.0.tgz
+ create mode 100644 prometheus-postgres-exporter-0.7.1.tgz
+ create mode 100644 rabbitmq-ha-1.30.0.tgz
+ create mode 100644 redis-9.0.0.tgz
+ create mode 100644 redis-ha-3.6.2.tgz
+ create mode 100644 redmine-12.0.0.tgz
+ create mode 100644 sealed-secrets-1.3.0.tgz
+ create mode 100644 sealed-secrets-1.3.1.tgz
+ create mode 100644 sealed-secrets-1.3.2.tgz
+ rewrite sentry-2.0.1.tgz (99%)
+ create mode 100644 sentry-2.1.0.tgz
+ create mode 100644 sentry-2.1.1.tgz
+ create mode 100644 sonarqube-2.1.2.tgz
+ create mode 100644 sonarqube-2.1.3.tgz
+ create mode 100644 sonarqube-2.1.4.tgz
+ create mode 100644 sonatype-nexus-1.18.5.tgz
+ create mode 100644 spinnaker-1.13.3.tgz
+ create mode 100644 spinnaker-1.13.4.tgz
+ create mode 100644 spring-cloud-data-flow-2.3.1.tgz
+ create mode 100644 spring-cloud-data-flow-2.3.2.tgz
+ create mode 100644 suitecrm-6.1.0.tgz
+ create mode 100644 suitecrm-6.1.1.tgz
+ create mode 100644 suitecrm-7.0.0.tgz
+ create mode 100644 superset-1.1.7.tgz
+ create mode 100644 telegraf-1.1.5.tgz
+ create mode 100644 testlink-5.1.0.tgz
+ create mode 100644 testlink-5.1.1.tgz
+ create mode 100644 testlink-6.0.0.tgz
+ create mode 100644 traefik-1.73.1.tgz
+ create mode 100644 traefik-1.74.0.tgz
+ create mode 100644 traefik-1.75.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   4aadf3e..dae08e9  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:22:58] spend time is: 910
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:08] spend time is: 920
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:18] spend time is: 930
+[2019-07-29 05:23:23] weave-scope-1.1.3.tgz update done.
+[2019-07-29 05:23:23] weave-scope-1.1.2.tgz update done.
+[2019-07-29 05:23:24] wordpress-7.0.0.tgz update done.
+[2019-07-29 05:23:25] wordpress-6.1.1.tgz update done.
+[2019-07-29 05:23:25] wordpress-6.1.0.tgz update done.
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:28] spend time is: 940
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:38] spend time is: 950
+[2019-07-29 05:23:43] xray-0.4.2.tgz update done.
+Already up to date.
