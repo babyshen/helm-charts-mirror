@@ -1,0 +1,169 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 5715k  100 5715k    0     0  54.7M      0 --:--:-- --:--:-- --:--:-- 55.2M
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:49] spend time is: 50
+[2019-07-31 05:08:50] ambassador-3.1.0.tgz update done.
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:08:59] spend time is: 60
+[2019-07-31 05:09:00] spend time is: 60
+[2019-07-31 05:09:08] atlantis-3.7.0.tgz update done.
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:09] spend time is: 70
+[2019-07-31 05:09:10] spend time is: 70
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:19] spend time is: 80
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:29] spend time is: 90
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:39] spend time is: 100
+[2019-07-31 05:09:40] spend time is: 100
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:49] spend time is: 110
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:09:59] spend time is: 120
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:09] spend time is: 130
+[2019-07-31 05:10:13] datadog-1.32.1.tgz update done.
+[2019-07-31 05:10:13] datadog-1.32.0.tgz update done.
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:19] spend time is: 140
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:29] spend time is: 150
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:39] spend time is: 160
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:49] spend time is: 170
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:10:59] spend time is: 180
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:09] spend time is: 190
+[2019-07-31 05:11:19] spend time is: 200
+[2019-07-31 05:11:19] spend time is: 200
+[2019-07-31 05:11:19] spend time is: 200
+[2019-07-31 05:11:29] spend time is: 210
+[2019-07-31 05:11:29] spend time is: 210
+[2019-07-31 05:11:29] spend time is: 210
+[2019-07-31 05:11:29] spend time is: 210
+[2019-07-31 05:11:39] spend time is: 220
+[2019-07-31 05:11:39] spend time is: 220
+[2019-07-31 05:11:39] spend time is: 220
+[2019-07-31 05:11:49] spend time is: 230
+[2019-07-31 05:11:49] spend time is: 230
+[2019-07-31 05:11:49] spend time is: 230
+[2019-07-31 05:11:59] spend time is: 240
+[2019-07-31 05:11:59] spend time is: 240
+[2019-07-31 05:11:59] spend time is: 240
+[2019-07-31 05:12:01] external-dns-2.4.2.tgz update done.
+[2019-07-31 05:12:01] external-dns-2.4.1.tgz update done.
+[2019-07-31 05:12:09] spend time is: 250
+[2019-07-31 05:12:09] spend time is: 250
+[2019-07-31 05:12:09] spend time is: 250
+[2019-07-31 05:12:09] spend time is: 250
+[2019-07-31 05:12:19] spend time is: 260
+[2019-07-31 05:12:19] spend time is: 260
+[2019-07-31 05:12:19] spend time is: 260
+[2019-07-31 05:12:29] falco-1.0.2.tgz update done.
+[2019-07-31 05:12:29] spend time is: 270
+[2019-07-31 05:12:29] spend time is: 270
+[2019-07-31 05:12:39] spend time is: 280
+[2019-07-31 05:12:39] spend time is: 280
+[2019-07-31 05:12:39] spend time is: 280
+[2019-07-31 05:12:49] spend time is: 290
+[2019-07-31 05:12:49] spend time is: 290
+[2019-07-31 05:12:49] spend time is: 290
+[2019-07-31 05:12:49] spend time is: 290
+[2019-07-31 05:12:59] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
