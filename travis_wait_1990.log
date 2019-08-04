@@ -1,0 +1,158 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 5747k  100 5747k    0     0  51.7M      0 --:--:-- --:--:-- --:--:-- 51.9M
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:03] spend time is: 50
+[2019-08-04 05:12:05] ambassador-3.1.1.tgz update done.
+[2019-08-04 05:12:13] spend time is: 60
+[2019-08-04 05:12:13] spend time is: 60
+[2019-08-04 05:12:13] spend time is: 60
+[2019-08-04 05:12:13] spend time is: 60
+[2019-08-04 05:12:13] spend time is: 60
+[2019-08-04 05:12:23] spend time is: 70
+[2019-08-04 05:12:23] spend time is: 70
+[2019-08-04 05:12:23] spend time is: 70
+[2019-08-04 05:12:23] spend time is: 70
+[2019-08-04 05:12:23] spend time is: 70
+[2019-08-04 05:12:24] spend time is: 70
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:33] spend time is: 80
+[2019-08-04 05:12:34] spend time is: 80
+[2019-08-04 05:12:43] spend time is: 90
+[2019-08-04 05:12:43] spend time is: 90
+[2019-08-04 05:12:43] spend time is: 90
+[2019-08-04 05:12:43] spend time is: 90
+[2019-08-04 05:12:43] spend time is: 90
+[2019-08-04 05:12:44] cerebro-1.1.4.tgz update done.
+[2019-08-04 05:12:44] spend time is: 90
+[2019-08-04 05:12:53] spend time is: 100
+[2019-08-04 05:12:53] spend time is: 100
+[2019-08-04 05:12:53] spend time is: 100
+[2019-08-04 05:12:53] spend time is: 100
+[2019-08-04 05:12:53] spend time is: 100
+[2019-08-04 05:12:54] spend time is: 100
+[2019-08-04 05:13:03] cluster-autoscaler-3.2.0.tgz update done.
+[2019-08-04 05:13:03] spend time is: 110
+[2019-08-04 05:13:03] spend time is: 110
+[2019-08-04 05:13:03] spend time is: 110
+[2019-08-04 05:13:03] spend time is: 110
+[2019-08-04 05:13:03] spend time is: 110
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:13] spend time is: 120
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:23] spend time is: 130
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:33] spend time is: 140
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:43] spend time is: 150
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:13:53] spend time is: 160
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:03] spend time is: 170
+[2019-08-04 05:14:04] spend time is: 170
+[2019-08-04 05:14:13] spend time is: 180
+[2019-08-04 05:14:13] spend time is: 180
+[2019-08-04 05:14:13] spend time is: 180
+[2019-08-04 05:14:13] spend time is: 180
+[2019-08-04 05:14:13] spend time is: 180
+[2019-08-04 05:14:14] spend time is: 180
+[2019-08-04 05:14:23] spend time is: 190
+[2019-08-04 05:14:23] dex-2.0.0.tgz update done.
+[2019-08-04 05:14:23] spend time is: 190
+[2019-08-04 05:14:23] spend time is: 190
+[2019-08-04 05:14:23] spend time is: 190
+[2019-08-04 05:14:24] spend time is: 190
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:33] spend time is: 200
+[2019-08-04 05:14:43] spend time is: 210
+[2019-08-04 05:14:43] drone-2.0.7.tgz update done.
+[2019-08-04 05:14:43] spend time is: 210
+[2019-08-04 05:14:43] spend time is: 210
+[2019-08-04 05:14:43] spend time is: 210
+[2019-08-04 05:14:43] spend time is: 210
+[2019-08-04 05:14:53] spend time is: 220
+[2019-08-04 05:14:53] spend time is: 220
+[2019-08-04 05:14:53] spend time is: 220
+[2019-08-04 05:14:53] spend time is: 220
+[2019-08-04 05:14:54] spend time is: 220
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:03] spend time is: 230
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:13] spend time is: 240
+[2019-08-04 05:15:23] spend time is: 250
+[2019-08-04 05:15:23] spend time is: 250
+[2019-08-04 05:15:23] spend time is: 250
+[2019-08-04 05:15:33] spend time is: 260
+[2019-08-04 05:15:33] spend time is: 260
+[2019-08-04 05:15:33] spend time is: 260
+[2019-08-04 05:15:43] spend time is: 270
+[2019-08-04 05:15:43] spend time is: 270
+[2019-08-04 05:15:43] spend time is: 270
+[2019-08-04 05:15:53] spend time is: 280
+[2019-08-04 05:15:53] spend time is: 280
+[2019-08-04 05:15:53] spend time is: 280
+[2019-08-04 05:16:03] spend time is: 290
+[2019-08-04 05:16:03] spend time is: 290
+[2019-08-04 05:16:03] spend time is: 290
+[2019-08-04 05:16:13] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
