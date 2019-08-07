@@ -327,3 +327,341 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 81475aa] Synchronizing completion at 2019-08-07
+ 31 files changed, 1206 insertions(+), 293 deletions(-)
+ rewrite airflow-4.0.0.tgz (99%)
+ create mode 100644 ambassador-3.1.2.tgz
+ rewrite anchore-engine-1.2.0.tgz (99%)
+ create mode 100644 anchore-engine-1.2.1.tgz
+ create mode 100644 dex-2.0.1.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 external-dns-2.5.0.tgz
+ create mode 100644 external-dns-2.5.1.tgz
+ create mode 100644 falco-1.0.3.tgz
+ create mode 100644 fluentd-1.10.1.tgz
+ create mode 100644 ghost-6.7.33.tgz
+ create mode 100644 ghost-7.0.0.tgz
+ create mode 100644 ghost-7.0.1.tgz
+ create mode 100644 gocd-1.15.0.tgz
+ create mode 100644 grafana-3.8.0.tgz
+ rewrite graylog-1.2.0.tgz (98%)
+ create mode 100644 hazelcast-2.0.0.tgz
+ create mode 100644 hazelcast-2.1.0.tgz
+ create mode 100644 influxdb-1.3.1.tgz
+ create mode 100644 ipfs-0.3.0.tgz
+ create mode 100644 jenkins-1.4.2.tgz
+ create mode 100644 jenkins-1.4.3.tgz
+ create mode 100644 jenkins-1.5.0.tgz
+ create mode 100644 k8s-spot-termination-handler-1.4.1.tgz
+ create mode 100644 k8s-spot-termination-handler-1.4.2.tgz
+ create mode 100644 k8s-spot-termination-handler-1.4.3.tgz
+ create mode 100644 travis_wait_1919.log
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 35d919ea75e86394353d1a479b5a587157fd1fb5.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-4.0.0.tgz
+	anchore-engine-1.2.0.tgz
+	chart-list.json
+	elastic-stack-1.8.0.tgz
+	graylog-1.2.0.tgz
+	index.yaml
+	janusgraph-0.2.1.tgz
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	ambassador-3.1.2.tgz
+	anchore-engine-1.2.1.tgz
+	dex-2.0.1.tgz
+	external-dns-2.5.0.tgz
+	external-dns-2.5.1.tgz
+	falco-1.0.3.tgz
+	fluentd-1.10.1.tgz
+	ghost-6.7.33.tgz
+	ghost-7.0.0.tgz
+	ghost-7.0.1.tgz
+	gocd-1.15.0.tgz
+	grafana-3.8.0.tgz
+	hazelcast-2.0.0.tgz
+	hazelcast-2.1.0.tgz
+	influxdb-1.3.1.tgz
+	ipfs-0.3.0.tgz
+	jenkins-1.4.2.tgz
+	jenkins-1.4.3.tgz
+	jenkins-1.5.0.tgz
+	k8s-spot-termination-handler-1.4.1.tgz
+	k8s-spot-termination-handler-1.4.2.tgz
+	k8s-spot-termination-handler-1.4.3.tgz
+	travis_wait_1919.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 35d919ea75e86394353d1a479b5a587157fd1fb5
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+   35d919e..81475aa  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:39] spend time is: 310
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:49] spend time is: 320
+[2019-08-07 05:18:55] kong-0.14.2.tgz update done.
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:18:59] spend time is: 330
+[2019-08-07 05:19:06] kube-ops-view-1.1.0.tgz update done.
+[2019-08-07 05:19:09] kube-state-metrics-2.2.2.tgz update done.
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:09] spend time is: 340
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:19] spend time is: 350
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:29] spend time is: 360
+[2019-08-07 05:19:32] kured-1.3.1.tgz update done.
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:39] spend time is: 370
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:49] spend time is: 380
+[2019-08-07 05:19:52] mariadb-6.7.4.tgz update done.
+[2019-08-07 05:19:52] mariadb-6.7.3.tgz update done.
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:19:59] spend time is: 390
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:09] spend time is: 400
+[2019-08-07 05:20:14] mediawiki-8.0.1.tgz update done.
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:19] spend time is: 410
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:29] spend time is: 420
+[2019-08-07 05:20:38] minecraft-1.1.0.tgz update done.
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:39] spend time is: 430
+[2019-08-07 05:20:40] minio-2.5.6.tgz update done.
+[2019-08-07 05:20:41] minio-2.5.5.tgz update done.
+[2019-08-07 05:20:41] minio-2.5.4.tgz update done.
+[2019-08-07 05:20:41] minio-2.5.3.tgz update done.
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:49] spend time is: 440
+[2019-08-07 05:20:53] mongodb-7.0.1.tgz update done.
+[2019-08-07 05:20:53] mongodb-7.0.0.tgz update done.
+[2019-08-07 05:20:54] mongodb-6.3.1.tgz update done.
+[2019-08-07 05:20:54] mongodb-6.3.0.tgz update done.
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:20:59] spend time is: 450
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:09] spend time is: 460
+[2019-08-07 05:21:10] spend time is: 460
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:19] spend time is: 470
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:29] spend time is: 480
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:39] spend time is: 490
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:49] spend time is: 500
+[2019-08-07 05:21:50] newrelic-infrastructure-0.13.5.tgz update done.
+[2019-08-07 05:21:50] newrelic-infrastructure-0.13.4.tgz update done.
+[2019-08-07 05:21:50] newrelic-infrastructure-0.13.3.tgz update done.
+[2019-08-07 05:21:59] spend time is: 510
+[2019-08-07 05:21:59] spend time is: 510
+[2019-08-07 05:21:59] spend time is: 510
+[2019-08-07 05:21:59] nginx-ingress-1.12.1.tgz update done.
+[2019-08-07 05:21:59] spend time is: 510
+[2019-08-07 05:21:59] nginx-ingress-1.12.0.tgz update done.
+[2019-08-07 05:21:59] spend time is: 510
+[2019-08-07 05:22:00] nginx-ingress-1.11.5.tgz update done.
+[2019-08-07 05:22:00] spend time is: 510
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:09] spend time is: 520
+[2019-08-07 05:22:10] spend time is: 520
+[2019-08-07 05:22:19] node-problem-detector-1.5.1.tgz update done.
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:19] spend time is: 530
+[2019-08-07 05:22:22] oauth2-proxy-0.14.0.tgz update done.
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:29] spend time is: 540
+[2019-08-07 05:22:37] opa-1.6.1.tgz update done.
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:39] spend time is: 550
+[2019-08-07 05:22:48] openebs-1.1.0.tgz update done.
+[2019-08-07 05:22:48] openebs-1.0.1.tgz update done.
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:49] spend time is: 560
+[2019-08-07 05:22:52] openvpn-3.13.6.tgz update done.
+[2019-08-07 05:22:53] openvpn-3.13.5.tgz update done.
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:22:59] spend time is: 570
+[2019-08-07 05:23:00] spend time is: 570
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:09] spend time is: 580
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:19] spend time is: 590
+[2019-08-07 05:23:25] parse-8.0.3.tgz update done.
+[2019-08-07 05:23:26] parse-8.0.2.tgz update done.
+[2019-08-07 05:23:26] parse-8.0.1.tgz update done.
+[2019-08-07 05:23:29] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
