@@ -791,3 +791,118 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-08-11 05:28:35] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages b788189] Synchronizing completion at 2019-08-11
+ 14 files changed, 256 insertions(+), 1 deletion(-)
+ create mode 100644 openvpn-3.13.7.tgz
+ create mode 100644 postgresql-6.2.1.tgz
+ create mode 100644 prometheus-operator-6.4.1.tgz
+ create mode 100644 prometheus-operator-6.4.2.tgz
+ create mode 100644 prometheus-operator-6.4.3.tgz
+ create mode 100644 prometheus-redis-exporter-3.0.1.tgz
+ create mode 100644 rabbitmq-6.2.5.tgz
+ create mode 100644 rabbitmq-6.2.6.tgz
+ create mode 100644 rabbitmq-ha-1.31.0.tgz
+ create mode 100644 redis-ha-3.7.0.tgz
+ create mode 100644 redis-ha-3.7.1.tgz
+ create mode 100644 redmine-12.0.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   9857f30..b788189  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:45] spend time is: 910
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:28:55] spend time is: 920
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:05] spend time is: 930
+[2019-08-11 05:29:09] spring-cloud-data-flow-2.4.0.tgz update done.
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:15] spend time is: 940
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:25] spend time is: 950
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:35] spend time is: 960
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:45] spend time is: 970
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:29:55] spend time is: 980
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:05] spend time is: 990
+[2019-08-11 05:30:06] spend time is: 990
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:15] spend time is: 1000
+[2019-08-11 05:30:21] wordpress-7.1.0.tgz update done.
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:25] spend time is: 1010
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+[2019-08-11 05:30:35] spend time is: 1020
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
