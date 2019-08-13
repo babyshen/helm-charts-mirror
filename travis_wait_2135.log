@@ -839,3 +839,86 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-08-13 05:29:29] spend time is: 890
 [2019-08-13 05:29:39] spend time is: 900
 Already up to date.
+[gh-pages f9406ed] Synchronizing completion at 2019-08-13
+ 9 files changed, 240 insertions(+), 1 deletion(-)
+ create mode 100644 phabricator-6.2.2.tgz
+ create mode 100644 phpbb-6.0.1.tgz
+ create mode 100644 prometheus-operator-6.4.4.tgz
+ create mode 100644 prometheus-operator-6.5.0.tgz
+ create mode 100644 rabbitmq-6.3.0.tgz
+ create mode 100644 redis-9.0.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   e4dd817..f9406ed  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:49] spend time is: 910
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:29:59] spend time is: 920
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:09] spend time is: 930
+[2019-08-13 05:30:11] testlink-6.0.1.tgz update done.
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:19] spend time is: 940
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:29] spend time is: 950
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:39] spend time is: 960
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:49] spend time is: 970
+[2019-08-13 05:30:53] weave-scope-1.1.4.tgz update done.
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:30:59] spend time is: 980
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+[2019-08-13 05:31:09] spend time is: 990
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
