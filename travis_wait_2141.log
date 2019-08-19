@@ -781,3 +781,78 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-08-19 05:33:04] spring-cloud-data-flow-2.4.0.tgz update done.
 [2019-08-19 05:33:06] spend time is: 900
 Already up to date.
+[gh-pages ab8789f] Synchronizing completion at 2019-08-19
+ 5 files changed, 233 insertions(+), 1 deletion(-)
+ create mode 100644 prometheus-operator-6.7.2.tgz
+ rewrite spring-cloud-data-flow-2.4.0.tgz (98%)
+To github.com:babyshen/helm-charts-mirror.git
+   966edda..ab8789f  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:16] spend time is: 910
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:26] spend time is: 920
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:36] spend time is: 930
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:46] spend time is: 940
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:33:56] spend time is: 950
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:06] spend time is: 960
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:16] spend time is: 970
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:26] spend time is: 980
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:36] spend time is: 990
+[2019-08-19 05:34:44] xray-0.4.2.tgz update done.
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
