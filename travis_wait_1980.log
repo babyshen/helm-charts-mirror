@@ -486,3 +486,202 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-08-21 05:28:54] spend time is: 600
 Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
 Already up to date.
+[gh-pages 5573d23] Synchronizing completion at 2019-08-21
+ 13 files changed, 192 insertions(+), 1 deletion(-)
+ create mode 100644 joomla-6.1.0.tgz
+ rewrite kong-0.15.1.tgz (99%)
+ create mode 100644 kong-0.15.2.tgz
+ create mode 100644 kong-0.16.0.tgz
+ rewrite kube-ops-view-1.1.0.tgz (98%)
+ create mode 100644 kube-state-metrics-2.3.1.tgz
+ create mode 100644 mariadb-6.8.0.tgz
+ create mode 100644 mediawiki-8.1.0.tgz
+ create mode 100644 mongodb-7.2.0.tgz
+ create mode 100644 moodle-6.1.0.tgz
+ create mode 100644 mssql-linux-0.10.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   9b1bbde..5573d23  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-21 05:29:04] spend time is: 610
+[2019-08-21 05:29:04] spend time is: 610
+[2019-08-21 05:29:04] spend time is: 610
+[2019-08-21 05:29:04] spend time is: 610
+[2019-08-21 05:29:04] spend time is: 610
+[2019-08-21 05:29:09] neo4j-1.2.0.tgz update done.
+[2019-08-21 05:29:12] newrelic-infrastructure-0.13.7.tgz update done.
+[2019-08-21 05:29:12] newrelic-infrastructure-0.13.6.tgz update done.
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:14] spend time is: 620
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:24] spend time is: 630
+[2019-08-21 05:29:25] nginx-ingress-1.17.1.tgz update done.
+[2019-08-21 05:29:25] nginx-ingress-1.17.0.tgz update done.
+[2019-08-21 05:29:26] nginx-ingress-1.16.1.tgz update done.
+[2019-08-21 05:29:34] spend time is: 640
+[2019-08-21 05:29:34] spend time is: 640
+[2019-08-21 05:29:34] spend time is: 640
+[2019-08-21 05:29:34] spend time is: 640
+[2019-08-21 05:29:34] spend time is: 640
+[2019-08-21 05:29:44] spend time is: 650
+[2019-08-21 05:29:44] spend time is: 650
+[2019-08-21 05:29:44] spend time is: 650
+[2019-08-21 05:29:44] spend time is: 650
+[2019-08-21 05:29:44] spend time is: 650
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:29:54] spend time is: 660
+[2019-08-21 05:30:02] odoo-10.1.0.tgz update done.
+[2019-08-21 05:30:03] odoo-10.0.3.tgz update done.
+[2019-08-21 05:30:03] odoo-10.0.2.tgz update done.
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:04] spend time is: 670
+[2019-08-21 05:30:14] spend time is: 680
+[2019-08-21 05:30:14] spend time is: 680
+[2019-08-21 05:30:14] spend time is: 680
+[2019-08-21 05:30:14] spend time is: 680
+[2019-08-21 05:30:14] spend time is: 680
+[2019-08-21 05:30:24] spend time is: 690
+[2019-08-21 05:30:24] spend time is: 690
+[2019-08-21 05:30:24] spend time is: 690
+[2019-08-21 05:30:24] opencart-6.1.0.tgz update done.
+[2019-08-21 05:30:24] spend time is: 690
+[2019-08-21 05:30:24] spend time is: 690
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:34] spend time is: 700
+[2019-08-21 05:30:40] openldap-1.2.0.tgz update done.
+[2019-08-21 05:30:44] spend time is: 710
+[2019-08-21 05:30:44] spend time is: 710
+[2019-08-21 05:30:44] spend time is: 710
+[2019-08-21 05:30:44] spend time is: 710
+[2019-08-21 05:30:44] spend time is: 710
+[2019-08-21 05:30:50] orangehrm-6.1.0.tgz update done.
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:30:54] spend time is: 720
+[2019-08-21 05:31:03] osclass-6.1.0.tgz update done.
+[2019-08-21 05:31:04] spend time is: 730
+[2019-08-21 05:31:04] spend time is: 730
+[2019-08-21 05:31:04] spend time is: 730
+[2019-08-21 05:31:04] spend time is: 730
+[2019-08-21 05:31:04] spend time is: 730
+[2019-08-21 05:31:13] owncloud-6.1.0.tgz update done.
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:14] spend time is: 740
+[2019-08-21 05:31:24] spend time is: 750
+[2019-08-21 05:31:24] spend time is: 750
+[2019-08-21 05:31:24] spend time is: 750
+[2019-08-21 05:31:24] spend time is: 750
+[2019-08-21 05:31:24] spend time is: 750
+[2019-08-21 05:31:29] parse-9.1.0.tgz update done.
+[2019-08-21 05:31:29] parse-9.0.0.tgz update done.
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:34] spend time is: 760
+[2019-08-21 05:31:44] spend time is: 770
+[2019-08-21 05:31:44] spend time is: 770
+[2019-08-21 05:31:44] spend time is: 770
+[2019-08-21 05:31:44] spend time is: 770
+[2019-08-21 05:31:44] spend time is: 770
+[2019-08-21 05:31:49] phabricator-6.3.0.tgz update done.
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:31:54] spend time is: 780
+[2019-08-21 05:32:04] spend time is: 790
+[2019-08-21 05:32:04] spend time is: 790
+[2019-08-21 05:32:04] spend time is: 790
+[2019-08-21 05:32:04] spend time is: 790
+[2019-08-21 05:32:04] spend time is: 790
+[2019-08-21 05:32:14] spend time is: 800
+[2019-08-21 05:32:14] spend time is: 800
+[2019-08-21 05:32:14] spend time is: 800
+[2019-08-21 05:32:14] spend time is: 800
+[2019-08-21 05:32:14] phpbb-6.1.0.tgz update done.
+[2019-08-21 05:32:14] spend time is: 800
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:24] spend time is: 810
+[2019-08-21 05:32:34] spend time is: 820
+[2019-08-21 05:32:34] spend time is: 820
+[2019-08-21 05:32:34] spend time is: 820
+[2019-08-21 05:32:34] spend time is: 820
+[2019-08-21 05:32:35] postgresql-6.3.0.tgz update done.
+[2019-08-21 05:32:35] spend time is: 820
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:44] spend time is: 830
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:32:54] spend time is: 840
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:04] spend time is: 850
+[2019-08-21 05:33:05] prestashop-8.1.0.tgz update done.
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:14] spend time is: 860
+[2019-08-21 05:33:24] spend time is: 870
+[2019-08-21 05:33:24] spend time is: 870
+[2019-08-21 05:33:24] spend time is: 870
+[2019-08-21 05:33:24] spend time is: 870
+[2019-08-21 05:33:24] spend time is: 870
+[2019-08-21 05:33:34] spend time is: 880
+[2019-08-21 05:33:34] spend time is: 880
+[2019-08-21 05:33:34] spend time is: 880
+[2019-08-21 05:33:34] spend time is: 880
+[2019-08-21 05:33:34] spend time is: 880
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:44] spend time is: 890
+[2019-08-21 05:33:54] spend time is: 900
+Already up to date.
