@@ -453,3 +453,182 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-08-23 05:30:10] spend time is: 590
 [2019-08-23 05:30:20] spend time is: 600
 Already up to date.
+[gh-pages 12a68f5] Synchronizing completion at 2019-08-23
+ 10 files changed, 189 insertions(+), 1 deletion(-)
+ create mode 100644 joomla-6.1.2.tgz
+ rewrite kong-0.16.1.tgz (99%)
+ rewrite kube-ops-view-1.1.0.tgz (98%)
+ rewrite magento-5.1.4.tgz (99%)
+ create mode 100644 mariadb-6.8.2.tgz
+ create mode 100644 mediawiki-8.1.2.tgz
+ create mode 100644 minio-2.5.12.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   87a9e99..12a68f5  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-08-23 05:30:26] mongodb-7.2.2.tgz update done.
+[2019-08-23 05:30:30] spend time is: 610
+[2019-08-23 05:30:30] spend time is: 610
+[2019-08-23 05:30:30] spend time is: 610
+[2019-08-23 05:30:30] spend time is: 610
+[2019-08-23 05:30:30] spend time is: 610
+[2019-08-23 05:30:40] spend time is: 620
+[2019-08-23 05:30:40] spend time is: 620
+[2019-08-23 05:30:40] spend time is: 620
+[2019-08-23 05:30:40] spend time is: 620
+[2019-08-23 05:30:40] spend time is: 620
+[2019-08-23 05:30:50] spend time is: 630
+[2019-08-23 05:30:50] spend time is: 630
+[2019-08-23 05:30:50] spend time is: 630
+[2019-08-23 05:30:50] spend time is: 630
+[2019-08-23 05:30:50] spend time is: 630
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:00] spend time is: 640
+[2019-08-23 05:31:04] moodle-6.1.2.tgz update done.
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:10] spend time is: 650
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:20] spend time is: 660
+[2019-08-23 05:31:30] spend time is: 670
+[2019-08-23 05:31:30] spend time is: 670
+[2019-08-23 05:31:30] spend time is: 670
+[2019-08-23 05:31:30] spend time is: 670
+[2019-08-23 05:31:30] spend time is: 670
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:40] spend time is: 680
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:31:50] spend time is: 690
+[2019-08-23 05:32:00] spend time is: 700
+[2019-08-23 05:32:00] spend time is: 700
+[2019-08-23 05:32:00] spend time is: 700
+[2019-08-23 05:32:00] spend time is: 700
+[2019-08-23 05:32:00] spend time is: 700
+[2019-08-23 05:32:10] spend time is: 710
+[2019-08-23 05:32:10] spend time is: 710
+[2019-08-23 05:32:10] spend time is: 710
+[2019-08-23 05:32:10] spend time is: 710
+[2019-08-23 05:32:10] spend time is: 710
+[2019-08-23 05:32:20] spend time is: 720
+[2019-08-23 05:32:20] spend time is: 720
+[2019-08-23 05:32:20] spend time is: 720
+[2019-08-23 05:32:20] spend time is: 720
+[2019-08-23 05:32:20] spend time is: 720
+[2019-08-23 05:32:30] spend time is: 730
+[2019-08-23 05:32:30] spend time is: 730
+[2019-08-23 05:32:30] spend time is: 730
+[2019-08-23 05:32:30] spend time is: 730
+[2019-08-23 05:32:30] spend time is: 730
+[2019-08-23 05:32:39] odoo-10.1.2.tgz update done.
+[2019-08-23 05:32:40] spend time is: 740
+[2019-08-23 05:32:40] spend time is: 740
+[2019-08-23 05:32:40] spend time is: 740
+[2019-08-23 05:32:40] spend time is: 740
+[2019-08-23 05:32:40] spend time is: 740
+[2019-08-23 05:32:50] spend time is: 750
+[2019-08-23 05:32:50] spend time is: 750
+[2019-08-23 05:32:50] spend time is: 750
+[2019-08-23 05:32:50] spend time is: 750
+[2019-08-23 05:32:50] spend time is: 750
+[2019-08-23 05:33:00] spend time is: 760
+[2019-08-23 05:33:00] spend time is: 760
+[2019-08-23 05:33:00] spend time is: 760
+[2019-08-23 05:33:00] spend time is: 760
+[2019-08-23 05:33:01] opencart-6.1.2.tgz update done.
+[2019-08-23 05:33:01] spend time is: 760
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:10] spend time is: 770
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:20] spend time is: 780
+[2019-08-23 05:33:27] orangehrm-6.1.2.tgz update done.
+[2019-08-23 05:33:30] spend time is: 790
+[2019-08-23 05:33:30] spend time is: 790
+[2019-08-23 05:33:30] spend time is: 790
+[2019-08-23 05:33:30] spend time is: 790
+[2019-08-23 05:33:30] spend time is: 790
+[2019-08-23 05:33:40] osclass-6.1.2.tgz update done.
+[2019-08-23 05:33:40] spend time is: 800
+[2019-08-23 05:33:40] spend time is: 800
+[2019-08-23 05:33:40] spend time is: 800
+[2019-08-23 05:33:40] spend time is: 800
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:33:50] spend time is: 810
+[2019-08-23 05:34:00] spend time is: 820
+[2019-08-23 05:34:00] spend time is: 820
+[2019-08-23 05:34:00] spend time is: 820
+[2019-08-23 05:34:00] spend time is: 820
+[2019-08-23 05:34:00] spend time is: 820
+[2019-08-23 05:34:07] parse-9.1.2.tgz update done.
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:10] spend time is: 830
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:20] spend time is: 840
+[2019-08-23 05:34:28] phabricator-7.0.0.tgz update done.
+[2019-08-23 05:34:30] spend time is: 850
+[2019-08-23 05:34:30] spend time is: 850
+[2019-08-23 05:34:30] spend time is: 850
+[2019-08-23 05:34:30] spend time is: 850
+[2019-08-23 05:34:30] spend time is: 850
+[2019-08-23 05:34:40] spend time is: 860
+[2019-08-23 05:34:40] spend time is: 860
+[2019-08-23 05:34:40] spend time is: 860
+[2019-08-23 05:34:40] spend time is: 860
+[2019-08-23 05:34:40] spend time is: 860
+[2019-08-23 05:34:50] spend time is: 870
+[2019-08-23 05:34:50] spend time is: 870
+[2019-08-23 05:34:50] spend time is: 870
+[2019-08-23 05:34:50] spend time is: 870
+[2019-08-23 05:34:50] spend time is: 870
+[2019-08-23 05:34:54] phpbb-6.1.2.tgz update done.
+[2019-08-23 05:35:00] spend time is: 880
+[2019-08-23 05:35:00] spend time is: 880
+[2019-08-23 05:35:00] spend time is: 880
+[2019-08-23 05:35:00] spend time is: 880
+[2019-08-23 05:35:00] spend time is: 880
+[2019-08-23 05:35:10] spend time is: 890
+[2019-08-23 05:35:10] spend time is: 890
+[2019-08-23 05:35:10] spend time is: 890
+[2019-08-23 05:35:10] spend time is: 890
+[2019-08-23 05:35:10] spend time is: 890
+[2019-08-23 05:35:15] postgresql-6.3.2.tgz update done.
+[2019-08-23 05:35:20] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
