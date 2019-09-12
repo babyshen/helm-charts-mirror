@@ -313,3 +313,263 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 72c10db] Synchronizing completion at 2019-09-12
+ 30 files changed, 3377 insertions(+), 308 deletions(-)
+ create mode 100644 airflow-4.0.8.tgz
+ create mode 100644 ambassador-3.3.4.tgz
+ create mode 100644 atlantis-3.8.2.tgz
+ create mode 100644 collabora-code-1.0.5.tgz
+ create mode 100644 concourse-8.2.4.tgz
+ create mode 100644 concourse-8.2.5.tgz
+ create mode 100644 couchbase-operator-1.0.1.tgz
+ create mode 100644 dokuwiki-5.2.5.tgz
+ create mode 100644 dokuwiki-5.2.6.tgz
+ create mode 100644 drupal-5.2.1.tgz
+ create mode 100644 drupal-5.2.2.tgz
+ create mode 100644 drupal-5.2.3.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 elasticsearch-exporter-1.10.1.tgz
+ create mode 100644 express-gateway-1.6.2.tgz
+ create mode 100644 external-dns-2.6.1.tgz
+ create mode 100644 falco-1.0.6.tgz
+ create mode 100644 ghost-7.2.2.tgz
+ create mode 100644 ghost-7.2.3.tgz
+ create mode 100644 ghost-7.2.4.tgz
+ create mode 100644 gocd-1.17.0.tgz
+ create mode 100644 grafana-3.8.10.tgz
+ create mode 100644 grafana-3.8.11.tgz
+ rewrite graylog-1.3.3.tgz (96%)
+ create mode 100644 jasperreports-6.2.2.tgz
+ create mode 100644 travis_wait_2026.log
+To github.com:babyshen/helm-charts-mirror.git
+   25cce95..72c10db  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:29] spend time is: 310
+[2019-09-12 05:34:30] spend time is: 310
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:39] spend time is: 320
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:49] spend time is: 330
+[2019-09-12 05:34:58] joomla-6.1.5.tgz update done.
+[2019-09-12 05:34:58] joomla-6.1.4.tgz update done.
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:34:59] spend time is: 340
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:09] spend time is: 350
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:19] spend time is: 360
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:29] spend time is: 370
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:39] spend time is: 380
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:49] spend time is: 390
+[2019-09-12 05:35:51] kube-ops-view-1.1.0.tgz update done.
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:35:59] spend time is: 400
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:09] spend time is: 410
+[2019-09-12 05:36:16] kubewatch-0.8.8.tgz update done.
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:19] spend time is: 420
+[2019-09-12 05:36:28] magento-5.1.4.tgz update done.
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:29] spend time is: 430
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:39] spend time is: 440
+[2019-09-12 05:36:41] mariadb-6.8.9.tgz update done.
+[2019-09-12 05:36:41] mariadb-6.8.8.tgz update done.
+[2019-09-12 05:36:42] mariadb-6.8.7.tgz update done.
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:49] spend time is: 450
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:36:59] spend time is: 460
+[2019-09-12 05:37:06] mediawiki-8.2.3.tgz update done.
+[2019-09-12 05:37:06] mediawiki-8.2.2.tgz update done.
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:09] spend time is: 470
+[2019-09-12 05:37:17] memcached-2.10.0.tgz update done.
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:19] spend time is: 480
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:29] spend time is: 490
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:39] spend time is: 500
+[2019-09-12 05:37:49] mission-control-0.4.3.tgz update done.
+[2019-09-12 05:37:49] spend time is: 510
+[2019-09-12 05:37:49] spend time is: 510
+[2019-09-12 05:37:49] spend time is: 510
+[2019-09-12 05:37:49] mongodb-7.2.8.tgz update done.
+[2019-09-12 05:37:49] spend time is: 510
+[2019-09-12 05:37:49] spend time is: 510
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:37:59] spend time is: 520
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:09] spend time is: 530
+[2019-09-12 05:38:19] spend time is: 540
+[2019-09-12 05:38:19] moodle-6.1.7.tgz update done.
+[2019-09-12 05:38:19] spend time is: 540
+[2019-09-12 05:38:19] moodle-6.1.6.tgz update done.
+[2019-09-12 05:38:19] spend time is: 540
+[2019-09-12 05:38:20] moodle-6.1.5.tgz update done.
+[2019-09-12 05:38:20] spend time is: 540
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:29] spend time is: 550
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:39] spend time is: 560
+[2019-09-12 05:38:44] nats-4.1.3.tgz update done.
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:49] spend time is: 570
+[2019-09-12 05:38:58] nextcloud-1.7.2.tgz update done.
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:38:59] spend time is: 580
+[2019-09-12 05:39:04] nginx-ingress-1.20.0.tgz update done.
+[2019-09-12 05:39:04] nginx-ingress-1.19.1.tgz update done.
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:09] spend time is: 590
+[2019-09-12 05:39:19] spend time is: 600
+Already up to date.
