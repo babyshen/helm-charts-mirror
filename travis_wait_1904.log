@@ -758,3 +758,165 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-09-16 05:45:36] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages c79670f] Synchronizing completion at 2019-09-16
+ 8 files changed, 236 insertions(+), 1 deletion(-)
+ create mode 100644 openldap-1.2.1.tgz
+ create mode 100644 parse-9.2.4.tgz
+ create mode 100644 prometheus-9.1.1.tgz
+ create mode 100644 prometheus-rabbitmq-exporter-0.5.3.tgz
+ create mode 100644 redis-9.1.10.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   5f82608..c79670f  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:46] spend time is: 910
+[2019-09-16 05:45:50] redmine-12.2.5.tgz update done.
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:45:56] spend time is: 920
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:06] spend time is: 930
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:16] spend time is: 940
+[2019-09-16 05:46:24] sentry-2.1.1.tgz update done.
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:26] spend time is: 950
+[2019-09-16 05:46:27] spend time is: 950
+[2019-09-16 05:46:32] sonarqube-2.2.0.tgz update done.
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:36] spend time is: 960
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:46] spend time is: 970
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:46:56] spend time is: 980
+[2019-09-16 05:47:03] spring-cloud-data-flow-2.4.3.tgz update done.
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:06] spend time is: 990
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:16] spend time is: 1000
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:26] spend time is: 1010
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:36] spend time is: 1020
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:46] spend time is: 1030
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:47:56] spend time is: 1040
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:06] spend time is: 1050
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:16] spend time is: 1060
+[2019-09-16 05:48:24] weave-scope-1.1.5.tgz update done.
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:26] spend time is: 1070
+[2019-09-16 05:48:27] spend time is: 1070
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:36] spend time is: 1080
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+[2019-09-16 05:48:46] spend time is: 1090
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
