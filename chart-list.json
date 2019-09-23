@@ -138,8 +138,14 @@
 }
 {
   "name": "airflow",
+  "version": "4.1.0",
+  "digest": "0f258aac05da67254b3afbd3aea4269b5c234cd68155fd3eec12775efee90eea",
+  "url": "https://kubernetes-charts.storage.googleapis.com/airflow-4.1.0.tgz"
+}
+{
+  "name": "airflow",
   "version": "4.0.9",
-  "digest": "c4b7b9a4779216fc7e272ac207e62589fed9f6fdd9d05dc367daa81c91b22ddb",
+  "digest": "0b05a4ef9b7c159b3b60b868586d11e1b4e24d3abb9cdb77be19d9410cace02b",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-4.0.9.tgz"
 }
 {
@@ -2685,6 +2691,12 @@
   "version": "1.0.0",
   "digest": "ad93c826c0efcc7b0b6cb610d9d24bfd4cd6cc362aa7a0ae5f0195390933a8da",
   "url": "https://kubernetes-charts.storage.googleapis.com/cloudserver-1.0.0.tgz"
+}
+{
+  "name": "cluster-autoscaler",
+  "version": "3.3.0",
+  "digest": "69f20f0bfbe583990f0a72a4a3c2322dab6887ea259452ec1086cf468b595119",
+  "url": "https://kubernetes-charts.storage.googleapis.com/cluster-autoscaler-3.3.0.tgz"
 }
 {
   "name": "cluster-autoscaler",
@@ -5809,7 +5821,7 @@
 {
   "name": "distribution",
   "version": "0.4.2",
-  "digest": "ff011af7ebf84fb03d3bc99abde8c6d85e52ed10d6895209fa9070b808aff320",
+  "digest": "147c19593650f3fb5e665aae8893b740ba70ca5eb3093f2f3a33b73961558186",
   "url": "https://kubernetes-charts.storage.googleapis.com/distribution-0.4.2.tgz"
 }
 {
@@ -6399,6 +6411,12 @@
   "version": "0.1.0",
   "digest": "6825fbacb709cf05901985561be10ba9473a379488d99b71d1590d33f5a81374",
   "url": "https://kubernetes-charts.storage.googleapis.com/dokuwiki-0.1.0.tgz"
+}
+{
+  "name": "drone",
+  "version": "2.2.0",
+  "digest": "84b35cab93cd200fbfc22be3fab7807b23e30b370435478e7d6e637563e01b62",
+  "url": "https://kubernetes-charts.storage.googleapis.com/drone-2.2.0.tgz"
 }
 {
   "name": "drone",
@@ -7597,7 +7615,7 @@
 {
   "name": "elastic-stack",
   "version": "1.8.0",
-  "digest": "1977a76db1f9a4f008ce10e22cca95722a9bc16e0ef2b0aee25f88d1d5414d51",
+  "digest": "a60b389114451b964a5e3247cba55a7d15a6922fd8aad620000e62c888a2efe1",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.8.0.tgz"
 }
 {
@@ -12354,6 +12372,12 @@
 }
 {
   "name": "grafana",
+  "version": "3.8.15",
+  "digest": "0e097f671f265aad910f650c0edbcffd2893ddcf392ccc7f59a9803babb5e5de",
+  "url": "https://kubernetes-charts.storage.googleapis.com/grafana-3.8.15.tgz"
+}
+{
+  "name": "grafana",
   "version": "3.8.14",
   "digest": "7b6da91338ffff3656a44b215ee6e3f5380b3590cdf2ef8815f03f669db0b750",
   "url": "https://kubernetes-charts.storage.googleapis.com/grafana-3.8.14.tgz"
@@ -13465,7 +13489,7 @@
 {
   "name": "graylog",
   "version": "1.3.3",
-  "digest": "b1e23ebe7187424c9fa926fdf30d0071e906268b2227908c1ff34d1efa765288",
+  "digest": "5d4689d0012f50b455e5d5759eac4f8679fbcb4439da58a98a9c864c32e830b3",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.3.3.tgz"
 }
 {
@@ -13975,7 +13999,7 @@
 {
   "name": "hlf-ca",
   "version": "1.1.8",
-  "digest": "11a21bf48151e1f6bb6f582652dae65d21e47a9b1cc4e7700295549b181e48e6",
+  "digest": "2aa305df002949189e80e2edc3edc5382461520f341a05e4a48ab0ab52d14c36",
   "url": "https://kubernetes-charts.storage.googleapis.com/hlf-ca-1.1.8.tgz"
 }
 {
@@ -15001,7 +15025,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.1",
-  "digest": "6cfa4ce5abcb8d77f57cf4cdfcfa27ee2a5c51788c1f04556a0a938b9a9e811e",
+  "digest": "3be26a86218cfa2fbe09e86e4fb52a04b21d0f5c195d05c52117278be273c28f",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.1.tgz"
 }
 {
@@ -19057,7 +19081,7 @@
 {
   "name": "kube-ops-view",
   "version": "1.1.0",
-  "digest": "1235ec98c9ea807cb26fd377371957f9e0de8227b4ffebc2bd6e14d71b4b5d80",
+  "digest": "35b4802e9540e40bb4001fef38e21e6847600da7261264e3cb601844822d3434",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-1.1.0.tgz"
 }
 {
@@ -27445,7 +27469,7 @@
 {
   "name": "nextcloud",
   "version": "1.7.2",
-  "digest": "dc089a4a8cf5f5e2cf49a0bd6b73a367284b3d55ca04d6fbd65ed190f781f3c5",
+  "digest": "9332ff5f507b0355ec4da272919e29eaa33b3b5b951594db5a8f4e368c1f8578",
   "url": "https://kubernetes-charts.storage.googleapis.com/nextcloud-1.7.2.tgz"
 }
 {
@@ -42271,7 +42295,7 @@
 {
   "name": "redmine",
   "version": "12.2.5",
-  "digest": "cb31874590720a196f7decd350de128192b9f84a218dd339305793876a6d0c93",
+  "digest": "27a38b8a83aab408e16bc5e3d81e2f1350434ecbee14df0acc5905ef662b61d9",
   "url": "https://kubernetes-charts.storage.googleapis.com/redmine-12.2.5.tgz"
 }
 {
@@ -43783,7 +43807,7 @@
 {
   "name": "sentry",
   "version": "2.1.2",
-  "digest": "5609d11639b8a5116906f4f6c62bad5276e1e586065230f11ed9dab72ef561ef",
+  "digest": "3f6851fc72743c8c22fa50d8e1c113c7d6060318a53424afac11071e5bc4a775",
   "url": "https://kubernetes-charts.storage.googleapis.com/sentry-2.1.2.tgz"
 }
 {
