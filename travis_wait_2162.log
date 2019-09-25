@@ -297,3 +297,244 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages f2312a8] Synchronizing completion at 2019-09-25
+ 18 files changed, 1372 insertions(+), 303 deletions(-)
+ rewrite anchore-engine-1.3.0.tgz (98%)
+ create mode 100644 anchore-engine-1.3.1.tgz
+ create mode 100644 bookstack-1.1.1.tgz
+ create mode 100644 cluster-autoscaler-3.4.0.tgz
+ create mode 100644 cluster-autoscaler-4.0.0.tgz
+ create mode 100644 cluster-autoscaler-4.0.1.tgz
+ create mode 100644 cluster-overprovisioner-0.2.4.tgz
+ create mode 100644 cockroachdb-2.1.13.tgz
+ create mode 100644 datadog-1.35.1.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ rewrite gitlab-ce-0.2.2.tgz (100%)
+ rewrite gitlab-ee-0.2.2.tgz (99%)
+ rewrite graylog-1.3.3.tgz (95%)
+ create mode 100644 hazelcast-2.2.0.tgz
+ create mode 100644 travis_wait_2162.log
+To github.com:babyshen/helm-charts-mirror.git
+   c43429a..f2312a8  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:14] spend time is: 310
+[2019-09-25 05:40:15] janusgraph-0.2.1.tgz update done.
+[2019-09-25 05:40:15] spend time is: 310
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:24] spend time is: 320
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:34] spend time is: 330
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:44] spend time is: 340
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:40:54] spend time is: 350
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:04] spend time is: 360
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:14] spend time is: 370
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:24] spend time is: 380
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:34] spend time is: 390
+[2019-09-25 05:41:35] spend time is: 390
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:44] spend time is: 400
+[2019-09-25 05:41:46] kube-ops-view-1.1.0.tgz update done.
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:41:54] spend time is: 410
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:04] spend time is: 420
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:14] spend time is: 430
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:24] spend time is: 440
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:34] spend time is: 450
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:44] spend time is: 460
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:42:54] spend time is: 470
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:04] spend time is: 480
+[2019-09-25 05:43:12] memcached-2.10.2.tgz update done.
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:14] spend time is: 490
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:24] spend time is: 500
+[2019-09-25 05:43:26] metrics-server-2.8.6.tgz update done.
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:34] spend time is: 510
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:44] spend time is: 520
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:43:54] spend time is: 530
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:04] spend time is: 540
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:14] spend time is: 550
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:24] spend time is: 560
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:34] spend time is: 570
+[2019-09-25 05:44:42] nats-4.2.0.tgz update done.
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:44] spend time is: 580
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:44:54] spend time is: 590
+[2019-09-25 05:45:02] nginx-ingress-1.22.0.tgz update done.
+[2019-09-25 05:45:04] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
