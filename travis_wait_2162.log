@@ -775,3 +775,191 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-09-25 05:50:04] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
 Already up to date.
+[gh-pages 7b56dc2] Synchronizing completion at 2019-09-25
+ 16 files changed, 238 insertions(+), 1 deletion(-)
+ create mode 100644 odoo-11.1.6.tgz
+ create mode 100644 parse-10.0.1.tgz
+ create mode 100644 phabricator-7.0.8.tgz
+ create mode 100644 phabricator-7.0.9.tgz
+ create mode 100644 phpbb-6.2.2.tgz
+ create mode 100644 phpbb-6.2.3.tgz
+ create mode 100644 phpmyadmin-3.0.6.tgz
+ create mode 100644 phpmyadmin-3.0.7.tgz
+ create mode 100644 postgresql-6.3.8.tgz
+ create mode 100644 postgresql-6.3.9.tgz
+ create mode 100644 prestashop-8.2.3.tgz
+ create mode 100644 rabbitmq-6.7.3.tgz
+ create mode 100644 rabbitmq-6.7.4.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   43e64e1..7b56dc2  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-09-25 05:50:10] redis-9.2.0.tgz update done.
+[2019-09-25 05:50:11] redis-9.1.12.tgz update done.
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:14] spend time is: 910
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:24] spend time is: 920
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:34] spend time is: 930
+[2019-09-25 05:50:37] redis-ha-3.7.11.tgz update done.
+[2019-09-25 05:50:37] redis-ha-3.7.10.tgz update done.
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:44] spend time is: 940
+[2019-09-25 05:50:46] redmine-12.2.6.tgz update done.
+[2019-09-25 05:50:46] redmine-12.2.5.tgz update done.
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:50:54] spend time is: 950
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:04] spend time is: 960
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:14] spend time is: 970
+[2019-09-25 05:51:21] sentry-2.2.0.tgz update done.
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:24] spend time is: 980
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:34] spend time is: 990
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:44] spend time is: 1000
+[2019-09-25 05:51:51] spinnaker-1.16.0.tgz update done.
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:51:54] spend time is: 1010
+[2019-09-25 05:52:02] spring-cloud-data-flow-2.4.3.tgz update done.
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:04] spend time is: 1020
+[2019-09-25 05:52:11] suitecrm-7.2.4.tgz update done.
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:14] spend time is: 1030
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:24] spend time is: 1040
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:34] spend time is: 1050
+[2019-09-25 05:52:38] testlink-6.3.1.tgz update done.
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:44] spend time is: 1060
+[2019-09-25 05:52:49] tomcat-0.3.0.tgz update done.
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:52:54] spend time is: 1070
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:04] spend time is: 1080
+[2019-09-25 05:53:05] spend time is: 1080
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:14] spend time is: 1090
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:24] spend time is: 1100
+[2019-09-25 05:53:27] wordpress-7.3.7.tgz update done.
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:34] spend time is: 1110
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:44] spend time is: 1120
+[2019-09-25 05:53:48] xray-0.4.2.tgz update done.
+Already up to date.
