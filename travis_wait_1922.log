@@ -265,3 +265,226 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-09-28 05:42:37] spend time is: 300
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 31f562ffeb0eae93535bedea7acd21e192a4480d.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 31f562ffeb0eae93535bedea7acd21e192a4480d.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 31f562ffeb0eae93535bedea7acd21e192a4480d
+output, run
+$ git reset --hard
+to recover.
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-4.1.0.tgz
+	chart-list.json
+	elastic-stack-1.8.0.tgz
+	gitlab-ce-0.2.2.tgz
+	graylog-1.3.3.tgz
+	index.yaml
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	ambassador-4.1.0.tgz
+	falco-1.0.8.tgz
+	gocd-1.18.0.tgz
+	travis_wait_1922.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 31f562ffeb0eae93535bedea7acd21e192a4480d
+output, run
+$ git reset --hard
+to recover.
+[gh-pages 92f8d63] Synchronizing completion at 2019-09-28
+ 11 files changed, 838 insertions(+), 299 deletions(-)
+ rewrite airflow-4.1.0.tgz (98%)
+ create mode 100644 ambassador-4.1.0.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 falco-1.0.8.tgz
+ rewrite gitlab-ce-0.2.2.tgz (100%)
+ create mode 100644 gocd-1.18.0.tgz
+ rewrite graylog-1.3.3.tgz (99%)
+ create mode 100644 travis_wait_1922.log
+To github.com:babyshen/helm-charts-mirror.git
+   31f562f..92f8d63  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-09-28 05:42:47] spend time is: 310
+[2019-09-28 05:42:47] spend time is: 310
+[2019-09-28 05:42:47] spend time is: 310
+[2019-09-28 05:42:47] spend time is: 310
+[2019-09-28 05:42:47] spend time is: 310
+[2019-09-28 05:42:57] spend time is: 320
+[2019-09-28 05:42:57] spend time is: 320
+[2019-09-28 05:42:57] spend time is: 320
+[2019-09-28 05:42:57] spend time is: 320
+[2019-09-28 05:42:57] spend time is: 320
+[2019-09-28 05:43:07] spend time is: 330
+[2019-09-28 05:43:07] spend time is: 330
+[2019-09-28 05:43:07] spend time is: 330
+[2019-09-28 05:43:07] spend time is: 330
+[2019-09-28 05:43:07] spend time is: 330
+[2019-09-28 05:43:16] janusgraph-0.2.1.tgz update done.
+[2019-09-28 05:43:17] spend time is: 340
+[2019-09-28 05:43:17] spend time is: 340
+[2019-09-28 05:43:17] spend time is: 340
+[2019-09-28 05:43:17] spend time is: 340
+[2019-09-28 05:43:17] spend time is: 340
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:27] spend time is: 350
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:37] spend time is: 360
+[2019-09-28 05:43:47] spend time is: 370
+[2019-09-28 05:43:47] spend time is: 370
+[2019-09-28 05:43:47] spend time is: 370
+[2019-09-28 05:43:47] spend time is: 370
+[2019-09-28 05:43:47] spend time is: 370
+[2019-09-28 05:43:57] spend time is: 380
+[2019-09-28 05:43:57] spend time is: 380
+[2019-09-28 05:43:57] spend time is: 380
+[2019-09-28 05:43:57] spend time is: 380
+[2019-09-28 05:43:57] spend time is: 380
+[2019-09-28 05:44:07] spend time is: 390
+[2019-09-28 05:44:07] spend time is: 390
+[2019-09-28 05:44:07] spend time is: 390
+[2019-09-28 05:44:07] spend time is: 390
+[2019-09-28 05:44:08] joomla-6.1.7.tgz update done.
+[2019-09-28 05:44:08] spend time is: 390
+[2019-09-28 05:44:17] spend time is: 400
+[2019-09-28 05:44:17] spend time is: 400
+[2019-09-28 05:44:17] spend time is: 400
+[2019-09-28 05:44:17] spend time is: 400
+[2019-09-28 05:44:17] spend time is: 400
+[2019-09-28 05:44:18] spend time is: 400
+[2019-09-28 05:44:27] spend time is: 410
+[2019-09-28 05:44:27] spend time is: 410
+[2019-09-28 05:44:27] spend time is: 410
+[2019-09-28 05:44:27] spend time is: 410
+[2019-09-28 05:44:27] spend time is: 410
+[2019-09-28 05:44:37] spend time is: 420
+[2019-09-28 05:44:37] spend time is: 420
+[2019-09-28 05:44:37] spend time is: 420
+[2019-09-28 05:44:37] spend time is: 420
+[2019-09-28 05:44:37] spend time is: 420
+[2019-09-28 05:44:38] spend time is: 420
+[2019-09-28 05:44:47] spend time is: 430
+[2019-09-28 05:44:47] spend time is: 430
+[2019-09-28 05:44:47] spend time is: 430
+[2019-09-28 05:44:47] spend time is: 430
+[2019-09-28 05:44:47] spend time is: 430
+[2019-09-28 05:44:57] spend time is: 440
+[2019-09-28 05:44:57] spend time is: 440
+[2019-09-28 05:44:57] spend time is: 440
+[2019-09-28 05:44:57] spend time is: 440
+[2019-09-28 05:44:57] spend time is: 440
+[2019-09-28 05:45:05] kong-0.18.5.tgz update done.
+[2019-09-28 05:45:05] kong-0.18.4.tgz update done.
+[2019-09-28 05:45:05] kong-0.18.3.tgz update done.
+[2019-09-28 05:45:06] kong-0.18.2.tgz update done.
+[2019-09-28 05:45:06] kong-0.18.1.tgz update done.
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:07] spend time is: 450
+[2019-09-28 05:45:17] spend time is: 460
+[2019-09-28 05:45:17] spend time is: 460
+[2019-09-28 05:45:17] spend time is: 460
+[2019-09-28 05:45:17] spend time is: 460
+[2019-09-28 05:45:17] spend time is: 460
+[2019-09-28 05:45:23] kube-ops-view-1.1.0.tgz update done.
+[2019-09-28 05:45:27] spend time is: 470
+[2019-09-28 05:45:27] spend time is: 470
+[2019-09-28 05:45:27] spend time is: 470
+[2019-09-28 05:45:27] spend time is: 470
+[2019-09-28 05:45:27] spend time is: 470
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:37] spend time is: 480
+[2019-09-28 05:45:47] spend time is: 490
+[2019-09-28 05:45:47] spend time is: 490
+[2019-09-28 05:45:47] spend time is: 490
+[2019-09-28 05:45:47] spend time is: 490
+[2019-09-28 05:45:47] spend time is: 490
+[2019-09-28 05:45:57] spend time is: 500
+[2019-09-28 05:45:57] spend time is: 500
+[2019-09-28 05:45:57] spend time is: 500
+[2019-09-28 05:45:57] spend time is: 500
+[2019-09-28 05:45:57] spend time is: 500
+[2019-09-28 05:45:58] spend time is: 500
+[2019-09-28 05:46:07] spend time is: 510
+[2019-09-28 05:46:07] spend time is: 510
+[2019-09-28 05:46:07] spend time is: 510
+[2019-09-28 05:46:07] spend time is: 510
+[2019-09-28 05:46:07] spend time is: 510
+[2019-09-28 05:46:17] spend time is: 520
+[2019-09-28 05:46:17] spend time is: 520
+[2019-09-28 05:46:17] spend time is: 520
+[2019-09-28 05:46:17] spend time is: 520
+[2019-09-28 05:46:17] spend time is: 520
+[2019-09-28 05:46:18] spend time is: 520
+[2019-09-28 05:46:27] spend time is: 530
+[2019-09-28 05:46:27] spend time is: 530
+[2019-09-28 05:46:27] spend time is: 530
+[2019-09-28 05:46:27] spend time is: 530
+[2019-09-28 05:46:27] spend time is: 530
+[2019-09-28 05:46:31] mariadb-6.10.1.tgz update done.
+[2019-09-28 05:46:32] mariadb-6.10.0.tgz update done.
+[2019-09-28 05:46:37] spend time is: 540
+[2019-09-28 05:46:37] spend time is: 540
+[2019-09-28 05:46:37] spend time is: 540
+[2019-09-28 05:46:37] spend time is: 540
+[2019-09-28 05:46:37] spend time is: 540
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:47] spend time is: 550
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:46:57] spend time is: 560
+[2019-09-28 05:47:07] spend time is: 570
+[2019-09-28 05:47:07] spend time is: 570
+[2019-09-28 05:47:07] spend time is: 570
+[2019-09-28 05:47:07] spend time is: 570
+[2019-09-28 05:47:07] spend time is: 570
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:17] spend time is: 580
+[2019-09-28 05:47:27] spend time is: 590
+[2019-09-28 05:47:27] spend time is: 590
+[2019-09-28 05:47:27] spend time is: 590
+[2019-09-28 05:47:27] spend time is: 590
+[2019-09-28 05:47:27] spend time is: 590
+[2019-09-28 05:47:28] spend time is: 590
+[2019-09-28 05:47:37] spend time is: 600
+Already up to date.
