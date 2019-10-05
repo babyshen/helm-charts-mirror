@@ -524,3 +524,239 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-10-05 05:49:42] spend time is: 600
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages 3992231] Synchronizing completion at 2019-10-05
+ 14 files changed, 236 insertions(+), 1 deletion(-)
+ create mode 100644 joomla-6.1.8.tgz
+ create mode 100644 kiam-2.5.2.tgz
+ rewrite kong-0.19.0.tgz (99%)
+ rewrite kube-ops-view-1.1.0.tgz (84%)
+ create mode 100644 mediawiki-8.2.5.tgz
+ create mode 100644 memcached-3.0.1.tgz
+ create mode 100644 minio-2.5.16.tgz
+ create mode 100644 mongodb-7.2.11.tgz
+ create mode 100644 moodle-6.1.9.tgz
+ create mode 100644 mysql-1.4.0.tgz
+ create mode 100644 nats-4.2.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   f942de9..3992231  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-10-05 05:49:51] newrelic-infrastructure-0.13.9.tgz update done.
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:49:52] spend time is: 610
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:02] spend time is: 620
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:12] spend time is: 630
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:22] spend time is: 640
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:32] odoo-11.1.7.tgz update done.
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:32] spend time is: 650
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:42] spend time is: 660
+[2019-10-05 05:50:50] opencart-6.2.4.tgz update done.
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:50:52] spend time is: 670
+[2019-10-05 05:51:01] openebs-1.2.3.tgz update done.
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:02] spend time is: 680
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:12] spend time is: 690
+[2019-10-05 05:51:13] orangehrm-6.2.4.tgz update done.
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:22] spend time is: 700
+[2019-10-05 05:51:23] osclass-6.2.4.tgz update done.
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:32] spend time is: 710
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:42] spend time is: 720
+[2019-10-05 05:51:46] parse-10.0.2.tgz update done.
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:51:52] spend time is: 730
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:02] spend time is: 740
+[2019-10-05 05:52:04] phabricator-7.0.11.tgz update done.
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:12] spend time is: 750
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:22] spend time is: 760
+[2019-10-05 05:52:25] phpbb-6.2.4.tgz update done.
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:32] spend time is: 770
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:42] spend time is: 780
+[2019-10-05 05:52:43] postgresql-6.3.12.tgz update done.
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:52:52] spend time is: 790
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:02] spend time is: 800
+[2019-10-05 05:53:08] prestashop-8.2.4.tgz update done.
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:12] spend time is: 810
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:22] spend time is: 820
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:32] spend time is: 830
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:42] spend time is: 840
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:53:52] spend time is: 850
+[2019-10-05 05:54:00] prometheus-operator-6.11.0.tgz update done.
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:02] spend time is: 860
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:12] spend time is: 870
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:22] spend time is: 880
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:32] spend time is: 890
+[2019-10-05 05:54:33] rabbitmq-6.8.2.tgz update done.
+[2019-10-05 05:54:42] spend time is: 900
+Already up to date.
