@@ -7921,7 +7921,7 @@
 {
   "name": "elastic-stack",
   "version": "1.8.0",
-  "digest": "b4e2ca6ae87bc98cf6b45d3b2ac38c8339aee70d71dae2ccce6ace8b4beeaee0",
+  "digest": "6565c4c9c7698a3c21e0f5dda64a86313189faa47c973d7b2b9c9cde7a5dafbb",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-1.8.0.tgz"
 }
 {
@@ -12319,7 +12319,7 @@
 {
   "name": "gitlab-ee",
   "version": "0.2.2",
-  "digest": "2b6d773acd3f6cc7db818e55e46f66f791f58d7747c36fc356bb3248d6366d48",
+  "digest": "43358a820918f0421b2118806c059d0a592782b0a10251998c8b5fedd3b500ec",
   "url": "https://kubernetes-charts.storage.googleapis.com/gitlab-ee-0.2.2.tgz"
 }
 {
@@ -13981,7 +13981,7 @@
 {
   "name": "graylog",
   "version": "1.3.5",
-  "digest": "6239dd665eb32fc5db086a317b8a95bb4b0b403fa2d1bb76ea5bc3184320c1e5",
+  "digest": "1217a60ccd8785299de4c802be3d7b07a2afc8997f3cfdcd12f7e55b9bd43718",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.3.5.tgz"
 }
 {
@@ -15565,7 +15565,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.1",
-  "digest": "5ba9fd77bd00fbefb3d75648db10b01a751b7c9d6ccbf2bec2aa7df0db2552a8",
+  "digest": "19588bc53c6671a1c69c2fb0b3c39b13d6bd02b666bdf0fee5ac226b81dfe966",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.1.tgz"
 }
 {
@@ -15981,6 +15981,12 @@
   "version": "0.1.1",
   "digest": "5cc4af8c88691d7030602c97be2ccbc125ef11129b361da0aa236a127c31b965",
   "url": "https://kubernetes-charts.storage.googleapis.com/jasperreports-0.1.1.tgz"
+}
+{
+  "name": "jenkins",
+  "version": "1.7.6",
+  "digest": "09513e0d9858424dc4618cd5f2b15b2f6d954f62d32f826163e749ab996fa3cd",
+  "url": "https://kubernetes-charts.storage.googleapis.com/jenkins-1.7.6.tgz"
 }
 {
   "name": "jenkins",
@@ -19735,7 +19741,7 @@
 {
   "name": "kube-ops-view",
   "version": "1.1.0",
-  "digest": "09312accc67745f3151974d00f168f47145ae2240ba83da9c7b283cf7e96a986",
+  "digest": "51ab8d0d6c8c4e97ef574efa738ea2646026a283d23ab9eaad7207944cf75b9a",
   "url": "https://kubernetes-charts.storage.googleapis.com/kube-ops-view-1.1.0.tgz"
 }
 {
@@ -21457,7 +21463,7 @@
 {
   "name": "magento",
   "version": "5.1.4",
-  "digest": "f82ef194f91792900a31d1ffa81bd619e04b827dcd4895cd11b7a4085bc78e3a",
+  "digest": "c4da38c728e2f1cdb38999863259be4885d3e4e68c4500b784509e67cd7d70a4",
   "url": "https://kubernetes-charts.storage.googleapis.com/magento-5.1.4.tgz"
 }
 {
@@ -38928,6 +38934,12 @@
 }
 {
   "name": "prometheus-nats-exporter",
+  "version": "2.3.0",
+  "digest": "e4240e09752379125289d66d51bf24de78231c8ba83a72627339dad4c60bb6d8",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-nats-exporter-2.3.0.tgz"
+}
+{
+  "name": "prometheus-nats-exporter",
   "version": "2.2.1",
   "digest": "8335853d85d8283766866cafaa526b21df7270aa39eea1b5303fedc2f398b8c3",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-nats-exporter-2.2.1.tgz"
@@ -39105,6 +39117,12 @@
   "version": "0.1.0",
   "digest": "f9cb0bfdaaf55f0328a01be05da63579aef404f7c97c3665a89d97a24673e729",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-node-exporter-0.1.0.tgz"
+}
+{
+  "name": "prometheus-operator",
+  "version": "6.17.2",
+  "digest": "998ddf3019a65653d69e8de08a3c583c89cd66b9d984dbdd93b81f9d615ff164",
+  "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-operator-6.17.2.tgz"
 }
 {
   "name": "prometheus-operator",
@@ -50797,7 +50815,7 @@
 {
   "name": "weave-scope",
   "version": "1.1.5",
-  "digest": "9e507811678cbed37c9cd70fdc8660f54df2561b3b5953c696e9dfe2d826c700",
+  "digest": "9166812a98924aec5a405c8b69d7e7123534b3b678d4aaa3d0ae90d6acfb9417",
   "url": "https://kubernetes-charts.storage.googleapis.com/weave-scope-1.1.5.tgz"
 }
 {
