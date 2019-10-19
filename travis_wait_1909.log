@@ -303,3 +303,280 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 3b7167c] Synchronizing completion at 2019-10-19
+ 21 files changed, 1945 insertions(+), 315 deletions(-)
+ rewrite airflow-4.1.2.tgz (98%)
+ create mode 100644 chartmuseum-2.4.0.tgz
+ create mode 100644 consul-3.9.1.tgz
+ rewrite elastic-stack-1.8.0.tgz (99%)
+ create mode 100644 external-dns-2.9.2.tgz
+ create mode 100644 external-dns-2.9.3.tgz
+ create mode 100644 fluent-bit-2.7.3.tgz
+ create mode 100644 ghost-7.2.11.tgz
+ create mode 100644 grafana-3.10.2.tgz
+ create mode 100644 grafana-3.11.0.tgz
+ create mode 100644 grafana-3.11.1.tgz
+ create mode 100644 grafana-3.12.0.tgz
+ create mode 100644 grafana-3.12.1.tgz
+ rewrite graylog-1.3.3.tgz (99%)
+ create mode 100644 graylog-1.3.4.tgz
+ create mode 100644 graylog-1.3.5.tgz
+ create mode 100644 graylog-1.3.6.tgz
+ create mode 100644 travis_wait_1909.log
+To github.com:babyshen/helm-charts-mirror.git
+   b6ebae3..3b7167c  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-10-19 05:52:02] hazelcast-2.5.0.tgz update done.
+[2019-10-19 05:52:02] hazelcast-2.4.0.tgz update done.
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:04] spend time is: 310
+[2019-10-19 05:52:10] hlf-ca-1.2.0.tgz update done.
+[2019-10-19 05:52:10] hlf-ca-1.1.8.tgz update done.
+[2019-10-19 05:52:14] hlf-peer-1.3.0.tgz update done.
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:14] spend time is: 320
+[2019-10-19 05:52:16] hoard-1.0.0.tgz update done.
+[2019-10-19 05:52:17] home-assistant-0.9.8.tgz update done.
+[2019-10-19 05:52:23] influxdb-1.4.1.tgz update done.
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:24] spend time is: 330
+[2019-10-19 05:52:30] instana-agent-1.0.18.tgz update done.
+[2019-10-19 05:52:30] instana-agent-1.0.17.tgz update done.
+[2019-10-19 05:52:31] instana-agent-1.0.16.tgz update done.
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:34] spend time is: 340
+[2019-10-19 05:52:36] janusgraph-0.2.1.tgz update done.
+[2019-10-19 05:52:37] jasperreports-6.2.6.tgz update done.
+[2019-10-19 05:52:38] jasperreports-6.2.5.tgz update done.
+[2019-10-19 05:52:38] jasperreports-6.2.4.tgz update done.
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:44] spend time is: 350
+[2019-10-19 05:52:47] jenkins-1.7.8.tgz update done.
+[2019-10-19 05:52:47] jenkins-1.7.7.tgz update done.
+[2019-10-19 05:52:48] jenkins-1.7.6.tgz update done.
+[2019-10-19 05:52:48] jenkins-1.7.5.tgz update done.
+[2019-10-19 05:52:48] jenkins-1.7.4.tgz update done.
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:52:54] spend time is: 360
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:04] spend time is: 370
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:14] spend time is: 380
+[2019-10-19 05:53:17] joomla-6.1.9.tgz update done.
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:24] spend time is: 390
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:34] spend time is: 400
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:44] spend time is: 410
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:53:54] spend time is: 420
+[2019-10-19 05:54:02] kong-0.23.0.tgz update done.
+[2019-10-19 05:54:02] kong-0.22.1.tgz update done.
+[2019-10-19 05:54:03] kong-0.22.0.tgz update done.
+[2019-10-19 05:54:03] kong-0.21.1.tgz update done.
+[2019-10-19 05:54:03] kong-0.21.0.tgz update done.
+[2019-10-19 05:54:04] kong-0.20.0.tgz update done.
+[2019-10-19 05:54:04] spend time is: 430
+[2019-10-19 05:54:04] kong-0.19.2.tgz update done.
+[2019-10-19 05:54:04] spend time is: 430
+[2019-10-19 05:54:04] kong-0.19.1.tgz update done.
+[2019-10-19 05:54:04] spend time is: 430
+[2019-10-19 05:54:05] kong-0.19.0.tgz update done.
+[2019-10-19 05:54:05] spend time is: 430
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:14] spend time is: 440
+[2019-10-19 05:54:18] kube-ops-view-1.1.0.tgz update done.
+[2019-10-19 05:54:21] kube-state-metrics-2.4.1.tgz update done.
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:24] spend time is: 450
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:34] spend time is: 460
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:44] spend time is: 470
+[2019-10-19 05:54:45] kubewatch-0.8.11.tgz update done.
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:54:54] spend time is: 480
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:04] spend time is: 490
+[2019-10-19 05:55:11] mariadb-6.12.0.tgz update done.
+[2019-10-19 05:55:12] mariadb-6.11.3.tgz update done.
+[2019-10-19 05:55:12] mariadb-6.11.2.tgz update done.
+[2019-10-19 05:55:12] mariadb-6.11.1.tgz update done.
+[2019-10-19 05:55:12] mariadb-6.11.0.tgz update done.
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:14] spend time is: 500
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:24] spend time is: 510
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:34] spend time is: 520
+[2019-10-19 05:55:35] spend time is: 520
+[2019-10-19 05:55:39] mediawiki-8.2.7.tgz update done.
+[2019-10-19 05:55:39] mediawiki-8.2.6.tgz update done.
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:44] spend time is: 530
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:55:54] spend time is: 540
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:04] spend time is: 550
+[2019-10-19 05:56:05] metrics-server-2.8.8.tgz update done.
+[2019-10-19 05:56:10] minecraft-1.1.3.tgz update done.
+[2019-10-19 05:56:10] minecraft-1.1.2.tgz update done.
+[2019-10-19 05:56:10] minecraft-1.1.1.tgz update done.
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:14] spend time is: 560
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:24] spend time is: 570
+[2019-10-19 05:56:27] mongodb-7.4.2.tgz update done.
+[2019-10-19 05:56:28] mongodb-7.4.1.tgz update done.
+[2019-10-19 05:56:28] mongodb-7.4.0.tgz update done.
+[2019-10-19 05:56:28] mongodb-7.3.2.tgz update done.
+[2019-10-19 05:56:29] mongodb-7.3.1.tgz update done.
+[2019-10-19 05:56:29] mongodb-7.3.0.tgz update done.
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:34] spend time is: 580
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:44] spend time is: 590
+[2019-10-19 05:56:54] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
