@@ -580,3 +580,302 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2019-10-19 05:56:54] spend time is: 600
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 Already up to date.
+[gh-pages 872fd38] Synchronizing completion at 2019-10-19
+ 52 files changed, 278 insertions(+), 1 deletion(-)
+ create mode 100644 hazelcast-2.4.0.tgz
+ create mode 100644 hazelcast-2.5.0.tgz
+ rewrite hlf-ca-1.1.8.tgz (99%)
+ create mode 100644 hlf-ca-1.2.0.tgz
+ create mode 100644 hlf-peer-1.3.0.tgz
+ create mode 100644 hoard-1.0.0.tgz
+ create mode 100644 home-assistant-0.9.8.tgz
+ create mode 100644 influxdb-1.4.1.tgz
+ create mode 100644 instana-agent-1.0.16.tgz
+ create mode 100644 instana-agent-1.0.17.tgz
+ create mode 100644 instana-agent-1.0.18.tgz
+ create mode 100644 jasperreports-6.2.4.tgz
+ create mode 100644 jasperreports-6.2.5.tgz
+ create mode 100644 jasperreports-6.2.6.tgz
+ create mode 100644 jenkins-1.7.4.tgz
+ create mode 100644 jenkins-1.7.5.tgz
+ create mode 100644 jenkins-1.7.6.tgz
+ create mode 100644 jenkins-1.7.7.tgz
+ create mode 100644 jenkins-1.7.8.tgz
+ create mode 100644 joomla-6.1.9.tgz
+ rewrite kong-0.19.0.tgz (99%)
+ create mode 100644 kong-0.19.1.tgz
+ create mode 100644 kong-0.19.2.tgz
+ create mode 100644 kong-0.20.0.tgz
+ create mode 100644 kong-0.21.0.tgz
+ create mode 100644 kong-0.21.1.tgz
+ create mode 100644 kong-0.22.0.tgz
+ create mode 100644 kong-0.22.1.tgz
+ create mode 100644 kong-0.23.0.tgz
+ rewrite kube-ops-view-1.1.0.tgz (99%)
+ create mode 100644 kube-state-metrics-2.4.1.tgz
+ create mode 100644 kubewatch-0.8.11.tgz
+ create mode 100644 mariadb-6.11.0.tgz
+ create mode 100644 mariadb-6.11.1.tgz
+ create mode 100644 mariadb-6.11.2.tgz
+ create mode 100644 mariadb-6.11.3.tgz
+ create mode 100644 mariadb-6.12.0.tgz
+ create mode 100644 mediawiki-8.2.6.tgz
+ create mode 100644 mediawiki-8.2.7.tgz
+ create mode 100644 metrics-server-2.8.8.tgz
+ create mode 100644 minecraft-1.1.1.tgz
+ create mode 100644 minecraft-1.1.2.tgz
+ create mode 100644 minecraft-1.1.3.tgz
+ create mode 100644 mongodb-7.3.0.tgz
+ create mode 100644 mongodb-7.3.1.tgz
+ create mode 100644 mongodb-7.3.2.tgz
+ create mode 100644 mongodb-7.4.0.tgz
+ create mode 100644 mongodb-7.4.1.tgz
+ create mode 100644 mongodb-7.4.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   3b7167c..872fd38  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:04] spend time is: 610
+[2019-10-19 05:57:06] moodle-6.1.11.tgz update done.
+[2019-10-19 05:57:06] moodle-6.1.10.tgz update done.
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:14] spend time is: 620
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:24] spend time is: 630
+[2019-10-19 05:57:34] nats-4.2.3.tgz update done.
+[2019-10-19 05:57:34] spend time is: 640
+[2019-10-19 05:57:34] nats-4.2.2.tgz update done.
+[2019-10-19 05:57:34] spend time is: 640
+[2019-10-19 05:57:34] spend time is: 640
+[2019-10-19 05:57:34] spend time is: 640
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:44] spend time is: 650
+[2019-10-19 05:57:45] newrelic-infrastructure-0.13.10.tgz update done.
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:54] spend time is: 660
+[2019-10-19 05:57:56] nginx-ingress-1.24.3.tgz update done.
+[2019-10-19 05:57:56] nginx-ingress-1.24.2.tgz update done.
+[2019-10-19 05:57:57] nginx-ingress-1.24.1.tgz update done.
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:04] spend time is: 670
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:14] spend time is: 680
+[2019-10-19 05:58:23] node-red-1.4.0.tgz update done.
+[2019-10-19 05:58:23] node-red-1.3.6.tgz update done.
+[2019-10-19 05:58:24] node-red-1.3.5.tgz update done.
+[2019-10-19 05:58:24] node-red-1.3.4.tgz update done.
+[2019-10-19 05:58:24] spend time is: 690
+[2019-10-19 05:58:24] spend time is: 690
+[2019-10-19 05:58:24] spend time is: 690
+[2019-10-19 05:58:24] spend time is: 690
+[2019-10-19 05:58:24] spend time is: 690
+[2019-10-19 05:58:26] oauth2-proxy-1.1.0.tgz update done.
+[2019-10-19 05:58:26] oauth2-proxy-1.0.1.tgz update done.
+[2019-10-19 05:58:26] oauth2-proxy-1.0.0.tgz update done.
+[2019-10-19 05:58:30] odoo-11.1.9.tgz update done.
+[2019-10-19 05:58:31] odoo-11.1.8.tgz update done.
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:34] spend time is: 700
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:44] spend time is: 710
+[2019-10-19 05:58:46] opa-1.9.1.tgz update done.
+[2019-10-19 05:58:46] opa-1.9.0.tgz update done.
+[2019-10-19 05:58:50] opencart-6.2.5.tgz update done.
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:58:54] spend time is: 720
+[2019-10-19 05:59:01] openebs-1.3.0.tgz update done.
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:04] spend time is: 730
+[2019-10-19 05:59:07] openvpn-3.14.1.tgz update done.
+[2019-10-19 05:59:14] orangehrm-6.2.6.tgz update done.
+[2019-10-19 05:59:14] spend time is: 740
+[2019-10-19 05:59:14] orangehrm-6.2.5.tgz update done.
+[2019-10-19 05:59:14] spend time is: 740
+[2019-10-19 05:59:14] spend time is: 740
+[2019-10-19 05:59:14] spend time is: 740
+[2019-10-19 05:59:14] spend time is: 740
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:24] spend time is: 750
+[2019-10-19 05:59:25] osclass-6.2.5.tgz update done.
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:34] spend time is: 760
+[2019-10-19 05:59:35] owncloud-6.2.7.tgz update done.
+[2019-10-19 05:59:35] owncloud-6.2.6.tgz update done.
+[2019-10-19 05:59:35] owncloud-6.2.5.tgz update done.
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:44] spend time is: 770
+[2019-10-19 05:59:49] parse-10.0.3.tgz update done.
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 05:59:54] spend time is: 780
+[2019-10-19 06:00:02] percona-1.2.0.tgz update done.
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:04] spend time is: 790
+[2019-10-19 06:00:08] pgadmin-1.0.0.tgz update done.
+[2019-10-19 06:00:08] phabricator-8.0.0.tgz update done.
+[2019-10-19 06:00:08] phabricator-7.0.12.tgz update done.
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:14] spend time is: 800
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:24] spend time is: 810
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:34] spend time is: 820
+[2019-10-19 06:00:41] phpmyadmin-4.0.0.tgz update done.
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:44] spend time is: 830
+[2019-10-19 06:00:47] pomerium-4.0.0.tgz update done.
+[2019-10-19 06:00:48] pomerium-3.0.1.tgz update done.
+[2019-10-19 06:00:50] postgresql-6.5.0.tgz update done.
+[2019-10-19 06:00:50] postgresql-6.4.0.tgz update done.
+[2019-10-19 06:00:50] postgresql-6.3.15.tgz update done.
+[2019-10-19 06:00:51] postgresql-6.3.14.tgz update done.
+[2019-10-19 06:00:51] postgresql-6.3.13.tgz update done.
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:00:54] spend time is: 840
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:04] spend time is: 850
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:14] spend time is: 860
+[2019-10-19 06:01:17] prestashop-8.2.6.tgz update done.
+[2019-10-19 06:01:17] prestashop-8.2.5.tgz update done.
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:24] spend time is: 870
+[2019-10-19 06:01:32] prometheus-9.1.2.tgz update done.
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:34] spend time is: 880
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:44] spend time is: 890
+[2019-10-19 06:01:54] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
