@@ -1,0 +1,236 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 6960k  100 6960k    0     0  66.9M      0 --:--:-- --:--:-- --:--:-- 67.3M
+[2019-11-23 06:04:04] airflow-4.10.0.tgz update done.
+[2019-11-23 06:04:04] airflow-4.9.0.tgz update done.
+[2019-11-23 06:04:04] airflow-4.8.0.tgz update done.
+[2019-11-23 06:04:04] airflow-5.0.0.tgz update done.
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] airflow-4.7.0.tgz update done.
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] airflow-4.6.0.tgz update done.
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] airflow-4.5.0.tgz update done.
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:05] spend time is: 60
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:15] spend time is: 70
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:25] spend time is: 80
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:35] spend time is: 90
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:45] spend time is: 100
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:04:55] spend time is: 110
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:05] spend time is: 120
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:15] spend time is: 130
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:25] spend time is: 140
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:35] spend time is: 150
+[2019-11-23 06:05:42] datadog-1.38.4.tgz update done.
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:45] spend time is: 160
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:05:55] spend time is: 170
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] dokuwiki-6.0.2.tgz update done.
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:05] spend time is: 180
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:15] spend time is: 190
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:25] spend time is: 200
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:35] spend time is: 210
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:45] spend time is: 220
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:55] spend time is: 230
+[2019-11-23 06:06:56] spend time is: 230
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:05] spend time is: 240
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:15] spend time is: 250
+[2019-11-23 06:07:16] spend time is: 250
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:25] spend time is: 260
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:35] spend time is: 270
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:45] spend time is: 280
+[2019-11-23 06:07:51] gangway-0.4.0.tgz update done.
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:07:55] spend time is: 290
+[2019-11-23 06:08:05] spend time is: 300
+[2019-11-23 06:08:05] spend time is: 300
+[2019-11-23 06:08:05] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
