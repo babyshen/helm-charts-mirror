@@ -1,0 +1,244 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 6989k  100 6989k    0     0  63.1M      0 --:--:-- --:--:-- --:--:-- 63.1M
+[2019-11-28 06:06:59] airflow-5.1.0.tgz update done.
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:06:59] spend time is: 60
+[2019-11-28 06:07:07] ambassador-4.4.8.tgz update done.
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:09] spend time is: 70
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:19] spend time is: 80
+[2019-11-28 06:07:20] spend time is: 80
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:29] spend time is: 90
+[2019-11-28 06:07:34] aws-iam-authenticator-0.1.2.tgz update done.
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:39] spend time is: 100
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:49] spend time is: 110
+[2019-11-28 06:07:50] spend time is: 110
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:07:59] spend time is: 120
+[2019-11-28 06:08:00] spend time is: 120
+[2019-11-28 06:08:01] cockroachdb-2.1.17.tgz update done.
+[2019-11-28 06:08:08] concourse-8.3.7.tgz update done.
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:09] spend time is: 130
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:19] spend time is: 140
+[2019-11-28 06:08:20] spend time is: 140
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:29] spend time is: 150
+[2019-11-28 06:08:30] spend time is: 150
+[2019-11-28 06:08:38] datadog-1.38.7.tgz update done.
+[2019-11-28 06:08:38] datadog-1.38.6.tgz update done.
+[2019-11-28 06:08:38] datadog-1.38.5.tgz update done.
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:39] spend time is: 160
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:49] spend time is: 170
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:08:59] spend time is: 180
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:09] spend time is: 190
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:19] spend time is: 200
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:29] spend time is: 210
+[2019-11-28 06:09:30] spend time is: 210
+[2019-11-28 06:09:34] elastic-stack-1.8.0.tgz update done.
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:39] spend time is: 220
+[2019-11-28 06:09:41] elasticsearch-curator-2.1.2.tgz update done.
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:49] spend time is: 230
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:09:59] spend time is: 240
+[2019-11-28 06:10:07] falco-1.0.10.tgz update done.
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:09] spend time is: 250
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:19] spend time is: 260
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:29] spend time is: 270
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:39] spend time is: 280
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:49] spend time is: 290
+[2019-11-28 06:10:50] spend time is: 290
+[2019-11-28 06:10:59] spend time is: 300
+[2019-11-28 06:10:59] spend time is: 300
+[2019-11-28 06:10:59] spend time is: 300
+[2019-11-28 06:10:59] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+Already up to date.
