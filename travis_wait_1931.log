@@ -1,0 +1,283 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 7048k  100 7048k    0     0  92.6M      0 --:--:-- --:--:-- --:--:-- 93.0M
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:06] spend time is: 60
+[2019-12-04 06:09:07] ambassador-5.1.0.tgz update done.
+[2019-12-04 06:09:07] spend time is: 60
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:16] spend time is: 70
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:26] spend time is: 80
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:36] spend time is: 90
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:46] spend time is: 100
+[2019-12-04 06:09:50] cockroachdb-3.0.0.tgz update done.
+[2019-12-04 06:09:50] cockroachdb-3.0.1.tgz update done.
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:56] spend time is: 110
+[2019-12-04 06:09:57] spend time is: 110
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:06] spend time is: 120
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:16] spend time is: 130
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:26] spend time is: 140
+[2019-12-04 06:10:27] spend time is: 140
+[2019-12-04 06:10:32] dex-2.5.0.tgz update done.
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:36] spend time is: 150
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:46] spend time is: 160
+[2019-12-04 06:10:48] drupal-6.1.0.tgz update done.
+[2019-12-04 06:10:48] drupal-6.1.1.tgz update done.
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:10:56] spend time is: 170
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:06] spend time is: 180
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:16] spend time is: 190
+[2019-12-04 06:11:19] etcd-operator-0.10.1.tgz update done.
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:26] spend time is: 200
+[2019-12-04 06:11:27] spend time is: 200
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:36] spend time is: 210
+[2019-12-04 06:11:37] spend time is: 210
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:46] spend time is: 220
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:56] spend time is: 230
+[2019-12-04 06:11:57] spend time is: 230
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:06] spend time is: 240
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:16] spend time is: 250
+[2019-12-04 06:12:17] spend time is: 250
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:26] spend time is: 260
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:36] spend time is: 270
+[2019-12-04 06:12:37] spend time is: 270
+[2019-12-04 06:12:37] spend time is: 270
+[2019-12-04 06:12:46] goldpinger-2.0.1.tgz update done.
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:46] spend time is: 280
+[2019-12-04 06:12:47] grafana-4.1.0.tgz update done.
+[2019-12-04 06:12:47] spend time is: 280
+[2019-12-04 06:12:47] grafana-4.0.5.tgz update done.
+[2019-12-04 06:12:47] grafana-4.0.4.tgz update done.
+[2019-12-04 06:12:47] grafana-4.0.3.tgz update done.
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:56] spend time is: 290
+[2019-12-04 06:12:57] spend time is: 290
+[2019-12-04 06:13:06] spend time is: 300
+[2019-12-04 06:13:06] spend time is: 300
+[2019-12-04 06:13:06] spend time is: 300
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
