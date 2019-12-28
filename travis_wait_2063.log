@@ -1,0 +1,320 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 7241k  100 7241k    0     0  91.3M      0 --:--:-- --:--:-- --:--:-- 91.8M
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:57] spend time is: 50
+[2019-12-28 06:20:58] spend time is: 50
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:07] spend time is: 60
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:17] spend time is: 70
+[2019-12-28 06:21:21] atlantis-3.10.0.tgz update done.
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:27] spend time is: 80
+[2019-12-28 06:21:28] spend time is: 80
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:37] spend time is: 90
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:47] spend time is: 100
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:21:57] spend time is: 110
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:07] spend time is: 120
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:17] spend time is: 130
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:27] spend time is: 140
+[2019-12-28 06:22:33] dex-2.6.1.tgz update done.
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] docker-registry-1.9.1.tgz update done.
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:37] spend time is: 150
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:47] spend time is: 160
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:57] spend time is: 170
+[2019-12-28 06:22:58] spend time is: 170
+[2019-12-28 06:23:02] efs-provisioner-0.9.0.tgz update done.
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] elastic-stack-1.8.0.tgz update done.
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:07] spend time is: 180
+[2019-12-28 06:23:08] spend time is: 180
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:17] spend time is: 190
+[2019-12-28 06:23:18] spend time is: 190
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:27] spend time is: 200
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:37] spend time is: 210
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:47] spend time is: 220
+[2019-12-28 06:23:48] spend time is: 220
+[2019-12-28 06:23:48] spend time is: 220
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:23:57] spend time is: 230
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:07] spend time is: 240
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:17] spend time is: 250
+[2019-12-28 06:24:18] spend time is: 250
+[2019-12-28 06:24:20] gitlab-ee-0.2.2.tgz update done.
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:27] spend time is: 260
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:37] spend time is: 270
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:47] spend time is: 280
+[2019-12-28 06:24:48] graylog-1.5.0.tgz update done.
+[2019-12-28 06:24:51] hadoop-1.1.2.tgz update done.
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:57] spend time is: 290
+[2019-12-28 06:24:58] spend time is: 290
+[2019-12-28 06:25:07] spend time is: 300
+[2019-12-28 06:25:07] spend time is: 300
+[2019-12-28 06:25:07] spend time is: 300
+[2019-12-28 06:25:07] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
