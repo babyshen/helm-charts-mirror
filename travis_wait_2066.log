@@ -975,3 +975,351 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-01-18 06:45:25] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages 173266a] Synchronizing completion at 2020-01-18
+ 60 files changed, 344 insertions(+), 1 deletion(-)
+ create mode 100644 mssql-linux-0.11.0.tgz
+ create mode 100644 nats-4.2.10.tgz
+ create mode 100644 nats-4.2.8.tgz
+ create mode 100644 nats-4.2.9.tgz
+ create mode 100644 newrelic-infrastructure-0.13.17.tgz
+ rewrite nextcloud-1.9.1.tgz (98%)
+ create mode 100644 nginx-ingress-1.27.1.tgz
+ create mode 100644 nginx-ingress-1.27.2.tgz
+ create mode 100644 nginx-ingress-1.28.0.tgz
+ create mode 100644 nginx-ingress-1.28.1.tgz
+ create mode 100644 nginx-ingress-1.28.2.tgz
+ create mode 100644 nginx-ingress-1.28.3.tgz
+ create mode 100644 nginx-ingress-1.29.0.tgz
+ create mode 100644 nginx-ingress-1.29.1.tgz
+ create mode 100644 nginx-ingress-1.29.2.tgz
+ create mode 100644 node-red-1.4.1.tgz
+ create mode 100644 odoo-12.0.6.tgz
+ create mode 100644 opencart-7.0.2.tgz
+ create mode 100644 opencart-7.0.3.tgz
+ create mode 100644 openebs-1.5.1.tgz
+ create mode 100644 openebs-1.6.0.tgz
+ create mode 100644 openvpn-4.0.0.tgz
+ create mode 100644 orangehrm-7.0.2.tgz
+ create mode 100644 orangehrm-7.0.3.tgz
+ create mode 100644 osclass-7.0.2.tgz
+ create mode 100644 osclass-7.0.3.tgz
+ create mode 100644 owncloud-8.0.2.tgz
+ create mode 100644 owncloud-8.0.3.tgz
+ create mode 100644 owncloud-8.1.0.tgz
+ create mode 100644 parse-10.3.1.tgz
+ create mode 100644 parse-10.3.2.tgz
+ create mode 100644 phabricator-9.0.5.tgz
+ create mode 100644 phabricator-9.0.6.tgz
+ create mode 100644 phpbb-7.0.2.tgz
+ create mode 100644 phpbb-7.0.3.tgz
+ create mode 100644 phpmyadmin-4.2.6.tgz
+ create mode 100644 phpmyadmin-4.2.7.tgz
+ create mode 100644 phpmyadmin-4.2.8.tgz
+ create mode 100644 phpmyadmin-4.2.9.tgz
+ create mode 100644 pomerium-4.1.4.tgz
+ create mode 100644 pomerium-4.2.0.tgz
+ create mode 100644 postgresql-8.1.3.tgz
+ create mode 100644 postgresql-8.1.4.tgz
+ create mode 100644 prestashop-9.1.1.tgz
+ create mode 100644 prestashop-9.1.2.tgz
+ create mode 100644 prometheus-10.0.0.tgz
+ create mode 100644 prometheus-10.0.1.tgz
+ create mode 100644 prometheus-10.0.2.tgz
+ create mode 100644 prometheus-10.1.0.tgz
+ create mode 100644 prometheus-10.2.0.tgz
+ create mode 100644 prometheus-10.3.0.tgz
+ create mode 100644 prometheus-10.3.1.tgz
+ create mode 100644 prometheus-9.7.3.tgz
+ create mode 100644 prometheus-9.7.4.tgz
+ create mode 100644 prometheus-9.7.5.tgz
+ create mode 100644 prometheus-adapter-2.0.0.tgz
+ create mode 100644 prometheus-adapter-2.0.1.tgz
+ create mode 100644 prometheus-blackbox-exporter-2.0.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   611299a..173266a  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:35] spend time is: 910
+[2020-01-18 06:45:37] prometheus-operator-8.5.11.tgz update done.
+[2020-01-18 06:45:37] prometheus-operator-8.5.10.tgz update done.
+[2020-01-18 06:45:37] prometheus-operator-8.5.9.tgz update done.
+[2020-01-18 06:45:37] prometheus-operator-8.5.8.tgz update done.
+[2020-01-18 06:45:38] prometheus-operator-8.5.7.tgz update done.
+[2020-01-18 06:45:38] prometheus-operator-8.5.6.tgz update done.
+[2020-01-18 06:45:38] prometheus-operator-8.5.5.tgz update done.
+[2020-01-18 06:45:38] prometheus-operator-8.5.4.tgz update done.
+[2020-01-18 06:45:39] prometheus-operator-8.5.3.tgz update done.
+[2020-01-18 06:45:39] prometheus-operator-8.5.2.tgz update done.
+[2020-01-18 06:45:39] prometheus-operator-8.5.1.tgz update done.
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:45] spend time is: 920
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:45:55] spend time is: 930
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:05] spend time is: 940
+[2020-01-18 06:46:09] prometheus-pushgateway-1.2.13.tgz update done.
+[2020-01-18 06:46:09] prometheus-pushgateway-1.2.12.tgz update done.
+[2020-01-18 06:46:09] prometheus-pushgateway-1.2.11.tgz update done.
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:15] spend time is: 950
+[2020-01-18 06:46:19] rabbitmq-6.16.3.tgz update done.
+[2020-01-18 06:46:20] rabbitmq-6.16.2.tgz update done.
+[2020-01-18 06:46:20] rabbitmq-6.16.1.tgz update done.
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:25] spend time is: 960
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:35] spend time is: 970
+[2020-01-18 06:46:43] rabbitmq-ha-1.38.2.tgz update done.
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:45] spend time is: 980
+[2020-01-18 06:46:55] spend time is: 990
+[2020-01-18 06:46:55] spend time is: 990
+[2020-01-18 06:46:55] redis-10.3.4.tgz update done.
+[2020-01-18 06:46:55] spend time is: 990
+[2020-01-18 06:46:55] redis-10.3.3.tgz update done.
+[2020-01-18 06:46:55] spend time is: 990
+[2020-01-18 06:46:56] redis-10.3.2.tgz update done.
+[2020-01-18 06:46:56] spend time is: 990
+[2020-01-18 06:46:56] redis-10.3.1.tgz update done.
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:05] spend time is: 1000
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:15] spend time is: 1010
+[2020-01-18 06:47:23] redis-ha-4.3.3.tgz update done.
+[2020-01-18 06:47:23] redis-ha-4.3.2.tgz update done.
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:25] spend time is: 1020
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:35] redmine-14.1.3.tgz update done.
+[2020-01-18 06:47:35] spend time is: 1030
+[2020-01-18 06:47:36] redmine-14.1.2.tgz update done.
+[2020-01-18 06:47:36] redmine-14.1.1.tgz update done.
+[2020-01-18 06:47:36] redmine-14.0.1.tgz update done.
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:45] spend time is: 1040
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:55] spend time is: 1050
+[2020-01-18 06:47:59] schema-registry-ui-0.4.1.tgz update done.
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:05] spend time is: 1060
+[2020-01-18 06:48:12] sentry-3.2.2.tgz update done.
+[2020-01-18 06:48:12] sentry-3.2.1.tgz update done.
+[2020-01-18 06:48:13] sentry-3.2.0.tgz update done.
+[2020-01-18 06:48:13] sentry-3.1.7.tgz update done.
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:15] spend time is: 1070
+[2020-01-18 06:48:23] sonarqube-3.3.2.tgz update done.
+[2020-01-18 06:48:23] sonarqube-3.3.1.tgz update done.
+[2020-01-18 06:48:23] sonarqube-3.3.0.tgz update done.
+[2020-01-18 06:48:24] sonarqube-3.2.8.tgz update done.
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:25] spend time is: 1080
+[2020-01-18 06:48:33] sonatype-nexus-1.21.3.tgz update done.
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:35] spend time is: 1090
+[2020-01-18 06:48:36] spend time is: 1090
+[2020-01-18 06:48:43] spark-history-server-1.1.2.tgz update done.
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:45] spend time is: 1100
+[2020-01-18 06:48:46] spinnaker-1.23.1.tgz update done.
+[2020-01-18 06:48:47] spinnaker-1.23.0.tgz update done.
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:55] spend time is: 1110
+[2020-01-18 06:48:58] spring-cloud-data-flow-2.5.2.tgz update done.
+[2020-01-18 06:48:58] spring-cloud-data-flow-2.5.1.tgz update done.
+[2020-01-18 06:49:01] stackdriver-exporter-1.2.2.tgz update done.
+[2020-01-18 06:49:04] stolon-1.5.6.tgz update done.
+[2020-01-18 06:49:04] stolon-1.5.5.tgz update done.
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:05] spend time is: 1120
+[2020-01-18 06:49:09] suitecrm-8.0.3.tgz update done.
+[2020-01-18 06:49:09] suitecrm-8.0.2.tgz update done.
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:15] spend time is: 1130
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:25] spend time is: 1140
+[2020-01-18 06:49:28] sysdig-1.7.1.tgz update done.
+[2020-01-18 06:49:28] sysdig-1.7.0.tgz update done.
+[2020-01-18 06:49:28] sysdig-1.6.0.tgz update done.
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:35] spend time is: 1150
+[2020-01-18 06:49:38] testlink-7.0.3.tgz update done.
+[2020-01-18 06:49:38] testlink-7.0.2.tgz update done.
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:45] spend time is: 1160
+[2020-01-18 06:49:49] tomcat-0.4.1.tgz update done.
+[2020-01-18 06:49:49] traefik-1.85.1.tgz update done.
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:49:55] spend time is: 1170
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:05] spend time is: 1180
+[2020-01-18 06:50:14] unifi-0.6.0.tgz update done.
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:15] spend time is: 1190
+[2020-01-18 06:50:25] spend time is: 1200
+Already up to date.
