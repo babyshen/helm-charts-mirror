@@ -685,3 +685,296 @@ curl: (35) gnutls_handshake() failed: The TLS connection was non-properly termin
 [2020-01-31 07:05:26] spend time is: 1800
 [2020-01-31 07:05:26] spend time is: 1800
 Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[gh-pages f51d9ac] Synchronizing completion at 2020-01-31
+ 21 files changed, 183 insertions(+), 1 deletion(-)
+ rewrite gitlab-ee-0.2.2.tgz (99%)
+ create mode 100644 mediawiki-9.1.3.tgz
+ create mode 100644 metabase-0.10.0.tgz
+ create mode 100644 minio-5.0.6.tgz
+ rewrite mission-control-0.4.3.tgz (99%)
+ create mode 100644 mongodb-7.8.0.tgz
+ create mode 100644 mongodb-7.8.1.tgz
+ create mode 100644 mongodb-replicaset-3.11.4.tgz
+ create mode 100644 moodle-7.0.8.tgz
+ create mode 100644 nats-4.2.11.tgz
+ create mode 100644 newrelic-infrastructure-0.13.18.tgz
+ create mode 100644 newrelic-infrastructure-0.13.19.tgz
+ rewrite nextcloud-1.9.1.tgz (98%)
+ create mode 100644 nfs-server-provisioner-0.3.3.tgz
+ create mode 100644 nfs-server-provisioner-0.4.0.tgz
+ create mode 100644 nginx-ingress-1.29.3.tgz
+ create mode 100644 nginx-ingress-1.29.4.tgz
+ create mode 100644 nginx-ingress-1.29.5.tgz
+ create mode 100644 nginx-ingress-1.29.6.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   4c9aef0..f51d9ac  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-01-31 07:05:33] node-problem-detector-1.6.3.tgz update done.
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:36] spend time is: 1810
+[2020-01-31 07:05:38] oauth2-proxy-2.2.1.tgz update done.
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:46] spend time is: 1820
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:05:56] spend time is: 1830
+[2020-01-31 07:06:02] opencart-7.0.4.tgz update done.
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:06] spend time is: 1840
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:16] spend time is: 1850
+[2020-01-31 07:06:19] openvpn-4.2.0.tgz update done.
+[2020-01-31 07:06:19] openvpn-4.1.0.tgz update done.
+[2020-01-31 07:06:26] orangehrm-7.0.4.tgz update done.
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:26] spend time is: 1860
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:36] spend time is: 1870
+[2020-01-31 07:06:37] osclass-7.0.4.tgz update done.
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:46] owncloud-8.1.1.tgz update done.
+[2020-01-31 07:06:46] spend time is: 1880
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:06:56] spend time is: 1890
+[2020-01-31 07:07:00] parse-10.3.3.tgz update done.
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:06] spend time is: 1900
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:16] spend time is: 1910
+[2020-01-31 07:07:19] phabricator-9.0.7.tgz update done.
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:26] spend time is: 1920
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:36] spend time is: 1930
+[2020-01-31 07:07:41] phpbb-7.0.4.tgz update done.
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:46] spend time is: 1940
+[2020-01-31 07:07:51] phpmyadmin-4.2.11.tgz update done.
+[2020-01-31 07:07:51] phpmyadmin-4.2.10.tgz update done.
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:56] spend time is: 1950
+[2020-01-31 07:07:59] pomerium-4.2.3.tgz update done.
+[2020-01-31 07:07:59] pomerium-4.2.2.tgz update done.
+[2020-01-31 07:08:03] postgresql-8.2.1.tgz update done.
+[2020-01-31 07:08:03] postgresql-8.2.0.tgz update done.
+[2020-01-31 07:08:03] postgresql-8.1.5.tgz update done.
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:06] spend time is: 1960
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:16] spend time is: 1970
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:26] spend time is: 1980
+[2020-01-31 07:08:31] prestashop-9.1.4.tgz update done.
+[2020-01-31 07:08:31] prestashop-9.1.3.tgz update done.
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:36] spend time is: 1990
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] prometheus-10.4.0.tgz update done.
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:46] spend time is: 2000
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:08:56] spend time is: 2010
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:06] spend time is: 2020
+[2020-01-31 07:09:14] prometheus-blackbox-exporter-3.0.1.tgz update done.
+[2020-01-31 07:09:14] prometheus-blackbox-exporter-3.0.0.tgz update done.
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:16] spend time is: 2030
+[2020-01-31 07:09:17] prometheus-cloudwatch-exporter-0.6.0.tgz update done.
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:26] spend time is: 2040
+[2020-01-31 07:09:29] prometheus-operator-8.6.0.tgz update done.
+[2020-01-31 07:09:29] prometheus-operator-8.5.15.tgz update done.
+[2020-01-31 07:09:29] prometheus-operator-8.5.14.tgz update done.
+[2020-01-31 07:09:29] prometheus-operator-8.5.13.tgz update done.
+[2020-01-31 07:09:30] prometheus-operator-8.5.12.tgz update done.
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:36] spend time is: 2050
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:46] spend time is: 2060
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:56] spend time is: 2070
+[2020-01-31 07:09:57] spend time is: 2070
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:06] spend time is: 2080
+[2020-01-31 07:10:11] rabbitmq-6.16.6.tgz update done.
+[2020-01-31 07:10:12] rabbitmq-6.16.5.tgz update done.
+[2020-01-31 07:10:12] rabbitmq-6.16.4.tgz update done.
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:16] spend time is: 2090
+[2020-01-31 07:10:26] spend time is: 2100
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
