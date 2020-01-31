@@ -285,3 +285,221 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 12923a4eb14734742a890a7f28fc95a4b0ac425b.
+[gh-pages 86be621] Synchronizing completion at 2020-01-31
+ 14 files changed, 1005 insertions(+), 306 deletions(-)
+ rewrite airflow-5.2.5.tgz (60%)
+ create mode 100644 anchore-engine-1.4.2.tgz
+ create mode 100644 cluster-autoscaler-6.4.0.tgz
+ create mode 100644 coredns-1.9.2.tgz
+ create mode 100644 datadog-1.39.6.tgz
+ create mode 100644 dex-2.8.0.tgz
+ rewrite elastic-stack-1.8.0.tgz (99%)
+ create mode 100644 gocd-1.22.0.tgz
+ create mode 100644 grafana-4.4.1.tgz
+ create mode 100644 grafana-4.5.0.tgz
+ create mode 100644 travis_wait_2051.log
+error: Your local changes to the following files would be overwritten by merge:
+	airflow-5.2.5.tgz
+	chart-list.json
+	elastic-stack-1.8.0.tgz
+	index.yaml
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	anchore-engine-1.4.2.tgz
+	cluster-autoscaler-6.4.0.tgz
+	coredns-1.9.2.tgz
+	datadog-1.39.6.tgz
+	dex-2.8.0.tgz
+	gocd-1.22.0.tgz
+	grafana-4.4.1.tgz
+	grafana-4.5.0.tgz
+	travis_wait_2051.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 12923a4eb14734742a890a7f28fc95a4b0ac425b
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+   12923a4..86be621  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:36] spend time is: 310
+[2020-01-31 06:40:44] graylog-1.5.2.tgz update done.
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:46] spend time is: 320
+[2020-01-31 06:40:56] spend time is: 330
+[2020-01-31 06:40:56] spend time is: 330
+[2020-01-31 06:40:56] spend time is: 330
+[2020-01-31 06:40:56] spend time is: 330
+[2020-01-31 06:40:56] spend time is: 330
+[2020-01-31 06:40:57] spend time is: 330
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:06] spend time is: 340
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:16] spend time is: 350
+[2020-01-31 06:41:26] spend time is: 360
+[2020-01-31 06:41:26] spend time is: 360
+[2020-01-31 06:41:26] spend time is: 360
+[2020-01-31 06:41:26] spend time is: 360
+[2020-01-31 06:41:26] spend time is: 360
+[2020-01-31 06:41:36] spend time is: 370
+[2020-01-31 06:41:36] spend time is: 370
+[2020-01-31 06:41:36] spend time is: 370
+[2020-01-31 06:41:36] spend time is: 370
+[2020-01-31 06:41:36] spend time is: 370
+[2020-01-31 06:41:37] spend time is: 370
+[2020-01-31 06:41:41] janusgraph-0.2.1.tgz update done.
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:46] spend time is: 380
+[2020-01-31 06:41:56] spend time is: 390
+[2020-01-31 06:41:56] spend time is: 390
+[2020-01-31 06:41:56] spend time is: 390
+[2020-01-31 06:41:56] spend time is: 390
+[2020-01-31 06:41:56] spend time is: 390
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:06] spend time is: 400
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+[2020-01-31 06:42:16] spend time is: 410
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:26] spend time is: 420
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:36] spend time is: 430
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:46] spend time is: 440
+[2020-01-31 06:42:56] spend time is: 450
+[2020-01-31 06:42:56] spend time is: 450
+[2020-01-31 06:42:56] spend time is: 450
+[2020-01-31 06:42:56] spend time is: 450
+[2020-01-31 06:42:56] spend time is: 450
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:06] spend time is: 460
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:16] spend time is: 470
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:26] spend time is: 480
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:36] spend time is: 490
+[2020-01-31 06:43:46] spend time is: 500
+[2020-01-31 06:43:46] spend time is: 500
+[2020-01-31 06:43:46] spend time is: 500
+[2020-01-31 06:43:46] spend time is: 500
+[2020-01-31 06:43:46] spend time is: 500
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:43:56] spend time is: 510
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+[2020-01-31 06:44:06] spend time is: 520
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2020-01-31 06:44:43] kubewatch-1.0.4.tgz update done.
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:46] spend time is: 560
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:44:56] spend time is: 570
+[2020-01-31 06:45:02] magento-6.0.0.tgz update done.
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:06] spend time is: 580
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:16] spend time is: 590
+[2020-01-31 06:45:18] mariadb-7.3.7.tgz update done.
+[2020-01-31 06:45:19] mariadb-7.3.6.tgz update done.
+[2020-01-31 06:45:19] mariadb-7.3.5.tgz update done.
+[2020-01-31 06:45:26] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
