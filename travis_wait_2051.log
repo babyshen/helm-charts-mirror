@@ -503,3 +503,185 @@ curl: (35) gnutls_handshake() failed: The TLS connection was non-properly termin
 [2020-01-31 06:45:26] spend time is: 600
 Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
 Already up to date.
+[gh-pages 4c9aef0] Synchronizing completion at 2020-01-31
+ 9 files changed, 219 insertions(+), 1 deletion(-)
+ rewrite graylog-1.5.2.tgz (99%)
+ create mode 100644 kubewatch-1.0.4.tgz
+ rewrite magento-6.0.0.tgz (99%)
+ create mode 100644 mariadb-7.3.5.tgz
+ create mode 100644 mariadb-7.3.6.tgz
+ create mode 100644 mariadb-7.3.7.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   86be621..4c9aef0  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:36] spend time is: 610
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:46] spend time is: 620
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:56] spend time is: 630
+[2020-01-31 06:45:58] mediawiki-9.1.3.tgz update done.
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:06] spend time is: 640
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:16] spend time is: 650
+[2020-01-31 06:46:33] metabase-0.10.0.tgz update done.
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:36] spend time is: 670
+[2020-01-31 06:46:46] spend time is: 680
+[2020-01-31 06:46:46] spend time is: 680
+[2020-01-31 06:46:46] spend time is: 680
+[2020-01-31 06:46:46] spend time is: 680
+[2020-01-31 06:46:46] spend time is: 680
+[2020-01-31 06:46:54] minio-5.0.6.tgz update done.
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:46:56] spend time is: 690
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:06] spend time is: 700
+[2020-01-31 06:47:15] mission-control-0.4.3.tgz update done.
+[2020-01-31 06:47:16] spend time is: 710
+[2020-01-31 06:47:16] mongodb-7.8.1.tgz update done.
+[2020-01-31 06:47:16] spend time is: 710
+[2020-01-31 06:47:16] mongodb-7.8.0.tgz update done.
+[2020-01-31 06:47:16] spend time is: 710
+[2020-01-31 06:47:16] spend time is: 710
+[2020-01-31 06:47:17] spend time is: 710
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:26] spend time is: 720
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:36] spend time is: 730
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:46] spend time is: 740
+[2020-01-31 06:47:49] mongodb-replicaset-3.11.4.tgz update done.
+[2020-01-31 06:47:56] spend time is: 750
+[2020-01-31 06:47:56] spend time is: 750
+[2020-01-31 06:47:56] spend time is: 750
+[2020-01-31 06:47:56] spend time is: 750
+[2020-01-31 06:47:56] spend time is: 750
+[2020-01-31 06:48:00] moodle-7.0.8.tgz update done.
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+[2020-01-31 06:48:06] spend time is: 760
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:16] spend time is: 770
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:26] spend time is: 780
+[2020-01-31 06:48:34] nats-4.2.11.tgz update done.
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:36] spend time is: 790
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:46] spend time is: 800
+[2020-01-31 06:48:47] newrelic-infrastructure-0.13.19.tgz update done.
+[2020-01-31 06:48:47] newrelic-infrastructure-0.13.18.tgz update done.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+[2020-01-31 07:04:53] gitlab-ee-0.2.2.tgz update done.
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:04:56] spend time is: 1770
+[2020-01-31 07:05:01] nfs-server-provisioner-0.4.0.tgz update done.
+[2020-01-31 07:05:01] nfs-server-provisioner-0.3.3.tgz update done.
+[2020-01-31 07:05:03] nginx-ingress-1.29.6.tgz update done.
+[2020-01-31 07:05:04] nginx-ingress-1.29.5.tgz update done.
+[2020-01-31 07:05:04] nginx-ingress-1.29.4.tgz update done.
+[2020-01-31 07:05:04] nginx-ingress-1.29.3.tgz update done.
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:06] spend time is: 1780
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] spend time is: 1790
+[2020-01-31 07:05:16] nextcloud-1.9.1.tgz update done.
+[2020-01-31 07:05:26] spend time is: 1800
+[2020-01-31 07:05:26] spend time is: 1800
+Already up to date.
