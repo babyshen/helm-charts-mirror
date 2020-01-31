@@ -1,0 +1,287 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 7503k  100 7503k    0     0  68.0M      0 --:--:-- --:--:-- --:--:-- 68.4M
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:16] spend time is: 50
+[2020-01-31 06:36:17] airflow-5.2.5.tgz update done.
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:26] spend time is: 60
+[2020-01-31 06:36:32] anchore-engine-1.4.2.tgz update done.
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:36] spend time is: 70
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:46] spend time is: 80
+[2020-01-31 06:36:47] spend time is: 80
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:36:56] spend time is: 90
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] cluster-autoscaler-6.4.0.tgz update done.
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:06] spend time is: 100
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:16] spend time is: 110
+[2020-01-31 06:37:17] spend time is: 110
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:26] spend time is: 120
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:36] spend time is: 130
+[2020-01-31 06:37:38] coredns-1.9.2.tgz update done.
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] datadog-1.39.6.tgz update done.
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:46] spend time is: 140
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:37:56] spend time is: 150
+[2020-01-31 06:38:01] dex-2.8.0.tgz update done.
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:06] spend time is: 160
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:16] spend time is: 170
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:26] spend time is: 180
+[2020-01-31 06:38:27] spend time is: 180
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:36] spend time is: 190
+[2020-01-31 06:38:37] elastic-stack-1.8.0.tgz update done.
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:46] spend time is: 200
+[2020-01-31 06:38:47] spend time is: 200
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:56] spend time is: 210
+[2020-01-31 06:38:57] spend time is: 210
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:06] spend time is: 220
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:16] spend time is: 230
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:26] spend time is: 240
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:36] spend time is: 250
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:46] spend time is: 260
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] gocd-1.22.0.tgz update done.
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:39:56] spend time is: 270
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] grafana-4.5.0.tgz update done.
+[2020-01-31 06:40:06] grafana-4.4.1.tgz update done.
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:06] spend time is: 280
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:16] spend time is: 290
+[2020-01-31 06:40:26] spend time is: 300
+[2020-01-31 06:40:26] spend time is: 300
+[2020-01-31 06:40:26] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
