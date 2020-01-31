@@ -978,3 +978,274 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-01-31 07:10:26] spend time is: 2100
 Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
 Already up to date.
+[gh-pages 428f365] Synchronizing completion at 2020-01-31
+ 34 files changed, 294 insertions(+), 1 deletion(-)
+ create mode 100644 node-problem-detector-1.6.3.tgz
+ create mode 100644 oauth2-proxy-2.2.1.tgz
+ create mode 100644 opencart-7.0.4.tgz
+ create mode 100644 openvpn-4.1.0.tgz
+ create mode 100644 openvpn-4.2.0.tgz
+ create mode 100644 orangehrm-7.0.4.tgz
+ create mode 100644 osclass-7.0.4.tgz
+ create mode 100644 owncloud-8.1.1.tgz
+ create mode 100644 parse-10.3.3.tgz
+ create mode 100644 phabricator-9.0.7.tgz
+ create mode 100644 phpbb-7.0.4.tgz
+ create mode 100644 phpmyadmin-4.2.10.tgz
+ create mode 100644 phpmyadmin-4.2.11.tgz
+ create mode 100644 pomerium-4.2.2.tgz
+ create mode 100644 pomerium-4.2.3.tgz
+ create mode 100644 postgresql-8.1.5.tgz
+ create mode 100644 postgresql-8.2.0.tgz
+ create mode 100644 postgresql-8.2.1.tgz
+ create mode 100644 prestashop-9.1.3.tgz
+ create mode 100644 prestashop-9.1.4.tgz
+ create mode 100644 prometheus-10.4.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-3.0.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-3.0.1.tgz
+ create mode 100644 prometheus-cloudwatch-exporter-0.6.0.tgz
+ create mode 100644 prometheus-operator-8.5.12.tgz
+ create mode 100644 prometheus-operator-8.5.13.tgz
+ create mode 100644 prometheus-operator-8.5.14.tgz
+ create mode 100644 prometheus-operator-8.5.15.tgz
+ create mode 100644 prometheus-operator-8.6.0.tgz
+ create mode 100644 rabbitmq-6.16.4.tgz
+ create mode 100644 rabbitmq-6.16.5.tgz
+ create mode 100644 rabbitmq-6.16.6.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   f51d9ac..428f365  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:36] spend time is: 2110
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:46] spend time is: 2120
+[2020-01-31 07:10:52] redis-10.3.5.tgz update done.
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:10:56] spend time is: 2130
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:06] spend time is: 2140
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:16] spend time is: 2150
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:26] spend time is: 2160
+[2020-01-31 07:11:33] redmine-14.1.6.tgz update done.
+[2020-01-31 07:11:33] redmine-14.1.5.tgz update done.
+[2020-01-31 07:11:33] redmine-14.1.4.tgz update done.
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:36] spend time is: 2170
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:46] spend time is: 2180
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:56] spend time is: 2190
+[2020-01-31 07:11:57] sealed-secrets-1.7.1.tgz update done.
+[2020-01-31 07:11:58] sealed-secrets-1.7.0.tgz update done.
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:06] spend time is: 2200
+[2020-01-31 07:12:11] sentry-4.0.0.tgz update done.
+[2020-01-31 07:12:11] sentry-3.2.4.tgz update done.
+[2020-01-31 07:12:11] sentry-3.2.2.tgz update done.
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:16] spend time is: 2210
+[2020-01-31 07:12:20] seq-1.0.4.tgz update done.
+[2020-01-31 07:12:22] sonarqube-3.4.0.tgz update done.
+[2020-01-31 07:12:23] sonarqube-3.3.3.tgz update done.
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:26] spend time is: 2220
+[2020-01-31 07:12:33] sonatype-nexus-1.22.0.tgz update done.
+[2020-01-31 07:12:34] sonatype-nexus-1.21.4.tgz update done.
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:36] spend time is: 2230
+[2020-01-31 07:12:37] spend time is: 2230
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:46] spend time is: 2240
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:56] spend time is: 2250
+[2020-01-31 07:12:57] spend time is: 2250
+[2020-01-31 07:12:58] spring-cloud-data-flow-2.5.3.tgz update done.
+[2020-01-31 07:12:58] spring-cloud-data-flow-2.5.2.tgz update done.
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:06] spend time is: 2260
+[2020-01-31 07:13:09] suitecrm-8.0.4.tgz update done.
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:16] spend time is: 2270
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:26] spend time is: 2280
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:36] spend time is: 2290
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:46] spend time is: 2300
+[2020-01-31 07:13:50] traefik-1.86.1.tgz update done.
+[2020-01-31 07:13:50] traefik-1.86.0.tgz update done.
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:13:56] spend time is: 2310
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:06] spend time is: 2320
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:16] spend time is: 2330
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:26] spend time is: 2340
+[2020-01-31 07:14:28] wavefront-1.1.2.tgz update done.
+[2020-01-31 07:14:32] wordpress-8.1.2.tgz update done.
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:36] spend time is: 2350
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:46] spend time is: 2360
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] xray-0.4.2.tgz update done.
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] spend time is: 2370
+[2020-01-31 07:14:56] spend time is: 2370
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
