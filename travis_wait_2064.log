@@ -1052,3 +1052,71 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-09 06:59:38] testlink-7.1.0.tgz update done.
 [2020-02-09 06:59:47] spend time is: 1200
 Already up to date.
+[gh-pages 0d1f418] Synchronizing completion at 2020-02-09
+ 9 files changed, 243 insertions(+), 1 deletion(-)
+ rewrite redmine-14.1.6.tgz (98%)
+ create mode 100644 sealed-secrets-1.7.2.tgz
+ create mode 100644 spinnaker-1.23.2.tgz
+ rewrite spring-cloud-data-flow-2.6.0.tgz (98%)
+ create mode 100644 sysdig-1.7.2.tgz
+ create mode 100644 testlink-7.1.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   3fa1763..0d1f418  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 06:59:57] spend time is: 1210
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:07] spend time is: 1220
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:17] spend time is: 1230
+[2020-02-09 07:00:26] verdaccio-0.7.5.tgz update done.
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:27] spend time is: 1240
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:37] spend time is: 1250
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:47] spend time is: 1260
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:57] spend time is: 1270
+[2020-02-09 07:00:59] xray-0.4.2.tgz update done.
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
