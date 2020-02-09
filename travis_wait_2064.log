@@ -303,3 +303,269 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[gh-pages 23eb8cd] Synchronizing completion at 2020-02-09
+ 17 files changed, 1335 insertions(+), 302 deletions(-)
+ rewrite airflow-5.2.5.tgz (60%)
+ create mode 100644 airflow-6.0.0.tgz
+ create mode 100644 ambassador-5.3.1.tgz
+ create mode 100644 cockroachdb-3.0.3.tgz
+ create mode 100644 cockroachdb-3.0.4.tgz
+ create mode 100644 collabora-code-1.0.6.tgz
+ create mode 100644 datadog-1.39.7.tgz
+ create mode 100644 datadog-1.39.8.tgz
+ create mode 100644 drone-2.6.0.tgz
+ create mode 100644 drone-2.6.1.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 elasticsearch-exporter-2.3.0.tgz
+ create mode 100644 grafana-4.6.3.tgz
+ create mode 100644 travis_wait_2064.log
+To github.com:babyshen/helm-charts-mirror.git
+   3026a3f..23eb8cd  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:57] spend time is: 310
+[2020-02-09 06:44:59] graylog-1.5.5.tgz update done.
+[2020-02-09 06:45:00] graylog-1.5.4.tgz update done.
+[2020-02-09 06:45:00] graylog-1.5.3.tgz update done.
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:07] spend time is: 320
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:17] spend time is: 330
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:27] spend time is: 340
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:37] spend time is: 350
+[2020-02-09 06:45:38] spend time is: 350
+[2020-02-09 06:45:42] janusgraph-0.2.1.tgz update done.
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:47] spend time is: 360
+[2020-02-09 06:45:52] jenkins-1.9.17.tgz update done.
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:57] spend time is: 370
+[2020-02-09 06:45:58] spend time is: 370
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:07] spend time is: 380
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:17] spend time is: 390
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:27] spend time is: 400
+[2020-02-09 06:46:35] k8s-spot-rescheduler-0.4.3.tgz update done.
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:37] spend time is: 410
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:47] spend time is: 420
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:46:57] spend time is: 430
+[2020-02-09 06:47:07] spend time is: 440
+[2020-02-09 06:47:07] spend time is: 440
+[2020-02-09 06:47:07] spend time is: 440
+[2020-02-09 06:47:07] spend time is: 440
+[2020-02-09 06:47:07] spend time is: 440
+[2020-02-09 06:47:17] spend time is: 450
+[2020-02-09 06:47:17] spend time is: 450
+[2020-02-09 06:47:17] spend time is: 450
+[2020-02-09 06:47:17] spend time is: 450
+[2020-02-09 06:47:17] spend time is: 450
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:27] spend time is: 460
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:37] spend time is: 470
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:47] spend time is: 480
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:47:57] spend time is: 490
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:07] spend time is: 500
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:17] spend time is: 510
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:27] spend time is: 520
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:37] spend time is: 530
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:47] spend time is: 540
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:48:57] spend time is: 550
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] metabase-0.10.3.tgz update done.
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:07] spend time is: 560
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:17] spend time is: 570
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:27] spend time is: 580
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:37] spend time is: 590
+[2020-02-09 06:49:47] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
