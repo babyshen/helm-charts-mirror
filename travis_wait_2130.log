@@ -265,3 +265,192 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 6115fdf] Synchronizing completion at 2020-02-12
+ 13 files changed, 1923 insertions(+), 298 deletions(-)
+ rewrite airflow-6.0.0.tgz (66%)
+ create mode 100644 anchore-engine-1.4.3.tgz
+ create mode 100644 dokuwiki-6.0.7.tgz
+ create mode 100644 drupal-6.2.5.tgz
+ rewrite elastic-stack-1.8.0.tgz (98%)
+ create mode 100644 elasticsearch-exporter-3.0.0.tgz
+ create mode 100644 external-dns-2.16.2.tgz
+ create mode 100644 external-dns-2.16.3.tgz
+ create mode 100644 ghost-9.1.7.tgz
+ create mode 100644 travis_wait_2130.log
+To github.com:babyshen/helm-charts-mirror.git
+   e45bbdb..6115fdf  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:29] spend time is: 310
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:39] spend time is: 320
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:49] spend time is: 330
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:46:59] spend time is: 340
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:09] spend time is: 350
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:19] spend time is: 360
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:29] spend time is: 370
+[2020-02-12 06:47:34] graylog-1.5.5.tgz update done.
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:39] spend time is: 380
+[2020-02-12 06:47:49] spend time is: 390
+[2020-02-12 06:47:49] spend time is: 390
+[2020-02-12 06:47:49] spend time is: 390
+[2020-02-12 06:47:49] spend time is: 390
+[2020-02-12 06:47:49] spend time is: 390
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:47:59] spend time is: 400
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:09] spend time is: 410
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:19] spend time is: 420
+[2020-02-12 06:48:29] spend time is: 430
+[2020-02-12 06:48:29] spend time is: 430
+[2020-02-12 06:48:29] spend time is: 430
+[2020-02-12 06:48:29] spend time is: 430
+[2020-02-12 06:48:29] spend time is: 430
+[2020-02-12 06:48:32] janusgraph-0.2.1.tgz update done.
+[2020-02-12 06:48:33] jasperreports-7.0.5.tgz update done.
+[2020-02-12 06:48:39] spend time is: 440
+[2020-02-12 06:48:39] spend time is: 440
+[2020-02-12 06:48:39] spend time is: 440
+[2020-02-12 06:48:39] spend time is: 440
+[2020-02-12 06:48:39] spend time is: 440
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:49] spend time is: 450
+[2020-02-12 06:48:59] spend time is: 460
+[2020-02-12 06:48:59] spend time is: 460
+[2020-02-12 06:48:59] spend time is: 460
+[2020-02-12 06:48:59] spend time is: 460
+[2020-02-12 06:48:59] spend time is: 460
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:09] spend time is: 470
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:19] spend time is: 480
+[2020-02-12 06:49:27] joomla-7.1.6.tgz update done.
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:29] spend time is: 490
+[2020-02-12 06:49:39] spend time is: 500
+[2020-02-12 06:49:39] spend time is: 500
+[2020-02-12 06:49:39] spend time is: 500
+[2020-02-12 06:49:39] spend time is: 500
+[2020-02-12 06:49:39] spend time is: 500
+[2020-02-12 06:49:40] spend time is: 500
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:49] spend time is: 510
+[2020-02-12 06:49:59] spend time is: 520
+[2020-02-12 06:49:59] spend time is: 520
+[2020-02-12 06:49:59] spend time is: 520
+[2020-02-12 06:49:59] spend time is: 520
+[2020-02-12 06:49:59] spend time is: 520
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:09] spend time is: 530
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:19] spend time is: 540
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:29] spend time is: 550
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:39] spend time is: 560
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:49] spend time is: 570
+[2020-02-12 06:50:59] spend time is: 580
+[2020-02-12 06:50:59] spend time is: 580
+[2020-02-12 06:50:59] spend time is: 580
+[2020-02-12 06:50:59] spend time is: 580
+[2020-02-12 06:50:59] spend time is: 580
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:09] spend time is: 590
+[2020-02-12 06:51:19] spend time is: 600
+Already up to date.
