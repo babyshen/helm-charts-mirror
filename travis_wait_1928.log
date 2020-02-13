@@ -1001,3 +1001,104 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-13 07:01:50] spend time is: 1200
 Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
 Already up to date.
+[gh-pages f46aef8] Synchronizing completion at 2020-02-13
+ 18 files changed, 242 insertions(+), 1 deletion(-)
+ create mode 100644 prometheus-blackbox-exporter-3.2.0.tgz
+ create mode 100644 rabbitmq-6.17.2.tgz
+ create mode 100644 redis-10.4.3.tgz
+ create mode 100644 redis-10.4.4.tgz
+ create mode 100644 redis-10.5.0.tgz
+ create mode 100644 redis-10.5.1.tgz
+ rewrite redmine-14.1.6.tgz (98%)
+ create mode 100644 redmine-14.1.7.tgz
+ create mode 100644 rocketchat-2.0.1.tgz
+ create mode 100644 sealed-secrets-1.7.3.tgz
+ create mode 100644 sealed-secrets-1.7.4.tgz
+ create mode 100644 sealed-secrets-1.7.5.tgz
+ rewrite sentry-4.0.0.tgz (99%)
+ create mode 100644 suitecrm-8.0.5.tgz
+ create mode 100644 suitecrm-8.0.6.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   4864a5a..f46aef8  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:00] spend time is: 1210
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:10] spend time is: 1220
+[2020-02-13 07:02:14] testlink-7.1.1.tgz update done.
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:20] spend time is: 1230
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:30] spend time is: 1240
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:40] spend time is: 1250
+[2020-02-13 07:02:41] spend time is: 1250
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:02:50] spend time is: 1260
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:00] spend time is: 1270
+[2020-02-13 07:03:04] vsphere-cpi-0.1.3.tgz update done.
+[2020-02-13 07:03:09] wordpress-8.1.3.tgz update done.
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:10] spend time is: 1280
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:20] spend time is: 1290
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:30] spend time is: 1300
+[2020-02-13 07:03:34] xray-0.4.2.tgz update done.
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+Already up to date.
