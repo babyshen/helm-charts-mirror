@@ -760,3 +760,244 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-13 06:56:50] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages 4864a5a] Synchronizing completion at 2020-02-13
+ 4 files changed, 237 insertions(+), 1 deletion(-)
+ rewrite mission-control-0.4.3.tgz (99%)
+ create mode 100644 newrelic-infrastructure-0.13.22.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   8464675..4864a5a  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:00] spend time is: 910
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:10] spend time is: 920
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:20] spend time is: 930
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:30] spend time is: 940
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:40] prometheus-blackbox-exporter-3.2.0.tgz update done.
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:40] spend time is: 950
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:50] spend time is: 960
+[2020-02-13 06:57:55] prometheus-operator-8.7.0.tgz update done.
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:00] spend time is: 970
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:10] spend time is: 980
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:20] spend time is: 990
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:30] spend time is: 1000
+[2020-02-13 06:58:39] rabbitmq-6.17.2.tgz update done.
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:40] spend time is: 1010
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:58:50] spend time is: 1020
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:00] spend time is: 1030
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:10] spend time is: 1040
+[2020-02-13 06:59:17] redis-10.5.1.tgz update done.
+[2020-02-13 06:59:17] redis-10.5.0.tgz update done.
+[2020-02-13 06:59:17] redis-10.4.4.tgz update done.
+[2020-02-13 06:59:18] redis-10.4.3.tgz update done.
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:20] spend time is: 1050
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:30] spend time is: 1060
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:40] spend time is: 1070
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 06:59:50] spend time is: 1080
+[2020-02-13 07:00:00] redmine-14.1.7.tgz update done.
+[2020-02-13 07:00:00] spend time is: 1090
+[2020-02-13 07:00:00] redmine-14.1.6.tgz update done.
+[2020-02-13 07:00:00] spend time is: 1090
+[2020-02-13 07:00:00] spend time is: 1090
+[2020-02-13 07:00:00] spend time is: 1090
+[2020-02-13 07:00:00] spend time is: 1090
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:10] spend time is: 1100
+[2020-02-13 07:00:18] rocketchat-2.0.1.tgz update done.
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:20] spend time is: 1110
+[2020-02-13 07:00:25] sealed-secrets-1.7.5.tgz update done.
+[2020-02-13 07:00:26] sealed-secrets-1.7.4.tgz update done.
+[2020-02-13 07:00:26] sealed-secrets-1.7.3.tgz update done.
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:30] spend time is: 1120
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] sentry-4.0.0.tgz update done.
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:40] spend time is: 1130
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:00:50] spend time is: 1140
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:00] spend time is: 1150
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:10] spend time is: 1160
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:20] spend time is: 1170
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:30] spend time is: 1180
+[2020-02-13 07:01:39] suitecrm-8.0.6.tgz update done.
+[2020-02-13 07:01:40] suitecrm-8.0.5.tgz update done.
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:40] spend time is: 1190
+[2020-02-13 07:01:50] spend time is: 1200
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
