@@ -1012,3 +1012,131 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-21 07:06:46] spend time is: 1190
 [2020-02-21 07:06:56] spend time is: 1200
 Already up to date.
+[gh-pages f07f44d] Synchronizing completion at 2020-02-21
+ 18 files changed, 241 insertions(+), 1 deletion(-)
+ create mode 100644 prometheus-adapter-2.1.0.tgz
+ create mode 100644 prometheus-adapter-2.1.1.tgz
+ create mode 100644 prometheus-node-exporter-1.8.2.tgz
+ create mode 100644 prometheus-operator-8.8.0.tgz
+ create mode 100644 prometheus-operator-8.8.1.tgz
+ create mode 100644 prometheus-operator-8.9.0.tgz
+ create mode 100644 rabbitmq-ha-1.39.0.tgz
+ create mode 100644 rabbitmq-ha-1.40.0.tgz
+ create mode 100644 rabbitmq-ha-1.40.1.tgz
+ create mode 100644 redis-10.5.2.tgz
+ create mode 100644 redis-10.5.3.tgz
+ create mode 100644 redis-ha-4.3.4.tgz
+ create mode 100644 redis-ha-4.4.0.tgz
+ create mode 100644 sealed-secrets-1.7.6.tgz
+ create mode 100644 sonarqube-3.4.1.tgz
+ create mode 100644 spinnaker-1.23.3.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   03df0e0..f07f44d  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-21 07:07:01] spring-cloud-data-flow-2.6.0.tgz update done.
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:06] spend time is: 1210
+[2020-02-21 07:07:13] suitecrm-8.0.7.tgz update done.
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:16] spend time is: 1220
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:26] spend time is: 1230
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:36] spend time is: 1240
+[2020-02-21 07:07:40] telegraf-1.6.0.tgz update done.
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:46] spend time is: 1250
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:07:56] spend time is: 1260
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:06] spend time is: 1270
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:16] spend time is: 1280
+[2020-02-21 07:08:22] unbound-1.1.2.tgz update done.
+[2020-02-21 07:08:23] unifi-0.6.1.tgz update done.
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:26] spend time is: 1290
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:36] spend time is: 1300
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:46] spend time is: 1310
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:08:56] spend time is: 1320
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] xray-0.4.2.tgz update done.
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] spend time is: 1330
+[2020-02-21 07:09:06] spend time is: 1330
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
