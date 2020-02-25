@@ -558,3 +558,246 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-25 06:58:11] spend time is: 590
 [2020-02-25 06:58:21] spend time is: 600
 Already up to date.
+[gh-pages 6dd3be1] Synchronizing completion at 2020-02-25
+ 11 files changed, 249 insertions(+), 1 deletion(-)
+ rewrite graylog-1.5.8.tgz (84%)
+ create mode 100644 influxdb-4.2.4.tgz
+ create mode 100644 jasperreports-7.0.6.tgz
+ create mode 100644 jasperreports-7.0.7.tgz
+ create mode 100644 joomla-7.1.7.tgz
+ create mode 100644 kafka-manager-2.3.0.tgz
+ create mode 100644 mediawiki-9.1.5.tgz
+ create mode 100644 mediawiki-9.1.6.tgz
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+To github.com:babyshen/helm-charts-mirror.git
+   0d03022..6dd3be1  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:31] spend time is: 610
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:41] spend time is: 620
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:58:51] mongodb-7.8.5.tgz update done.
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:58:51] spend time is: 630
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:01] spend time is: 640
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:11] spend time is: 650
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:21] spend time is: 660
+[2020-02-25 06:59:22] spend time is: 660
+[2020-02-25 06:59:26] moodle-7.2.2.tgz update done.
+[2020-02-25 06:59:26] moodle-7.2.1.tgz update done.
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:31] spend time is: 670
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:41] spend time is: 680
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:51] spend time is: 690
+[2020-02-25 06:59:55] nats-4.3.3.tgz update done.
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:01] spend time is: 700
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:11] spend time is: 710
+[2020-02-25 07:00:21] spend time is: 720
+[2020-02-25 07:00:21] spend time is: 720
+[2020-02-25 07:00:21] nginx-ingress-1.33.0.tgz update done.
+[2020-02-25 07:00:21] spend time is: 720
+[2020-02-25 07:00:21] nginx-ingress-1.32.0.tgz update done.
+[2020-02-25 07:00:21] spend time is: 720
+[2020-02-25 07:00:21] spend time is: 720
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:31] spend time is: 730
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:41] spend time is: 740
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:00:51] spend time is: 750
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:01] spend time is: 760
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:11] spend time is: 770
+[2020-02-25 07:01:18] opencart-7.0.6.tgz update done.
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:21] spend time is: 780
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:31] spend time is: 790
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:41] spend time is: 800
+[2020-02-25 07:01:44] orangehrm-7.0.6.tgz update done.
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:51] spend time is: 810
+[2020-02-25 07:01:56] osclass-7.0.6.tgz update done.
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:01] spend time is: 820
+[2020-02-25 07:02:06] owncloud-8.1.4.tgz update done.
+[2020-02-25 07:02:07] owncloud-8.1.3.tgz update done.
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:11] spend time is: 830
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:21] parse-10.3.7.tgz update done.
+[2020-02-25 07:02:21] spend time is: 840
+[2020-02-25 07:02:22] parse-10.3.6.tgz update done.
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:31] spend time is: 850
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:41] spend time is: 860
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:02:51] spend time is: 870
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:01] spend time is: 880
+[2020-02-25 07:03:05] phpbb-7.0.7.tgz update done.
+[2020-02-25 07:03:06] phpbb-7.0.6.tgz update done.
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:11] spend time is: 890
+[2020-02-25 07:03:17] phpmyadmin-4.3.2.tgz update done.
+[2020-02-25 07:03:17] phpmyadmin-4.3.1.tgz update done.
+[2020-02-25 07:03:21] spend time is: 900
+Already up to date.
