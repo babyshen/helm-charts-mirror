@@ -1036,3 +1036,139 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-02-27 07:09:18] spend time is: 1190
 [2020-02-27 07:09:28] spend time is: 1200
 Already up to date.
+[gh-pages 1ce4014] Synchronizing completion at 2020-02-27
+ 14 files changed, 248 insertions(+), 1 deletion(-)
+ create mode 100644 postgresql-8.4.2.tgz
+ create mode 100644 postgresql-8.4.3.tgz
+ create mode 100644 prestashop-9.1.7.tgz
+ create mode 100644 prometheus-10.4.1.tgz
+ create mode 100644 prometheus-10.5.1.tgz
+ create mode 100644 prometheus-10.5.2.tgz
+ create mode 100644 rabbitmq-6.17.5.tgz
+ create mode 100644 redis-10.5.6.tgz
+ create mode 100644 redmine-14.1.10.tgz
+ create mode 100644 sonarqube-4.0.0.tgz
+ create mode 100644 sonarqube-4.0.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   e569353..1ce4014  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:38] spend time is: 1210
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:48] spend time is: 1220
+[2020-02-27 07:09:54] spring-cloud-data-flow-2.6.0.tgz update done.
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:09:58] spend time is: 1230
+[2020-02-27 07:10:01] stolon-1.5.7.tgz update done.
+[2020-02-27 07:10:07] suitecrm-8.0.8.tgz update done.
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:08] spend time is: 1240
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:18] spend time is: 1250
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:28] spend time is: 1260
+[2020-02-27 07:10:38] spend time is: 1270
+[2020-02-27 07:10:38] spend time is: 1270
+[2020-02-27 07:10:38] spend time is: 1270
+[2020-02-27 07:10:38] testlink-7.1.3.tgz update done.
+[2020-02-27 07:10:38] spend time is: 1270
+[2020-02-27 07:10:38] testlink-7.1.2.tgz update done.
+[2020-02-27 07:10:38] spend time is: 1270
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:48] spend time is: 1280
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:10:58] spend time is: 1290
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:08] spend time is: 1300
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:18] spend time is: 1310
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:28] spend time is: 1320
+[2020-02-27 07:11:33] weave-scope-1.1.9.tgz update done.
+[2020-02-27 07:11:33] weave-scope-1.1.8.tgz update done.
+[2020-02-27 07:11:35] wordpress-8.1.6.tgz update done.
+[2020-02-27 07:11:36] wordpress-8.1.5.tgz update done.
+[2020-02-27 07:11:36] wordpress-8.1.4.tgz update done.
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:38] spend time is: 1330
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:48] spend time is: 1340
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+[2020-02-27 07:11:58] spend time is: 1350
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
