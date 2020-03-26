@@ -1,0 +1,271 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 7947k  100 7947k    0     0  87.6M      0 --:--:-- --:--:-- --:--:-- 88.1M
+[2020-03-26 12:59:46] airflow-6.5.0.tgz update done.
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:49] spend time is: 60
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 12:59:59] spend time is: 70
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:09] spend time is: 80
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:19] spend time is: 90
+[2020-03-26 13:00:20] spend time is: 90
+[2020-03-26 13:00:27] cerebro-1.6.0.tgz update done.
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:29] spend time is: 100
+[2020-03-26 13:00:30] spend time is: 100
+[2020-03-26 13:00:30] spend time is: 100
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:39] spend time is: 110
+[2020-03-26 13:00:40] cloudserver-1.0.4.tgz update done.
+[2020-03-26 13:00:41] cluster-autoscaler-7.2.0.tgz update done.
+[2020-03-26 13:00:48] cluster-overprovisioner-0.3.0.tgz update done.
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] cockroachdb-3.0.7.tgz update done.
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:49] spend time is: 120
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:00:59] spend time is: 130
+[2020-03-26 13:01:00] spend time is: 130
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:09] spend time is: 140
+[2020-03-26 13:01:17] coredns-1.10.1.tgz update done.
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:19] spend time is: 150
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:29] spend time is: 160
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:39] spend time is: 170
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:49] spend time is: 180
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:01:59] spend time is: 190
+[2020-03-26 13:02:00] spend time is: 190
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:09] spend time is: 200
+[2020-03-26 13:02:10] spend time is: 200
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:19] spend time is: 210
+[2020-03-26 13:02:20] spend time is: 210
+[2020-03-26 13:02:20] spend time is: 210
+[2020-03-26 13:02:24] elastic-stack-1.9.0.tgz update done.
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:29] spend time is: 220
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:39] spend time is: 230
+[2020-03-26 13:02:40] spend time is: 230
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:49] spend time is: 240
+[2020-03-26 13:02:58] falco-1.1.6.tgz update done.
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:02:59] spend time is: 250
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:09] spend time is: 260
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:19] spend time is: 270
+[2020-03-26 13:03:23] gangway-0.4.2.tgz update done.
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:29] spend time is: 280
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:39] spend time is: 290
+[2020-03-26 13:03:49] spend time is: 300
+[2020-03-26 13:03:49] spend time is: 300
+[2020-03-26 13:03:49] spend time is: 300
+[2020-03-26 13:03:49] spend time is: 300
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
