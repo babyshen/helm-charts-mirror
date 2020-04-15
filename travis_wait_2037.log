@@ -282,3 +282,260 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 81c88bf] Synchronizing completion at 2020-04-15
+ 17 files changed, 2285 insertions(+), 314 deletions(-)
+ create mode 100644 airflow-6.5.1.tgz
+ create mode 100644 airflow-6.6.0.tgz
+ create mode 100644 anchore-engine-1.5.1.tgz
+ create mode 100644 chartmuseum-2.11.0.tgz
+ create mode 100644 cluster-autoscaler-7.2.2.tgz
+ create mode 100644 datadog-2.2.0.tgz
+ create mode 100644 datadog-2.2.1.tgz
+ rewrite distribution-0.4.2.tgz (99%)
+ create mode 100644 elastalert-1.2.4.tgz
+ create mode 100644 elastalert-1.3.0.tgz
+ rewrite elastic-stack-1.9.0.tgz (99%)
+ create mode 100644 elastic-stack-2.0.0.tgz
+ create mode 100644 travis_wait_2037.log
+To github.com:babyshen/helm-charts-mirror.git
+   8c311fb..81c88bf  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:23] spend time is: 310
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:33] spend time is: 320
+[2020-04-15 13:21:41] goldpinger-2.0.2.tgz update done.
+[2020-04-15 13:21:43] spend time is: 330
+[2020-04-15 13:21:43] grafana-5.0.12.tgz update done.
+[2020-04-15 13:21:43] spend time is: 330
+[2020-04-15 13:21:43] grafana-5.0.11.tgz update done.
+[2020-04-15 13:21:43] spend time is: 330
+[2020-04-15 13:21:43] spend time is: 330
+[2020-04-15 13:21:43] spend time is: 330
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:21:53] spend time is: 340
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:03] spend time is: 350
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:13] spend time is: 360
+[2020-04-15 13:22:15] graylog-1.6.2.tgz update done.
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:23] hazelcast-3.1.2.tgz update done.
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:23] spend time is: 370
+[2020-04-15 13:22:28] hazelcast-jet-1.5.1.tgz update done.
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:33] spend time is: 380
+[2020-04-15 13:22:35] hlf-ca-1.2.0.tgz update done.
+[2020-04-15 13:22:41] home-assistant-0.12.7.tgz update done.
+[2020-04-15 13:22:42] home-assistant-0.12.6.tgz update done.
+[2020-04-15 13:22:42] home-assistant-0.12.5.tgz update done.
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:43] spend time is: 390
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:22:53] spend time is: 400
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:03] spend time is: 410
+[2020-04-15 13:23:08] janusgraph-0.2.1.tgz update done.
+[2020-04-15 13:23:08] jasperreports-7.0.11.tgz update done.
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:13] spend time is: 420
+[2020-04-15 13:23:14] spend time is: 420
+[2020-04-15 13:23:19] jenkins-1.13.0.tgz update done.
+[2020-04-15 13:23:20] jenkins-1.12.0.tgz update done.
+[2020-04-15 13:23:20] jenkins-1.11.3.tgz update done.
+[2020-04-15 13:23:20] jenkins-1.11.2.tgz update done.
+[2020-04-15 13:23:21] jenkins-1.11.1.tgz update done.
+[2020-04-15 13:23:21] jenkins-1.11.0.tgz update done.
+[2020-04-15 13:23:21] jenkins-1.10.2.tgz update done.
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:23] spend time is: 430
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:33] spend time is: 440
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:43] spend time is: 450
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:53] spend time is: 460
+[2020-04-15 13:23:54] joomla-7.1.11.tgz update done.
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:03] spend time is: 470
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:13] spend time is: 480
+[2020-04-15 13:24:18] karma-1.5.0.tgz update done.
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:23] spend time is: 490
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:33] spend time is: 500
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:43] spend time is: 510
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:24:53] spend time is: 520
+[2020-04-15 13:25:02] kube-slack-1.3.1.tgz update done.
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:03] spend time is: 530
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:13] kube2iam-2.2.0.tgz update done.
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:13] spend time is: 540
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:23] spend time is: 550
+[2020-04-15 13:25:29] kubewatch-1.0.9.tgz update done.
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:33] spend time is: 560
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:43] spend time is: 570
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:53] spend time is: 580
+[2020-04-15 13:25:58] mariadb-7.3.14.tgz update done.
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:03] spend time is: 590
+[2020-04-15 13:26:13] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
