@@ -1087,3 +1087,271 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-04-15 13:36:03] spend time is: 1190
 [2020-04-15 13:36:13] spend time is: 1200
 Already up to date.
+[gh-pages 7bfa946] Synchronizing completion at 2020-04-15
+ 35 files changed, 273 insertions(+), 1 deletion(-)
+ create mode 100644 parse-10.3.10.tgz
+ create mode 100644 phabricator-9.0.13.tgz
+ create mode 100644 phpbb-7.0.10.tgz
+ create mode 100644 phpmyadmin-4.3.5.tgz
+ create mode 100644 postgresql-8.6.4.tgz
+ create mode 100644 prestashop-9.1.11.tgz
+ create mode 100644 prisma-1.2.2.tgz
+ create mode 100644 prometheus-11.0.5.tgz
+ create mode 100644 prometheus-11.0.6.tgz
+ create mode 100644 prometheus-11.1.0.tgz
+ create mode 100644 prometheus-adapter-2.2.0.tgz
+ create mode 100644 prometheus-adapter-2.3.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-3.3.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-3.4.0.tgz
+ create mode 100644 prometheus-cloudwatch-exporter-0.7.0.tgz
+ create mode 100644 prometheus-operator-8.12.10.tgz
+ create mode 100644 prometheus-operator-8.12.11.tgz
+ create mode 100644 prometheus-operator-8.12.12.tgz
+ create mode 100644 prometheus-operator-8.12.13.tgz
+ create mode 100644 prometheus-operator-8.12.4.tgz
+ create mode 100644 prometheus-operator-8.12.5.tgz
+ create mode 100644 prometheus-operator-8.12.6.tgz
+ create mode 100644 prometheus-operator-8.12.7.tgz
+ create mode 100644 prometheus-operator-8.12.8.tgz
+ create mode 100644 prometheus-operator-8.12.9.tgz
+ create mode 100644 prometheus-pushgateway-1.4.0.tgz
+ create mode 100644 prometheus-redis-exporter-3.4.0.tgz
+ create mode 100644 rabbitmq-ha-1.42.0.tgz
+ create mode 100644 rabbitmq-ha-1.43.0.tgz
+ create mode 100644 rabbitmq-ha-1.44.0.tgz
+ create mode 100644 rabbitmq-ha-1.44.1.tgz
+ create mode 100644 rabbitmq-ha-1.44.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   166625f..7bfa946  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:23] spend time is: 1210
+[2020-04-15 13:36:25] redis-ha-4.4.4.tgz update done.
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:33] spend time is: 1220
+[2020-04-15 13:36:40] redmine-14.1.12.tgz update done.
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:43] spend time is: 1230
+[2020-04-15 13:36:44] spend time is: 1230
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:36:53] spend time is: 1240
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:03] spend time is: 1250
+[2020-04-15 13:37:11] selenium-1.0.11.tgz update done.
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:13] spend time is: 1260
+[2020-04-15 13:37:17] sematext-agent-1.0.25.tgz update done.
+[2020-04-15 13:37:18] sematext-agent-1.0.24.tgz update done.
+[2020-04-15 13:37:18] sematext-agent-1.0.23.tgz update done.
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:23] sentry-4.1.0.tgz update done.
+[2020-04-15 13:37:23] spend time is: 1270
+[2020-04-15 13:37:24] sentry-4.0.1.tgz update done.
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:33] spend time is: 1280
+[2020-04-15 13:37:35] signalsciences-2.0.0.tgz update done.
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:43] spend time is: 1290
+[2020-04-15 13:37:48] sonatype-nexus-1.23.1.tgz update done.
+[2020-04-15 13:37:48] sonatype-nexus-1.23.0.tgz update done.
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:37:53] spend time is: 1300
+[2020-04-15 13:38:02] spinnaker-2.0.0-rc2.tgz update done.
+[2020-04-15 13:38:02] spinnaker-2.0.0-rc1.tgz update done.
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:03] spend time is: 1310
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:13] spend time is: 1320
+[2020-04-15 13:38:15] spring-cloud-data-flow-2.6.0.tgz update done.
+[2020-04-15 13:38:21] stolon-1.5.9.tgz update done.
+[2020-04-15 13:38:22] stolon-1.5.8.tgz update done.
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:23] spend time is: 1330
+[2020-04-15 13:38:28] suitecrm-8.0.11.tgz update done.
+[2020-04-15 13:38:28] suitecrm-8.0.10.tgz update done.
+[2020-04-15 13:38:29] suitecrm-8.0.9.tgz update done.
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:33] spend time is: 1340
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:43] spend time is: 1350
+[2020-04-15 13:38:47] superset-1.1.10.tgz update done.
+[2020-04-15 13:38:50] sysdig-1.7.9.tgz update done.
+[2020-04-15 13:38:50] sysdig-1.7.8.tgz update done.
+[2020-04-15 13:38:51] sysdig-1.7.7.tgz update done.
+[2020-04-15 13:38:51] sysdig-1.7.6.tgz update done.
+[2020-04-15 13:38:51] sysdig-1.7.5.tgz update done.
+[2020-04-15 13:38:52] sysdig-1.7.4.tgz update done.
+[2020-04-15 13:38:52] sysdig-1.7.3.tgz update done.
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:53] spend time is: 1360
+[2020-04-15 13:38:59] telegraf-1.6.1.tgz update done.
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:03] spend time is: 1370
+[2020-04-15 13:39:04] testlink-7.1.7.tgz update done.
+[2020-04-15 13:39:04] testlink-7.1.6.tgz update done.
+[2020-04-15 13:39:05] testlink-7.1.5.tgz update done.
+[2020-04-15 13:39:05] testlink-7.1.4.tgz update done.
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:13] spend time is: 1380
+[2020-04-15 13:39:18] traefik-1.86.2.tgz update done.
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:23] spend time is: 1390
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:33] spend time is: 1400
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:43] spend time is: 1410
+[2020-04-15 13:39:45] unifi-0.7.0.tgz update done.
+[2020-04-15 13:39:45] unifi-0.6.5.tgz update done.
+[2020-04-15 13:39:46] unifi-0.6.4.tgz update done.
+[2020-04-15 13:39:46] unifi-0.6.3.tgz update done.
+[2020-04-15 13:39:46] unifi-0.6.2.tgz update done.
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:39:53] spend time is: 1420
+[2020-04-15 13:40:03] weave-scope-1.1.10.tgz update done.
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:03] spend time is: 1430
+[2020-04-15 13:40:05] wordpress-9.0.3.tgz update done.
+[2020-04-15 13:40:06] wordpress-9.0.2.tgz update done.
+[2020-04-15 13:40:06] wordpress-9.0.1.tgz update done.
+[2020-04-15 13:40:07] wordpress-9.0.0.tgz update done.
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:13] spend time is: 1440
+[2020-04-15 13:40:14] spend time is: 1440
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:23] spend time is: 1450
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+[2020-04-15 13:40:33] spend time is: 1460
+Already up to date.
