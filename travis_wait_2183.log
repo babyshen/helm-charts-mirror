@@ -285,3 +285,255 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 0652e09] Synchronizing completion at 2020-04-21
+ 15 files changed, 2021 insertions(+), 468 deletions(-)
+ rewrite airflow-6.6.0.tgz (70%)
+ create mode 100644 airflow-6.6.1.tgz
+ create mode 100644 airflow-6.7.0.tgz
+ create mode 100644 anchore-engine-1.5.2.tgz
+ create mode 100644 chartmuseum-2.12.0.tgz
+ create mode 100644 datadog-2.2.2.tgz
+ create mode 100644 datadog-2.2.3.tgz
+ create mode 100644 datadog-2.2.4.tgz
+ rewrite distribution-0.4.2.tgz (99%)
+ create mode 100644 elastalert-1.4.0.tgz
+ rewrite elastic-stack-2.0.0.tgz (98%)
+ create mode 100644 travis_wait_2183.log
+To github.com:babyshen/helm-charts-mirror.git
+   d0de196..0652e09  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:06] spend time is: 310
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:16] spend time is: 320
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:26] spend time is: 330
+[2020-04-21 13:25:33] grafana-5.0.13.tgz update done.
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:36] spend time is: 340
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:46] spend time is: 350
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:25:56] spend time is: 360
+[2020-04-21 13:26:05] graylog-1.6.2.tgz update done.
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:06] spend time is: 370
+[2020-04-21 13:26:13] hazelcast-3.2.0.tgz update done.
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:16] spend time is: 380
+[2020-04-21 13:26:25] hlf-ca-1.2.0.tgz update done.
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:26] spend time is: 390
+[2020-04-21 13:26:31] home-assistant-0.13.0.tgz update done.
+[2020-04-21 13:26:31] home-assistant-0.12.8.tgz update done.
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:36] spend time is: 400
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:46] spend time is: 410
+[2020-04-21 13:26:49] instana-agent-1.0.27.tgz update done.
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:56] spend time is: 420
+[2020-04-21 13:26:59] janusgraph-0.2.1.tgz update done.
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:06] spend time is: 430
+[2020-04-21 13:27:07] spend time is: 430
+[2020-04-21 13:27:11] jenkins-1.16.0.tgz update done.
+[2020-04-21 13:27:11] jenkins-1.15.0.tgz update done.
+[2020-04-21 13:27:11] jenkins-1.14.0.tgz update done.
+[2020-04-21 13:27:11] jenkins-1.13.3.tgz update done.
+[2020-04-21 13:27:12] jenkins-1.13.2.tgz update done.
+[2020-04-21 13:27:12] jenkins-1.13.1.tgz update done.
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:16] spend time is: 440
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:26] spend time is: 450
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:36] spend time is: 460
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:46] spend time is: 470
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:27:56] spend time is: 480
+[2020-04-21 13:28:02] k8s-spot-rescheduler-0.4.4.tgz update done.
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:06] spend time is: 490
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:16] spend time is: 500
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:26] spend time is: 510
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:36] spend time is: 520
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:46] spend time is: 530
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:28:56] spend time is: 540
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:06] spend time is: 550
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:16] spend time is: 560
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:26] spend time is: 570
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:36] spend time is: 580
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:46] spend time is: 590
+[2020-04-21 13:29:47] spend time is: 590
+[2020-04-21 13:29:56] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
