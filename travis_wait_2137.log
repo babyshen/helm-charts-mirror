@@ -397,3 +397,174 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-10 13:40:38] spend time is: 590
 [2020-05-10 13:40:48] spend time is: 600
 Already up to date.
+[gh-pages c40e43c] Synchronizing completion at 2020-05-10
+ 8 files changed, 186 insertions(+), 1 deletion(-)
+ create mode 100644 fluentd-2.4.1.tgz
+ create mode 100644 grafana-5.0.23.tgz
+ create mode 100644 grafana-5.0.24.tgz
+ rewrite graylog-1.6.2.tgz (65%)
+ create mode 100644 jenkins-1.18.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   ee45b87..c40e43c  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-10 13:40:58] spend time is: 610
+[2020-05-10 13:40:58] spend time is: 610
+[2020-05-10 13:40:58] spend time is: 610
+[2020-05-10 13:40:58] spend time is: 610
+[2020-05-10 13:40:58] spend time is: 610
+[2020-05-10 13:41:08] spend time is: 620
+[2020-05-10 13:41:08] spend time is: 620
+[2020-05-10 13:41:08] spend time is: 620
+[2020-05-10 13:41:08] spend time is: 620
+[2020-05-10 13:41:08] spend time is: 620
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:18] spend time is: 630
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:28] spend time is: 640
+[2020-05-10 13:41:38] spend time is: 650
+[2020-05-10 13:41:38] spend time is: 650
+[2020-05-10 13:41:38] spend time is: 650
+[2020-05-10 13:41:38] spend time is: 650
+[2020-05-10 13:41:38] spend time is: 650
+[2020-05-10 13:41:45] k8s-spot-termination-handler-1.4.9.tgz update done.
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:48] spend time is: 660
+[2020-05-10 13:41:55] karma-1.5.1.tgz update done.
+[2020-05-10 13:41:58] spend time is: 670
+[2020-05-10 13:41:58] spend time is: 670
+[2020-05-10 13:41:58] spend time is: 670
+[2020-05-10 13:41:58] spend time is: 670
+[2020-05-10 13:41:58] spend time is: 670
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:08] spend time is: 680
+[2020-05-10 13:42:18] spend time is: 690
+[2020-05-10 13:42:18] spend time is: 690
+[2020-05-10 13:42:18] spend time is: 690
+[2020-05-10 13:42:18] spend time is: 690
+[2020-05-10 13:42:18] spend time is: 690
+[2020-05-10 13:42:28] spend time is: 700
+[2020-05-10 13:42:28] kong-0.36.7.tgz update done.
+[2020-05-10 13:42:28] spend time is: 700
+[2020-05-10 13:42:28] spend time is: 700
+[2020-05-10 13:42:28] spend time is: 700
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:38] spend time is: 710
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:48] spend time is: 720
+[2020-05-10 13:42:58] spend time is: 730
+[2020-05-10 13:42:58] spend time is: 730
+[2020-05-10 13:42:58] spend time is: 730
+[2020-05-10 13:42:58] spend time is: 730
+[2020-05-10 13:42:58] spend time is: 730
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:08] spend time is: 740
+[2020-05-10 13:43:18] spend time is: 750
+[2020-05-10 13:43:18] spend time is: 750
+[2020-05-10 13:43:18] spend time is: 750
+[2020-05-10 13:43:18] spend time is: 750
+[2020-05-10 13:43:18] spend time is: 750
+[2020-05-10 13:43:28] spend time is: 760
+[2020-05-10 13:43:28] spend time is: 760
+[2020-05-10 13:43:28] spend time is: 760
+[2020-05-10 13:43:28] spend time is: 760
+[2020-05-10 13:43:28] spend time is: 760
+[2020-05-10 13:43:38] spend time is: 770
+[2020-05-10 13:43:38] spend time is: 770
+[2020-05-10 13:43:38] spend time is: 770
+[2020-05-10 13:43:38] spend time is: 770
+[2020-05-10 13:43:38] spend time is: 770
+[2020-05-10 13:43:46] locust-1.2.1.tgz update done.
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:48] spend time is: 780
+[2020-05-10 13:43:58] spend time is: 790
+[2020-05-10 13:43:58] spend time is: 790
+[2020-05-10 13:43:58] spend time is: 790
+[2020-05-10 13:43:58] spend time is: 790
+[2020-05-10 13:43:58] spend time is: 790
+[2020-05-10 13:44:08] spend time is: 800
+[2020-05-10 13:44:08] spend time is: 800
+[2020-05-10 13:44:08] spend time is: 800
+[2020-05-10 13:44:08] spend time is: 800
+[2020-05-10 13:44:08] spend time is: 800
+[2020-05-10 13:44:18] spend time is: 810
+[2020-05-10 13:44:18] spend time is: 810
+[2020-05-10 13:44:18] spend time is: 810
+[2020-05-10 13:44:18] spend time is: 810
+[2020-05-10 13:44:18] spend time is: 810
+[2020-05-10 13:44:19] spend time is: 810
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:28] spend time is: 820
+[2020-05-10 13:44:38] spend time is: 830
+[2020-05-10 13:44:38] spend time is: 830
+[2020-05-10 13:44:38] spend time is: 830
+[2020-05-10 13:44:38] spend time is: 830
+[2020-05-10 13:44:38] spend time is: 830
+[2020-05-10 13:44:48] spend time is: 840
+[2020-05-10 13:44:48] spend time is: 840
+[2020-05-10 13:44:48] spend time is: 840
+[2020-05-10 13:44:48] spend time is: 840
+[2020-05-10 13:44:48] spend time is: 840
+[2020-05-10 13:44:58] spend time is: 850
+[2020-05-10 13:44:58] spend time is: 850
+[2020-05-10 13:44:58] spend time is: 850
+[2020-05-10 13:44:58] spend time is: 850
+[2020-05-10 13:44:58] spend time is: 850
+[2020-05-10 13:45:08] spend time is: 860
+[2020-05-10 13:45:08] spend time is: 860
+[2020-05-10 13:45:08] spend time is: 860
+[2020-05-10 13:45:08] spend time is: 860
+[2020-05-10 13:45:08] spend time is: 860
+[2020-05-10 13:45:18] spend time is: 870
+[2020-05-10 13:45:18] spend time is: 870
+[2020-05-10 13:45:18] spend time is: 870
+[2020-05-10 13:45:18] spend time is: 870
+[2020-05-10 13:45:18] spend time is: 870
+[2020-05-10 13:45:28] spend time is: 880
+[2020-05-10 13:45:28] spend time is: 880
+[2020-05-10 13:45:28] spend time is: 880
+[2020-05-10 13:45:28] spend time is: 880
+[2020-05-10 13:45:28] spend time is: 880
+[2020-05-10 13:45:38] spend time is: 890
+[2020-05-10 13:45:38] spend time is: 890
+[2020-05-10 13:45:38] spend time is: 890
+[2020-05-10 13:45:38] spend time is: 890
+[2020-05-10 13:45:38] spend time is: 890
+[2020-05-10 13:45:48] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
