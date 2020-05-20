@@ -592,3 +592,183 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-20 13:50:13] spend time is: 900
 Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
 Already up to date.
+[gh-pages d186e61] Synchronizing completion at 2020-05-20
+ 6 files changed, 182 insertions(+), 1 deletion(-)
+ create mode 100644 kube-state-metrics-2.8.5.tgz
+ create mode 100644 kube2iam-2.5.0.tgz
+ create mode 100644 kured-1.5.1.tgz
+ create mode 100644 metabase-0.11.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   34a57f9..d186e61  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:23] spend time is: 910
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:33] spend time is: 920
+[2020-05-20 13:50:43] spend time is: 930
+[2020-05-20 13:50:43] spend time is: 930
+[2020-05-20 13:50:43] spend time is: 930
+[2020-05-20 13:50:43] spend time is: 930
+[2020-05-20 13:50:43] spend time is: 930
+[2020-05-20 13:50:53] spend time is: 940
+[2020-05-20 13:50:53] spend time is: 940
+[2020-05-20 13:50:53] spend time is: 940
+[2020-05-20 13:50:53] spend time is: 940
+[2020-05-20 13:50:53] spend time is: 940
+[2020-05-20 13:51:03] spend time is: 950
+[2020-05-20 13:51:03] spend time is: 950
+[2020-05-20 13:51:03] spend time is: 950
+[2020-05-20 13:51:03] spend time is: 950
+[2020-05-20 13:51:03] spend time is: 950
+[2020-05-20 13:51:13] spend time is: 960
+[2020-05-20 13:51:13] spend time is: 960
+[2020-05-20 13:51:13] spend time is: 960
+[2020-05-20 13:51:13] spend time is: 960
+[2020-05-20 13:51:13] spend time is: 960
+[2020-05-20 13:51:23] spend time is: 970
+[2020-05-20 13:51:23] spend time is: 970
+[2020-05-20 13:51:23] spend time is: 970
+[2020-05-20 13:51:23] spend time is: 970
+[2020-05-20 13:51:23] spend time is: 970
+[2020-05-20 13:51:26] mongodb-replicaset-3.15.1.tgz update done.
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:33] spend time is: 980
+[2020-05-20 13:51:43] spend time is: 990
+[2020-05-20 13:51:43] spend time is: 990
+[2020-05-20 13:51:43] spend time is: 990
+[2020-05-20 13:51:43] spend time is: 990
+[2020-05-20 13:51:43] spend time is: 990
+[2020-05-20 13:51:53] spend time is: 1000
+[2020-05-20 13:51:53] spend time is: 1000
+[2020-05-20 13:51:53] spend time is: 1000
+[2020-05-20 13:51:53] spend time is: 1000
+[2020-05-20 13:51:53] spend time is: 1000
+[2020-05-20 13:52:03] spend time is: 1010
+[2020-05-20 13:52:03] spend time is: 1010
+[2020-05-20 13:52:03] spend time is: 1010
+[2020-05-20 13:52:03] spend time is: 1010
+[2020-05-20 13:52:03] spend time is: 1010
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:13] spend time is: 1020
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:23] spend time is: 1030
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:33] spend time is: 1040
+[2020-05-20 13:52:36] neo4j-3.0.1.tgz update done.
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:43] spend time is: 1050
+[2020-05-20 13:52:50] nextcloud-1.10.1.tgz update done.
+[2020-05-20 13:52:53] spend time is: 1060
+[2020-05-20 13:52:53] spend time is: 1060
+[2020-05-20 13:52:53] spend time is: 1060
+[2020-05-20 13:52:53] spend time is: 1060
+[2020-05-20 13:52:53] spend time is: 1060
+[2020-05-20 13:53:02] nginx-ingress-1.37.0.tgz update done.
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:03] spend time is: 1070
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:13] spend time is: 1080
+[2020-05-20 13:53:23] spend time is: 1090
+[2020-05-20 13:53:23] spend time is: 1090
+[2020-05-20 13:53:23] spend time is: 1090
+[2020-05-20 13:53:23] spend time is: 1090
+[2020-05-20 13:53:23] spend time is: 1090
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:33] spend time is: 1100
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:43] spend time is: 1110
+[2020-05-20 13:53:51] oauth2-proxy-3.1.0.tgz update done.
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:53:53] spend time is: 1120
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:03] spend time is: 1130
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:13] spend time is: 1140
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:23] spend time is: 1150
+[2020-05-20 13:54:33] spend time is: 1160
+[2020-05-20 13:54:33] spend time is: 1160
+[2020-05-20 13:54:33] spend time is: 1160
+[2020-05-20 13:54:33] spend time is: 1160
+[2020-05-20 13:54:33] spend time is: 1160
+[2020-05-20 13:54:43] spend time is: 1170
+[2020-05-20 13:54:43] spend time is: 1170
+[2020-05-20 13:54:43] spend time is: 1170
+[2020-05-20 13:54:43] spend time is: 1170
+[2020-05-20 13:54:43] spend time is: 1170
+[2020-05-20 13:54:45] openebs-1.10.1.tgz update done.
+[2020-05-20 13:54:45] openebs-1.10.0.tgz update done.
+[2020-05-20 13:54:45] openebs-1.9.2.tgz update done.
+[2020-05-20 13:54:53] spend time is: 1180
+[2020-05-20 13:54:53] spend time is: 1180
+[2020-05-20 13:54:53] spend time is: 1180
+[2020-05-20 13:54:53] spend time is: 1180
+[2020-05-20 13:54:53] spend time is: 1180
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:03] spend time is: 1190
+[2020-05-20 13:55:13] spend time is: 1200
+Already up to date.
