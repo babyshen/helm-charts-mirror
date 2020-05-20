@@ -411,3 +411,184 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-20 13:45:03] spend time is: 590
 [2020-05-20 13:45:13] spend time is: 600
 Already up to date.
+[gh-pages 34a57f9] Synchronizing completion at 2020-05-20
+ 13 files changed, 191 insertions(+), 1 deletion(-)
+ create mode 100644 fluent-bit-2.8.14.tgz
+ create mode 100644 grafana-5.0.25.tgz
+ rewrite graylog-1.6.2.tgz (99%)
+ create mode 100644 graylog-1.6.3.tgz
+ create mode 100644 hazelcast-3.2.1.tgz
+ rewrite hlf-ca-1.2.0.tgz (99%)
+ create mode 100644 jenkins-1.20.0.tgz
+ create mode 100644 jenkins-1.21.0.tgz
+ create mode 100644 jenkins-1.21.1.tgz
+ create mode 100644 jenkins-1.21.2.tgz
+Warning: Permanently added the RSA host key for IP address '140.82.112.4' to the list of known hosts.
+To github.com:babyshen/helm-charts-mirror.git
+   db9b8bf..34a57f9  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:23] spend time is: 610
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:33] spend time is: 620
+[2020-05-20 13:45:43] spend time is: 630
+[2020-05-20 13:45:43] spend time is: 630
+[2020-05-20 13:45:43] spend time is: 630
+[2020-05-20 13:45:43] spend time is: 630
+[2020-05-20 13:45:43] spend time is: 630
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:45:53] spend time is: 640
+[2020-05-20 13:46:03] spend time is: 650
+[2020-05-20 13:46:03] spend time is: 650
+[2020-05-20 13:46:03] spend time is: 650
+[2020-05-20 13:46:03] spend time is: 650
+[2020-05-20 13:46:03] spend time is: 650
+[2020-05-20 13:46:13] spend time is: 660
+[2020-05-20 13:46:13] spend time is: 660
+[2020-05-20 13:46:13] spend time is: 660
+[2020-05-20 13:46:13] spend time is: 660
+[2020-05-20 13:46:13] spend time is: 660
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:23] spend time is: 670
+[2020-05-20 13:46:33] spend time is: 680
+[2020-05-20 13:46:33] spend time is: 680
+[2020-05-20 13:46:33] spend time is: 680
+[2020-05-20 13:46:33] spend time is: 680
+[2020-05-20 13:46:33] spend time is: 680
+[2020-05-20 13:46:43] spend time is: 690
+[2020-05-20 13:46:43] spend time is: 690
+[2020-05-20 13:46:43] spend time is: 690
+[2020-05-20 13:46:43] spend time is: 690
+[2020-05-20 13:46:43] spend time is: 690
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:46:53] spend time is: 700
+[2020-05-20 13:47:03] spend time is: 710
+[2020-05-20 13:47:03] spend time is: 710
+[2020-05-20 13:47:03] spend time is: 710
+[2020-05-20 13:47:03] spend time is: 710
+[2020-05-20 13:47:03] spend time is: 710
+[2020-05-20 13:47:13] spend time is: 720
+[2020-05-20 13:47:13] spend time is: 720
+[2020-05-20 13:47:13] spend time is: 720
+[2020-05-20 13:47:13] spend time is: 720
+[2020-05-20 13:47:13] spend time is: 720
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:23] spend time is: 730
+[2020-05-20 13:47:27] kube-state-metrics-2.8.5.tgz update done.
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:33] spend time is: 740
+[2020-05-20 13:47:40] kube2iam-2.5.0.tgz update done.
+[2020-05-20 13:47:43] spend time is: 750
+[2020-05-20 13:47:43] spend time is: 750
+[2020-05-20 13:47:43] spend time is: 750
+[2020-05-20 13:47:43] spend time is: 750
+[2020-05-20 13:47:43] spend time is: 750
+[2020-05-20 13:47:53] spend time is: 760
+[2020-05-20 13:47:53] spend time is: 760
+[2020-05-20 13:47:53] spend time is: 760
+[2020-05-20 13:47:53] spend time is: 760
+[2020-05-20 13:47:53] spend time is: 760
+[2020-05-20 13:48:03] spend time is: 770
+[2020-05-20 13:48:03] spend time is: 770
+[2020-05-20 13:48:03] spend time is: 770
+[2020-05-20 13:48:03] spend time is: 770
+[2020-05-20 13:48:03] spend time is: 770
+[2020-05-20 13:48:10] kured-1.5.1.tgz update done.
+[2020-05-20 13:48:13] spend time is: 780
+[2020-05-20 13:48:13] spend time is: 780
+[2020-05-20 13:48:13] spend time is: 780
+[2020-05-20 13:48:13] spend time is: 780
+[2020-05-20 13:48:13] spend time is: 780
+[2020-05-20 13:48:14] spend time is: 780
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:23] spend time is: 790
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:33] spend time is: 800
+[2020-05-20 13:48:43] spend time is: 810
+[2020-05-20 13:48:43] spend time is: 810
+[2020-05-20 13:48:43] spend time is: 810
+[2020-05-20 13:48:43] spend time is: 810
+[2020-05-20 13:48:43] spend time is: 810
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:48:53] spend time is: 820
+[2020-05-20 13:49:03] spend time is: 830
+[2020-05-20 13:49:03] spend time is: 830
+[2020-05-20 13:49:03] spend time is: 830
+[2020-05-20 13:49:03] spend time is: 830
+[2020-05-20 13:49:03] spend time is: 830
+[2020-05-20 13:49:13] spend time is: 840
+[2020-05-20 13:49:13] spend time is: 840
+[2020-05-20 13:49:13] spend time is: 840
+[2020-05-20 13:49:13] spend time is: 840
+[2020-05-20 13:49:13] spend time is: 840
+[2020-05-20 13:49:23] spend time is: 850
+[2020-05-20 13:49:23] spend time is: 850
+[2020-05-20 13:49:23] spend time is: 850
+[2020-05-20 13:49:23] spend time is: 850
+[2020-05-20 13:49:23] spend time is: 850
+[2020-05-20 13:49:33] spend time is: 860
+[2020-05-20 13:49:33] spend time is: 860
+[2020-05-20 13:49:33] spend time is: 860
+[2020-05-20 13:49:33] spend time is: 860
+[2020-05-20 13:49:33] spend time is: 860
+[2020-05-20 13:49:43] spend time is: 870
+[2020-05-20 13:49:43] spend time is: 870
+[2020-05-20 13:49:43] spend time is: 870
+[2020-05-20 13:49:43] spend time is: 870
+[2020-05-20 13:49:43] spend time is: 870
+[2020-05-20 13:49:51] metabase-0.11.0.tgz update done.
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:49:53] spend time is: 880
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:03] spend time is: 890
+[2020-05-20 13:50:13] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
