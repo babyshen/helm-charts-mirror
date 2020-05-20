@@ -954,3 +954,182 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-20 14:00:03] spend time is: 1490
 [2020-05-20 14:00:13] spend time is: 1500
 Already up to date.
+[gh-pages 361bbdb] Synchronizing completion at 2020-05-20
+ 16 files changed, 183 insertions(+), 1 deletion(-)
+ rewrite airflow-7.0.0.tgz (86%)
+ create mode 100644 prometheus-11.1.6.tgz
+ create mode 100644 prometheus-11.2.0.tgz
+ create mode 100644 prometheus-11.2.1.tgz
+ create mode 100644 prometheus-11.2.2.tgz
+ create mode 100644 prometheus-11.2.3.tgz
+ create mode 100644 prometheus-11.3.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-4.0.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-4.1.0.tgz
+ create mode 100644 prometheus-operator-8.13.5.tgz
+ create mode 100644 prometheus-operator-8.13.6.tgz
+ create mode 100644 prometheus-operator-8.13.7.tgz
+ create mode 100644 prometheus-operator-8.13.8.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   14d9566..361bbdb  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:23] spend time is: 1510
+[2020-05-20 14:00:33] spend time is: 1520
+[2020-05-20 14:00:33] spend time is: 1520
+[2020-05-20 14:00:33] spend time is: 1520
+[2020-05-20 14:00:33] spend time is: 1520
+[2020-05-20 14:00:33] spend time is: 1520
+[2020-05-20 14:00:43] spend time is: 1530
+[2020-05-20 14:00:43] spend time is: 1530
+[2020-05-20 14:00:43] spend time is: 1530
+[2020-05-20 14:00:43] spend time is: 1530
+[2020-05-20 14:00:43] spend time is: 1530
+[2020-05-20 14:00:53] spend time is: 1540
+[2020-05-20 14:00:53] spend time is: 1540
+[2020-05-20 14:00:53] spend time is: 1540
+[2020-05-20 14:00:53] spend time is: 1540
+[2020-05-20 14:00:53] spend time is: 1540
+[2020-05-20 14:01:03] spend time is: 1550
+[2020-05-20 14:01:03] spend time is: 1550
+[2020-05-20 14:01:03] spend time is: 1550
+[2020-05-20 14:01:03] spend time is: 1550
+[2020-05-20 14:01:03] spend time is: 1550
+[2020-05-20 14:01:13] spend time is: 1560
+[2020-05-20 14:01:13] spend time is: 1560
+[2020-05-20 14:01:13] spend time is: 1560
+[2020-05-20 14:01:13] spend time is: 1560
+[2020-05-20 14:01:13] spend time is: 1560
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:23] spend time is: 1570
+[2020-05-20 14:01:33] spend time is: 1580
+[2020-05-20 14:01:33] spend time is: 1580
+[2020-05-20 14:01:33] spend time is: 1580
+[2020-05-20 14:01:33] spend time is: 1580
+[2020-05-20 14:01:33] spend time is: 1580
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:43] spend time is: 1590
+[2020-05-20 14:01:53] spend time is: 1600
+[2020-05-20 14:01:53] spend time is: 1600
+[2020-05-20 14:01:53] spend time is: 1600
+[2020-05-20 14:01:53] spend time is: 1600
+[2020-05-20 14:01:53] spend time is: 1600
+[2020-05-20 14:01:56] rabbitmq-ha-1.45.0.tgz update done.
+[2020-05-20 14:01:57] rabbitmq-ha-1.44.4.tgz update done.
+[2020-05-20 14:02:03] spend time is: 1610
+[2020-05-20 14:02:03] spend time is: 1610
+[2020-05-20 14:02:03] spend time is: 1610
+[2020-05-20 14:02:03] spend time is: 1610
+[2020-05-20 14:02:03] spend time is: 1610
+[2020-05-20 14:02:13] spend time is: 1620
+[2020-05-20 14:02:13] spend time is: 1620
+[2020-05-20 14:02:13] spend time is: 1620
+[2020-05-20 14:02:13] spend time is: 1620
+[2020-05-20 14:02:13] spend time is: 1620
+[2020-05-20 14:02:23] spend time is: 1630
+[2020-05-20 14:02:23] spend time is: 1630
+[2020-05-20 14:02:23] spend time is: 1630
+[2020-05-20 14:02:23] spend time is: 1630
+[2020-05-20 14:02:23] spend time is: 1630
+[2020-05-20 14:02:33] spend time is: 1640
+[2020-05-20 14:02:33] spend time is: 1640
+[2020-05-20 14:02:33] spend time is: 1640
+[2020-05-20 14:02:33] spend time is: 1640
+[2020-05-20 14:02:33] spend time is: 1640
+[2020-05-20 14:02:43] spend time is: 1650
+[2020-05-20 14:02:43] spend time is: 1650
+[2020-05-20 14:02:43] spend time is: 1650
+[2020-05-20 14:02:43] spend time is: 1650
+[2020-05-20 14:02:43] spend time is: 1650
+[2020-05-20 14:02:53] spend time is: 1660
+[2020-05-20 14:02:53] spend time is: 1660
+[2020-05-20 14:02:53] spend time is: 1660
+[2020-05-20 14:02:53] spend time is: 1660
+[2020-05-20 14:02:53] spend time is: 1660
+[2020-05-20 14:02:54] spend time is: 1660
+[2020-05-20 14:03:03] spend time is: 1670
+[2020-05-20 14:03:03] spend time is: 1670
+[2020-05-20 14:03:03] spend time is: 1670
+[2020-05-20 14:03:03] spend time is: 1670
+[2020-05-20 14:03:03] spend time is: 1670
+[2020-05-20 14:03:13] spend time is: 1680
+[2020-05-20 14:03:13] spend time is: 1680
+[2020-05-20 14:03:13] spend time is: 1680
+[2020-05-20 14:03:13] spend time is: 1680
+[2020-05-20 14:03:13] spend time is: 1680
+[2020-05-20 14:03:23] spend time is: 1690
+[2020-05-20 14:03:23] spend time is: 1690
+[2020-05-20 14:03:23] spend time is: 1690
+[2020-05-20 14:03:23] spend time is: 1690
+[2020-05-20 14:03:23] spend time is: 1690
+[2020-05-20 14:03:33] spend time is: 1700
+[2020-05-20 14:03:33] spend time is: 1700
+[2020-05-20 14:03:33] spend time is: 1700
+[2020-05-20 14:03:33] spend time is: 1700
+[2020-05-20 14:03:33] spend time is: 1700
+[2020-05-20 14:03:43] spend time is: 1710
+[2020-05-20 14:03:43] spend time is: 1710
+[2020-05-20 14:03:43] spend time is: 1710
+[2020-05-20 14:03:43] spend time is: 1710
+[2020-05-20 14:03:43] spend time is: 1710
+[2020-05-20 14:03:46] rocketchat-2.0.3.tgz update done.
+[2020-05-20 14:03:53] spend time is: 1720
+[2020-05-20 14:03:53] spend time is: 1720
+[2020-05-20 14:03:53] spend time is: 1720
+[2020-05-20 14:03:53] spend time is: 1720
+[2020-05-20 14:03:53] spend time is: 1720
+[2020-05-20 14:03:57] sealed-secrets-1.10.1.tgz update done.
+[2020-05-20 14:03:57] sealed-secrets-1.10.0.tgz update done.
+[2020-05-20 14:04:03] spend time is: 1730
+[2020-05-20 14:04:03] spend time is: 1730
+[2020-05-20 14:04:03] spend time is: 1730
+[2020-05-20 14:04:03] spend time is: 1730
+[2020-05-20 14:04:03] spend time is: 1730
+[2020-05-20 14:04:04] selenium-1.1.1.tgz update done.
+[2020-05-20 14:04:04] selenium-1.1.0.tgz update done.
+[2020-05-20 14:04:13] spend time is: 1740
+[2020-05-20 14:04:13] spend time is: 1740
+[2020-05-20 14:04:13] spend time is: 1740
+[2020-05-20 14:04:13] spend time is: 1740
+[2020-05-20 14:04:13] spend time is: 1740
+[2020-05-20 14:04:23] spend time is: 1750
+[2020-05-20 14:04:23] spend time is: 1750
+[2020-05-20 14:04:23] spend time is: 1750
+[2020-05-20 14:04:23] spend time is: 1750
+[2020-05-20 14:04:23] spend time is: 1750
+[2020-05-20 14:04:33] spend time is: 1760
+[2020-05-20 14:04:33] spend time is: 1760
+[2020-05-20 14:04:33] spend time is: 1760
+[2020-05-20 14:04:33] spend time is: 1760
+[2020-05-20 14:04:33] spend time is: 1760
+[2020-05-20 14:04:38] sonarqube-4.0.1.tgz update done.
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:43] spend time is: 1770
+[2020-05-20 14:04:53] spend time is: 1780
+[2020-05-20 14:04:53] spend time is: 1780
+[2020-05-20 14:04:53] spend time is: 1780
+[2020-05-20 14:04:53] spend time is: 1780
+[2020-05-20 14:04:53] spend time is: 1780
+[2020-05-20 14:05:03] spend time is: 1790
+[2020-05-20 14:05:03] spend time is: 1790
+[2020-05-20 14:05:03] spend time is: 1790
+[2020-05-20 14:05:03] spend time is: 1790
+[2020-05-20 14:05:03] spend time is: 1790
+[2020-05-20 14:05:09] spark-history-server-1.2.0.tgz update done.
+[2020-05-20 14:05:13] spend time is: 1800
+Already up to date.
