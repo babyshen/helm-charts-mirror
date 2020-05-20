@@ -772,3 +772,185 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-20 13:55:03] spend time is: 1190
 [2020-05-20 13:55:13] spend time is: 1200
 Already up to date.
+[gh-pages 14d9566] Synchronizing completion at 2020-05-20
+ 10 files changed, 181 insertions(+), 1 deletion(-)
+ create mode 100644 mongodb-replicaset-3.15.1.tgz
+ create mode 100644 neo4j-3.0.1.tgz
+ create mode 100644 nextcloud-1.10.1.tgz
+ create mode 100644 nginx-ingress-1.37.0.tgz
+ create mode 100644 oauth2-proxy-3.1.0.tgz
+ create mode 100644 openebs-1.10.0.tgz
+ create mode 100644 openebs-1.10.1.tgz
+ create mode 100644 openebs-1.9.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   d186e61..14d9566  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-20 13:55:23] spend time is: 1210
+[2020-05-20 13:55:23] spend time is: 1210
+[2020-05-20 13:55:23] spend time is: 1210
+[2020-05-20 13:55:23] spend time is: 1210
+[2020-05-20 13:55:23] spend time is: 1210
+[2020-05-20 13:55:33] spend time is: 1220
+[2020-05-20 13:55:33] spend time is: 1220
+[2020-05-20 13:55:33] spend time is: 1220
+[2020-05-20 13:55:33] spend time is: 1220
+[2020-05-20 13:55:33] spend time is: 1220
+[2020-05-20 13:55:43] spend time is: 1230
+[2020-05-20 13:55:43] spend time is: 1230
+[2020-05-20 13:55:43] spend time is: 1230
+[2020-05-20 13:55:43] spend time is: 1230
+[2020-05-20 13:55:43] spend time is: 1230
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:55:53] spend time is: 1240
+[2020-05-20 13:56:03] spend time is: 1250
+[2020-05-20 13:56:03] spend time is: 1250
+[2020-05-20 13:56:03] spend time is: 1250
+[2020-05-20 13:56:03] spend time is: 1250
+[2020-05-20 13:56:03] spend time is: 1250
+[2020-05-20 13:56:13] spend time is: 1260
+[2020-05-20 13:56:13] spend time is: 1260
+[2020-05-20 13:56:13] spend time is: 1260
+[2020-05-20 13:56:13] spend time is: 1260
+[2020-05-20 13:56:13] spend time is: 1260
+[2020-05-20 13:56:23] spend time is: 1270
+[2020-05-20 13:56:23] spend time is: 1270
+[2020-05-20 13:56:23] spend time is: 1270
+[2020-05-20 13:56:23] spend time is: 1270
+[2020-05-20 13:56:23] spend time is: 1270
+[2020-05-20 13:56:33] spend time is: 1280
+[2020-05-20 13:56:33] spend time is: 1280
+[2020-05-20 13:56:33] spend time is: 1280
+[2020-05-20 13:56:33] spend time is: 1280
+[2020-05-20 13:56:33] spend time is: 1280
+[2020-05-20 13:56:43] spend time is: 1290
+[2020-05-20 13:56:43] spend time is: 1290
+[2020-05-20 13:56:43] spend time is: 1290
+[2020-05-20 13:56:43] spend time is: 1290
+[2020-05-20 13:56:43] spend time is: 1290
+[2020-05-20 13:56:53] spend time is: 1300
+[2020-05-20 13:56:53] spend time is: 1300
+[2020-05-20 13:56:53] spend time is: 1300
+[2020-05-20 13:56:53] spend time is: 1300
+[2020-05-20 13:56:53] spend time is: 1300
+[2020-05-20 13:57:03] spend time is: 1310
+[2020-05-20 13:57:03] spend time is: 1310
+[2020-05-20 13:57:03] spend time is: 1310
+[2020-05-20 13:57:03] spend time is: 1310
+[2020-05-20 13:57:03] spend time is: 1310
+[2020-05-20 13:57:13] spend time is: 1320
+[2020-05-20 13:57:13] spend time is: 1320
+[2020-05-20 13:57:13] spend time is: 1320
+[2020-05-20 13:57:13] spend time is: 1320
+[2020-05-20 13:57:13] spend time is: 1320
+[2020-05-20 13:57:14] spend time is: 1320
+[2020-05-20 13:57:23] spend time is: 1330
+[2020-05-20 13:57:23] spend time is: 1330
+[2020-05-20 13:57:23] spend time is: 1330
+[2020-05-20 13:57:23] spend time is: 1330
+[2020-05-20 13:57:23] spend time is: 1330
+[2020-05-20 13:57:33] spend time is: 1340
+[2020-05-20 13:57:33] spend time is: 1340
+[2020-05-20 13:57:33] spend time is: 1340
+[2020-05-20 13:57:33] spend time is: 1340
+[2020-05-20 13:57:33] spend time is: 1340
+[2020-05-20 13:57:43] spend time is: 1350
+[2020-05-20 13:57:43] spend time is: 1350
+[2020-05-20 13:57:43] spend time is: 1350
+[2020-05-20 13:57:43] spend time is: 1350
+[2020-05-20 13:57:43] spend time is: 1350
+[2020-05-20 13:57:44] spend time is: 1350
+[2020-05-20 13:57:53] spend time is: 1360
+[2020-05-20 13:57:53] spend time is: 1360
+[2020-05-20 13:57:53] spend time is: 1360
+[2020-05-20 13:57:53] spend time is: 1360
+[2020-05-20 13:57:53] spend time is: 1360
+[2020-05-20 13:58:03] spend time is: 1370
+[2020-05-20 13:58:03] spend time is: 1370
+[2020-05-20 13:58:03] spend time is: 1370
+[2020-05-20 13:58:03] spend time is: 1370
+[2020-05-20 13:58:03] spend time is: 1370
+[2020-05-20 13:58:13] spend time is: 1380
+[2020-05-20 13:58:13] spend time is: 1380
+[2020-05-20 13:58:13] spend time is: 1380
+[2020-05-20 13:58:13] spend time is: 1380
+[2020-05-20 13:58:13] spend time is: 1380
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:23] spend time is: 1390
+[2020-05-20 13:58:33] spend time is: 1400
+[2020-05-20 13:58:33] spend time is: 1400
+[2020-05-20 13:58:33] spend time is: 1400
+[2020-05-20 13:58:33] spend time is: 1400
+[2020-05-20 13:58:33] spend time is: 1400
+[2020-05-20 13:58:43] spend time is: 1410
+[2020-05-20 13:58:43] spend time is: 1410
+[2020-05-20 13:58:43] spend time is: 1410
+[2020-05-20 13:58:43] spend time is: 1410
+[2020-05-20 13:58:43] spend time is: 1410
+[2020-05-20 13:58:50] prometheus-11.3.0.tgz update done.
+[2020-05-20 13:58:50] prometheus-11.2.3.tgz update done.
+[2020-05-20 13:58:50] prometheus-11.2.2.tgz update done.
+[2020-05-20 13:58:51] prometheus-11.2.1.tgz update done.
+[2020-05-20 13:58:51] prometheus-11.2.0.tgz update done.
+[2020-05-20 13:58:51] prometheus-11.1.6.tgz update done.
+[2020-05-20 13:58:52] prometheus-11.1.5.tgz update done.
+[2020-05-20 13:58:53] spend time is: 1420
+[2020-05-20 13:58:53] spend time is: 1420
+[2020-05-20 13:58:53] spend time is: 1420
+[2020-05-20 13:58:53] spend time is: 1420
+[2020-05-20 13:58:53] spend time is: 1420
+[2020-05-20 13:59:03] spend time is: 1430
+[2020-05-20 13:59:03] spend time is: 1430
+[2020-05-20 13:59:03] spend time is: 1430
+[2020-05-20 13:59:03] spend time is: 1430
+[2020-05-20 13:59:03] spend time is: 1430
+[2020-05-20 13:59:13] spend time is: 1440
+[2020-05-20 13:59:13] spend time is: 1440
+[2020-05-20 13:59:13] spend time is: 1440
+[2020-05-20 13:59:13] spend time is: 1440
+[2020-05-20 13:59:13] spend time is: 1440
+[2020-05-20 13:59:14] spend time is: 1440
+[2020-05-20 13:59:23] spend time is: 1450
+[2020-05-20 13:59:23] spend time is: 1450
+[2020-05-20 13:59:23] spend time is: 1450
+[2020-05-20 13:59:23] spend time is: 1450
+[2020-05-20 13:59:23] spend time is: 1450
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:33] spend time is: 1460
+[2020-05-20 13:59:37] prometheus-blackbox-exporter-4.1.0.tgz update done.
+[2020-05-20 13:59:38] prometheus-blackbox-exporter-4.0.0.tgz update done.
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:43] spend time is: 1470
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 13:59:53] spend time is: 1480
+[2020-05-20 14:00:01] prometheus-operator-8.13.8.tgz update done.
+[2020-05-20 14:00:01] prometheus-operator-8.13.7.tgz update done.
+[2020-05-20 14:00:02] prometheus-operator-8.13.6.tgz update done.
+[2020-05-20 14:00:02] prometheus-operator-8.13.5.tgz update done.
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:03] spend time is: 1490
+[2020-05-20 14:00:13] spend time is: 1500
+Already up to date.
