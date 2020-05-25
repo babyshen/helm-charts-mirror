@@ -964,3 +964,230 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-25 13:58:22] spend time is: 1190
 [2020-05-25 13:58:32] spend time is: 1200
 Already up to date.
+[gh-pages 23541cf] Synchronizing completion at 2020-05-25
+ 4 files changed, 221 insertions(+), 1 deletion(-)
+ create mode 100644 prometheus-cloudwatch-exporter-0.8.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   c240c26..23541cf  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:42] spend time is: 1210
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:58:52] spend time is: 1220
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:02] spend time is: 1230
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:12] spend time is: 1240
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:22] spend time is: 1250
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:32] spend time is: 1260
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:42] spend time is: 1270
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 13:59:52] spend time is: 1280
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:02] spend time is: 1290
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:12] spend time is: 1300
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:22] spend time is: 1310
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:32] spend time is: 1320
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:42] spend time is: 1330
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:00:52] spend time is: 1340
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:02] spend time is: 1350
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:12] spend time is: 1360
+[2020-05-25 14:01:16] spring-cloud-data-flow-2.7.1.tgz update done.
+[2020-05-25 14:01:16] spring-cloud-data-flow-2.7.0.tgz update done.
+[2020-05-25 14:01:17] spring-cloud-data-flow-2.6.3.tgz update done.
+[2020-05-25 14:01:17] spring-cloud-data-flow-2.6.2.tgz update done.
+[2020-05-25 14:01:17] spring-cloud-data-flow-2.6.1.tgz update done.
+[2020-05-25 14:01:18] spring-cloud-data-flow-2.6.0.tgz update done.
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:22] spend time is: 1370
+[2020-05-25 14:01:24] stolon-1.6.0.tgz update done.
+[2020-05-25 14:01:24] stolon-1.5.11.tgz update done.
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:32] spend time is: 1380
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:42] spend time is: 1390
+[2020-05-25 14:01:50] superset-1.1.11.tgz update done.
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:52] spend time is: 1400
+[2020-05-25 14:01:53] sysdig-1.7.15.tgz update done.
+[2020-05-25 14:01:54] sysdig-1.7.14.tgz update done.
+[2020-05-25 14:01:54] sysdig-1.7.13.tgz update done.
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:02] spend time is: 1410
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:12] spend time is: 1420
+[2020-05-25 14:02:13] spend time is: 1420
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:22] spend time is: 1430
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:32] spend time is: 1440
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:42] spend time is: 1450
+[2020-05-25 14:02:48] unifi-0.8.1.tgz update done.
+[2020-05-25 14:02:49] unifi-0.8.0.tgz update done.
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:02:52] spend time is: 1460
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:02] spend time is: 1470
+[2020-05-25 14:03:06] weave-scope-1.1.10.tgz update done.
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:12] spend time is: 1480
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:22] spend time is: 1490
+[2020-05-25 14:03:32] spend time is: 1500
+Already up to date.
