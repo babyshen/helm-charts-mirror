@@ -1191,3 +1191,31 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-05-25 14:03:22] spend time is: 1490
 [2020-05-25 14:03:32] spend time is: 1500
 Already up to date.
+[gh-pages 812a2f6] Synchronizing completion at 2020-05-25
+ 17 files changed, 228 insertions(+), 1 deletion(-)
+ rewrite spring-cloud-data-flow-2.6.0.tgz (98%)
+ create mode 100644 spring-cloud-data-flow-2.6.1.tgz
+ create mode 100644 spring-cloud-data-flow-2.6.2.tgz
+ create mode 100644 spring-cloud-data-flow-2.6.3.tgz
+ create mode 100644 spring-cloud-data-flow-2.7.0.tgz
+ create mode 100644 spring-cloud-data-flow-2.7.1.tgz
+ create mode 100644 stolon-1.5.11.tgz
+ create mode 100644 stolon-1.6.0.tgz
+ create mode 100644 superset-1.1.11.tgz
+ create mode 100644 sysdig-1.7.13.tgz
+ create mode 100644 sysdig-1.7.14.tgz
+ create mode 100644 sysdig-1.7.15.tgz
+ create mode 100644 unifi-0.8.0.tgz
+ create mode 100644 unifi-0.8.1.tgz
+ rewrite weave-scope-1.1.10.tgz (98%)
+To github.com:babyshen/helm-charts-mirror.git
+   23541cf..812a2f6  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+[2020-05-25 14:03:42] spend time is: 1510
+Already up to date.
