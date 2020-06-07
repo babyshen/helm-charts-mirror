@@ -520,3 +520,263 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-06-07 13:55:40] spend time is: 590
 [2020-06-07 13:55:50] spend time is: 600
 Already up to date.
+[gh-pages 87a9837] Synchronizing completion at 2020-06-07
+ 29 files changed, 256 insertions(+), 1 deletion(-)
+ create mode 100644 gocd-1.27.0.tgz
+ create mode 100644 grafana-5.1.0.tgz
+ create mode 100644 grafana-5.1.1.tgz
+ create mode 100644 grafana-5.1.2.tgz
+ create mode 100644 grafana-5.1.4.tgz
+ rewrite graylog-1.6.4.tgz (99%)
+ create mode 100644 graylog-1.6.5.tgz
+ create mode 100644 graylog-1.6.6.tgz
+ create mode 100644 hazelcast-3.3.0.tgz
+ create mode 100644 hazelcast-3.3.1.tgz
+ create mode 100644 hazelcast-jet-1.6.1.tgz
+ create mode 100644 jenkins-1.22.0.tgz
+ create mode 100644 jenkins-1.23.0.tgz
+ create mode 100644 jenkins-1.23.1.tgz
+ create mode 100644 jenkins-1.23.2.tgz
+ create mode 100644 jenkins-1.24.0.tgz
+ create mode 100644 jenkins-1.25.0.tgz
+ create mode 100644 jenkins-1.26.0.tgz
+ create mode 100644 jenkins-1.27.0.tgz
+ create mode 100644 jenkins-2.0.0.tgz
+ create mode 100644 jenkins-2.0.1.tgz
+ create mode 100644 kube-ops-view-1.1.5.tgz
+ create mode 100644 kube-ops-view-1.2.0.tgz
+ create mode 100644 kube-state-metrics-2.8.8.tgz
+ create mode 100644 kubernetes-dashboard-1.11.0.tgz
+ create mode 100644 kubernetes-dashboard-1.11.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   891717c..87a9837  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-06-07 13:55:59] logdna-agent-2.0.0.tgz update done.
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:00] spend time is: 610
+[2020-06-07 13:56:01] spend time is: 610
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:10] spend time is: 620
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:20] spend time is: 630
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:30] spend time is: 640
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:40] spend time is: 650
+[2020-06-07 13:56:41] spend time is: 650
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:56:50] spend time is: 660
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:00] spend time is: 670
+[2020-06-07 13:57:06] mercure-4.0.0.tgz update done.
+[2020-06-07 13:57:07] mercure-3.0.1.tgz update done.
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:10] spend time is: 680
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:20] spend time is: 690
+[2020-06-07 13:57:24] minecraft-1.2.3.tgz update done.
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:30] spend time is: 700
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:40] spend time is: 710
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:57:50] spend time is: 720
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:00] spend time is: 730
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:10] spend time is: 740
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:20] spend time is: 750
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:30] spend time is: 760
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:40] spend time is: 770
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:58:50] spend time is: 780
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:00] spend time is: 790
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] newrelic-infrastructure-0.13.34.tgz update done.
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:10] spend time is: 800
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:20] spend time is: 810
+[2020-06-07 13:59:25] nfs-server-provisioner-1.1.1.tgz update done.
+[2020-06-07 13:59:25] nfs-server-provisioner-1.1.0.tgz update done.
+[2020-06-07 13:59:27] nginx-ingress-1.39.1.tgz update done.
+[2020-06-07 13:59:28] nginx-ingress-1.39.0.tgz update done.
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:30] spend time is: 820
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:40] spend time is: 830
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:50] spend time is: 840
+[2020-06-07 13:59:57] nginx-ldapauth-proxy-0.1.4.tgz update done.
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:00] spend time is: 850
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:10] spend time is: 860
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:20] spend time is: 870
+[2020-06-07 14:00:28] opa-1.13.6.tgz update done.
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:30] spend time is: 880
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:40] spend time is: 890
+[2020-06-07 14:00:45] openebs-1.10.2.tgz update done.
+[2020-06-07 14:00:50] spend time is: 900
+Already up to date.
