@@ -280,3 +280,238 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 0c76fdd] Synchronizing completion at 2020-06-18
+ 16 files changed, 2229 insertions(+), 297 deletions(-)
+ rewrite airflow-7.1.4.tgz (74%)
+ create mode 100644 airflow-7.1.5.tgz
+ create mode 100644 anchore-engine-1.6.9.tgz
+ create mode 100644 coredns-1.12.0.tgz
+ create mode 100644 coredns-1.13.0.tgz
+ create mode 100644 datadog-2.3.10.tgz
+ create mode 100644 datadog-2.3.9.tgz
+ create mode 100644 dex-2.12.0.tgz
+ rewrite elastic-stack-2.0.1.tgz (98%)
+ create mode 100644 elasticsearch-1.32.5.tgz
+ create mode 100644 fluent-bit-2.8.17.tgz
+ create mode 100644 fluentd-2.4.2.tgz
+ create mode 100644 travis_wait_1945.log
+To github.com:babyshen/helm-charts-mirror.git
+   dd0ac3f..0c76fdd  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:20] spend time is: 310
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:30] spend time is: 320
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:40] spend time is: 330
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:57:50] spend time is: 340
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:00] spend time is: 350
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:10] spend time is: 360
+[2020-06-18 13:58:16] grafana-5.2.1.tgz update done.
+[2020-06-18 13:58:16] grafana-5.2.0.tgz update done.
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:20] spend time is: 370
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:30] spend time is: 380
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:40] spend time is: 390
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:50] spend time is: 400
+[2020-06-18 13:58:52] graylog-1.6.8.tgz update done.
+[2020-06-18 13:58:52] graylog-1.6.7.tgz update done.
+[2020-06-18 13:58:52] graylog-1.6.6.tgz update done.
+[2020-06-18 13:58:58] hackmd-2.0.0.tgz update done.
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:00] spend time is: 410
+[2020-06-18 13:59:01] hazelcast-3.3.2.tgz update done.
+[2020-06-18 13:59:07] hazelcast-jet-1.6.2.tgz update done.
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:10] spend time is: 420
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:20] spend time is: 430
+[2020-06-18 13:59:21] home-assistant-0.13.4.tgz update done.
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:30] spend time is: 440
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:40] spend time is: 450
+[2020-06-18 13:59:50] spend time is: 460
+[2020-06-18 13:59:50] janusgraph-0.2.1.tgz update done.
+[2020-06-18 13:59:50] spend time is: 460
+[2020-06-18 13:59:50] spend time is: 460
+[2020-06-18 13:59:50] spend time is: 460
+[2020-06-18 13:59:50] spend time is: 460
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:00] spend time is: 470
+[2020-06-18 14:00:02] jenkins-2.1.0.tgz update done.
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:10] spend time is: 480
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:20] spend time is: 490
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:30] spend time is: 500
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:40] spend time is: 510
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:00:50] spend time is: 520
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:00] spend time is: 530
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:10] spend time is: 540
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:20] spend time is: 550
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:30] spend time is: 560
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:40] spend time is: 570
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:50] spend time is: 580
+[2020-06-18 14:01:54] kube-slack-1.3.2.tgz update done.
+[2020-06-18 14:01:56] kube-state-metrics-2.8.10.tgz update done.
+[2020-06-18 14:01:57] kube-state-metrics-2.8.9.tgz update done.
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:00] spend time is: 590
+[2020-06-18 14:02:10] spend time is: 600
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
