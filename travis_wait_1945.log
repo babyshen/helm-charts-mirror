@@ -515,3 +515,236 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-06-18 14:02:10] spend time is: 600
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages b97bb4f] Synchronizing completion at 2020-06-18
+ 16 files changed, 236 insertions(+), 1 deletion(-)
+ create mode 100644 grafana-5.2.0.tgz
+ create mode 100644 grafana-5.2.1.tgz
+ rewrite graylog-1.6.6.tgz (98%)
+ create mode 100644 graylog-1.6.7.tgz
+ create mode 100644 graylog-1.6.8.tgz
+ create mode 100644 hackmd-2.0.0.tgz
+ create mode 100644 hazelcast-3.3.2.tgz
+ create mode 100644 hazelcast-jet-1.6.2.tgz
+ create mode 100644 home-assistant-0.13.4.tgz
+ create mode 100644 jenkins-2.1.0.tgz
+ create mode 100644 kube-slack-1.3.2.tgz
+ create mode 100644 kube-state-metrics-2.8.10.tgz
+ create mode 100644 kube-state-metrics-2.8.9.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   0c76fdd..b97bb4f  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:20] spend time is: 610
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:30] spend time is: 620
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:40] spend time is: 630
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:02:50] spend time is: 640
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:00] spend time is: 650
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:10] spend time is: 660
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:20] spend time is: 670
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:30] spend time is: 680
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:40] spend time is: 690
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:50] spend time is: 700
+[2020-06-18 14:03:52] mercure-4.0.1.tgz update done.
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:00] spend time is: 710
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:10] minecraft-1.2.4.tgz update done.
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:10] spend time is: 720
+[2020-06-18 14:04:15] minio-5.0.30.tgz update done.
+[2020-06-18 14:04:15] minio-5.0.29.tgz update done.
+[2020-06-18 14:04:15] minio-5.0.28.tgz update done.
+[2020-06-18 14:04:15] minio-5.0.27.tgz update done.
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:20] spend time is: 730
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:30] spend time is: 740
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:40] spend time is: 750
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:04:50] spend time is: 760
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:00] spend time is: 770
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:10] spend time is: 780
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:20] spend time is: 790
+[2020-06-18 14:05:30] spend time is: 800
+[2020-06-18 14:05:30] spend time is: 800
+[2020-06-18 14:05:30] spend time is: 800
+[2020-06-18 14:05:30] spend time is: 800
+[2020-06-18 14:05:30] spend time is: 800
+[2020-06-18 14:05:31] mssql-linux-0.11.2.tgz update done.
+[2020-06-18 14:05:31] spend time is: 800
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:40] spend time is: 810
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:05:50] spend time is: 820
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:00] spend time is: 830
+[2020-06-18 14:06:09] nextcloud-1.11.0.tgz update done.
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:10] spend time is: 840
+[2020-06-18 14:06:19] nginx-ingress-1.40.1.tgz update done.
+[2020-06-18 14:06:19] nginx-ingress-1.40.0.tgz update done.
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:20] spend time is: 850
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:30] spend time is: 860
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:40] spend time is: 870
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:50] spend time is: 880
+[2020-06-18 14:06:55] node-red-1.4.3.tgz update done.
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:00] spend time is: 890
+[2020-06-18 14:07:10] spend time is: 900
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up to date.
