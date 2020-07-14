@@ -292,3 +292,249 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 2824e9a] Synchronizing completion at 2020-07-14
+ 24 files changed, 2281 insertions(+), 449 deletions(-)
+ rewrite airflow-7.1.6.tgz (74%)
+ create mode 100644 airflow-7.2.0.tgz
+ create mode 100644 atlantis-3.12.0.tgz
+ create mode 100644 cerebro-1.9.2.tgz
+ create mode 100644 cluster-autoscaler-7.3.4.tgz
+ create mode 100644 cockroachdb-3.0.8.tgz
+ create mode 100644 datadog-2.3.21.tgz
+ create mode 100644 datadog-2.3.22.tgz
+ create mode 100644 datadog-2.3.23.tgz
+ create mode 100644 datadog-2.3.24.tgz
+ create mode 100644 datadog-2.3.25.tgz
+ create mode 100644 datadog-2.3.26.tgz
+ create mode 100644 datadog-2.3.27.tgz
+ create mode 100644 datadog-2.3.28.tgz
+ create mode 100644 datadog-2.3.29.tgz
+ create mode 100644 dex-2.13.0.tgz
+ create mode 100644 docker-registry-1.9.4.tgz
+ rewrite elastic-stack-2.0.1.tgz (98%)
+ create mode 100644 fluent-bit-2.9.0.tgz
+ create mode 100644 travis_wait_2004.log
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+To github.com:babyshen/helm-charts-mirror.git
+   a7f1700..2824e9a  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:40] spend time is: 310
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:11:50] spend time is: 320
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:00] spend time is: 330
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:10] spend time is: 340
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:20] spend time is: 350
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:30] spend time is: 360
+[2020-07-14 14:12:36] grafana-5.3.5.tgz update done.
+[2020-07-14 14:12:36] grafana-5.3.4.tgz update done.
+[2020-07-14 14:12:37] grafana-5.3.3.tgz update done.
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:40] spend time is: 370
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:12:50] spend time is: 380
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:00] spend time is: 390
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:10] spend time is: 400
+[2020-07-14 14:13:13] graylog-1.6.9.tgz update done.
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:20] spend time is: 410
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:30] spend time is: 420
+[2020-07-14 14:13:36] hlf-ca-1.2.0.tgz update done.
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:40] hlf-peer-1.4.0.tgz update done.
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:40] spend time is: 430
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:50] spend time is: 440
+[2020-07-14 14:13:51] ignite-1.1.0.tgz update done.
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:00] spend time is: 450
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:10] spend time is: 460
+[2020-07-14 14:14:12] janusgraph-0.2.1.tgz update done.
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:20] spend time is: 470
+[2020-07-14 14:14:24] jenkins-2.3.3.tgz update done.
+[2020-07-14 14:14:24] jenkins-2.3.2.tgz update done.
+[2020-07-14 14:14:24] jenkins-2.3.1.tgz update done.
+[2020-07-14 14:14:25] jenkins-2.3.0.tgz update done.
+[2020-07-14 14:14:25] jenkins-2.2.0.tgz update done.
+[2020-07-14 14:14:25] jenkins-2.1.2.tgz update done.
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:30] spend time is: 480
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:40] spend time is: 490
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:14:50] spend time is: 500
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:00] spend time is: 510
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:10] spend time is: 520
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:20] spend time is: 530
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:30] spend time is: 540
+[2020-07-14 14:15:34] katafygio-1.0.1.tgz update done.
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:40] spend time is: 550
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:15:50] spend time is: 560
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:00] spend time is: 570
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:10] spend time is: 580
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:20] spend time is: 590
+[2020-07-14 14:16:30] spend time is: 600
+Already up to date.
