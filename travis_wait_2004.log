@@ -1,0 +1,294 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 8449k  100 8449k    0     0   106M      0 --:--:-- --:--:-- --:--:--  107M
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] airflow-7.1.6.tgz update done.
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] airflow-7.2.0.tgz update done.
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:30] spend time is: 60
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:40] spend time is: 70
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:50] spend time is: 80
+[2020-07-14 14:07:51] spend time is: 80
+[2020-07-14 14:07:52] anchore-engine-1.6.9.tgz update done.
+[2020-07-14 14:07:52] spend time is: 80
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:00] spend time is: 90
+[2020-07-14 14:08:05] atlantis-3.12.0.tgz update done.
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:10] spend time is: 100
+[2020-07-14 14:08:11] spend time is: 100
+[2020-07-14 14:08:18] cerebro-1.9.2.tgz update done.
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:20] spend time is: 110
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:30] spend time is: 120
+[2020-07-14 14:08:33] cluster-autoscaler-7.3.4.tgz update done.
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:40] spend time is: 130
+[2020-07-14 14:08:42] cockroachdb-3.0.8.tgz update done.
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:50] spend time is: 140
+[2020-07-14 14:08:51] spend time is: 140
+[2020-07-14 14:08:51] spend time is: 140
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:00] spend time is: 150
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:10] spend time is: 160
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:20] spend time is: 170
+[2020-07-14 14:09:21] datadog-2.3.28.tgz update done.
+[2020-07-14 14:09:21] spend time is: 170
+[2020-07-14 14:09:21] datadog-2.3.29.tgz update done.
+[2020-07-14 14:09:21] spend time is: 170
+[2020-07-14 14:09:21] datadog-2.3.27.tgz update done.
+[2020-07-14 14:09:21] datadog-2.3.26.tgz update done.
+[2020-07-14 14:09:21] datadog-2.3.25.tgz update done.
+[2020-07-14 14:09:21] datadog-2.3.23.tgz update done.
+[2020-07-14 14:09:21] datadog-2.3.24.tgz update done.
+[2020-07-14 14:09:21] datadog-2.3.22.tgz update done.
+[2020-07-14 14:09:22] datadog-2.3.21.tgz update done.
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:30] spend time is: 180
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:40] spend time is: 190
+[2020-07-14 14:09:44] dex-2.13.0.tgz update done.
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] docker-registry-1.9.4.tgz update done.
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:09:50] spend time is: 200
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:00] spend time is: 210
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:10] spend time is: 220
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:20] spend time is: 230
+[2020-07-14 14:10:29] elastic-stack-2.0.1.tgz update done.
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:30] spend time is: 240
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:40] spend time is: 250
+[2020-07-14 14:10:41] spend time is: 250
+[2020-07-14 14:10:41] spend time is: 250
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:10:50] spend time is: 260
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:00] spend time is: 270
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:10] spend time is: 280
+[2020-07-14 14:11:15] fluent-bit-2.9.0.tgz update done.
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:20] spend time is: 290
+[2020-07-14 14:11:30] spend time is: 300
+[2020-07-14 14:11:30] spend time is: 300
+[2020-07-14 14:11:30] spend time is: 300
+[2020-07-14 14:11:30] spend time is: 300
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
