@@ -538,3 +538,239 @@ Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
 [2020-07-14 14:16:20] spend time is: 590
 [2020-07-14 14:16:30] spend time is: 600
 Already up to date.
+[gh-pages a261561] Synchronizing completion at 2020-07-14
+ 17 files changed, 247 insertions(+), 1 deletion(-)
+ create mode 100644 grafana-5.3.3.tgz
+ create mode 100644 grafana-5.3.4.tgz
+ create mode 100644 grafana-5.3.5.tgz
+ rewrite hlf-ca-1.2.0.tgz (99%)
+ create mode 100644 hlf-peer-1.4.0.tgz
+ create mode 100644 ignite-1.1.0.tgz
+ create mode 100644 jenkins-2.1.2.tgz
+ create mode 100644 jenkins-2.2.0.tgz
+ create mode 100644 jenkins-2.3.0.tgz
+ create mode 100644 jenkins-2.3.1.tgz
+ create mode 100644 jenkins-2.3.2.tgz
+ create mode 100644 jenkins-2.3.3.tgz
+ create mode 100644 katafygio-1.0.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   2824e9a..a261561  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:40] spend time is: 610
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:50] spend time is: 620
+[2020-07-14 14:16:57] kured-1.6.0.tgz update done.
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:00] spend time is: 630
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:10] spend time is: 640
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:20] spend time is: 650
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:30] spend time is: 660
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:40] spend time is: 670
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:50] spend time is: 680
+[2020-07-14 14:17:52] mcrouter-1.0.3.tgz update done.
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:00] spend time is: 690
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:10] spend time is: 700
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:20] spend time is: 710
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:30] spend time is: 720
+[2020-07-14 14:18:31] minecraft-1.2.5.tgz update done.
+[2020-07-14 14:18:35] minio-5.0.31.tgz update done.
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:40] spend time is: 730
+[2020-07-14 14:18:41] spend time is: 730
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:18:50] spend time is: 740
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:00] spend time is: 750
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:10] spend time is: 760
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:20] spend time is: 770
+[2020-07-14 14:19:24] mongodb-replicaset-3.16.2.tgz update done.
+[2020-07-14 14:19:24] mongodb-replicaset-3.16.1.tgz update done.
+[2020-07-14 14:19:25] mongodb-replicaset-3.16.0.tgz update done.
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:30] spend time is: 780
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:40] spend time is: 790
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:50] spend time is: 800
+[2020-07-14 14:19:55] mysql-1.6.6.tgz update done.
+[2020-07-14 14:19:55] mysql-1.6.5.tgz update done.
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:00] spend time is: 810
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:10] spend time is: 820
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:20] spend time is: 830
+[2020-07-14 14:20:30] nextcloud-1.12.0.tgz update done.
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:30] spend time is: 840
+[2020-07-14 14:20:40] nginx-ingress-1.40.3.tgz update done.
+[2020-07-14 14:20:40] spend time is: 850
+[2020-07-14 14:20:40] nginx-ingress-1.40.2.tgz update done.
+[2020-07-14 14:20:40] spend time is: 850
+[2020-07-14 14:20:40] spend time is: 850
+[2020-07-14 14:20:40] spend time is: 850
+[2020-07-14 14:20:40] spend time is: 850
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:20:50] spend time is: 860
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:00] spend time is: 870
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:10] spend time is: 880
+[2020-07-14 14:21:19] oauth2-proxy-3.2.0.tgz update done.
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:20] spend time is: 890
+[2020-07-14 14:21:30] spend time is: 900
+Already up to date.
