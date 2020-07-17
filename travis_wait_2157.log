@@ -1,0 +1,219 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 8469k  100 8469k    0     0  72.1M      0 --:--:-- --:--:-- --:--:-- 72.5M
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:19] spend time is: 60
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:29] spend time is: 70
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:39] spend time is: 80
+[2020-07-17 14:09:40] spend time is: 80
+[2020-07-17 14:09:47] anchore-engine-1.6.9.tgz update done.
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:49] spend time is: 90
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:09:59] spend time is: 100
+[2020-07-17 14:10:06] atlantis-3.12.1.tgz update done.
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:09] spend time is: 110
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:19] spend time is: 120
+[2020-07-17 14:10:20] spend time is: 120
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:29] spend time is: 130
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:39] spend time is: 140
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:49] spend time is: 150
+[2020-07-17 14:10:50] spend time is: 150
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:10:59] spend time is: 160
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:09] spend time is: 170
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:19] spend time is: 180
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:29] spend time is: 190
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:39] spend time is: 200
+[2020-07-17 14:11:45] datadog-2.3.33.tgz update done.
+[2020-07-17 14:11:45] datadog-2.3.32.tgz update done.
+[2020-07-17 14:11:45] datadog-2.3.31.tgz update done.
+[2020-07-17 14:11:45] datadog-2.3.30.tgz update done.
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:49] spend time is: 210
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:11:59] spend time is: 220
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:09] spend time is: 230
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:19] spend time is: 240
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:29] spend time is: 250
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:39] spend time is: 260
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:49] spend time is: 270
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:12:59] spend time is: 280
+[2020-07-17 14:13:05] efs-provisioner-0.13.0.tgz update done.
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:09] spend time is: 290
+[2020-07-17 14:13:14] elastic-stack-2.0.1.tgz update done.
+[2020-07-17 14:13:19] spend time is: 300
+[2020-07-17 14:13:19] spend time is: 300
+[2020-07-17 14:13:19] spend time is: 300
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
