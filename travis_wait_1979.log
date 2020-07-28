@@ -1087,3 +1087,279 @@ invocation.
 
 Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
 Already up to date.
+[gh-pages c708990] Synchronizing completion at 2020-07-28
+ 15 files changed, 246 insertions(+), 1 deletion(-)
+ create mode 100644 oauth2-proxy-3.2.1.tgz
+ create mode 100644 oauth2-proxy-3.2.2.tgz
+ create mode 100644 opa-1.14.0.tgz
+ create mode 100644 percona-xtradb-cluster-1.0.5.tgz
+ create mode 100644 prometheus-11.10.0.tgz
+ create mode 100644 prometheus-11.10.1.tgz
+ create mode 100644 prometheus-11.11.0.tgz
+ create mode 100644 prometheus-11.8.0.tgz
+ create mode 100644 prometheus-11.9.0.tgz
+ create mode 100644 prometheus-11.9.1.tgz
+ create mode 100644 prometheus-adapter-2.5.0.tgz
+ create mode 100644 prometheus-blackbox-exporter-4.2.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   825a014..c708990  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-07-28 14:35:53] prometheus-cloudwatch-exporter-0.8.3.tgz update done.
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:55] spend time is: 1210
+[2020-07-28 14:35:57] prometheus-consul-exporter-0.1.5.tgz update done.
+[2020-07-28 14:35:59] prometheus-mongodb-exporter-2.8.0.tgz update done.
+[2020-07-28 14:35:59] prometheus-mongodb-exporter-2.7.0.tgz update done.
+[2020-07-28 14:36:01] prometheus-mysql-exporter-0.7.0.tgz update done.
+[2020-07-28 14:36:05] prometheus-node-exporter-1.11.1.tgz update done.
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:05] spend time is: 1220
+[2020-07-28 14:36:10] prometheus-operator-9.2.2.tgz update done.
+[2020-07-28 14:36:11] prometheus-operator-9.2.1.tgz update done.
+[2020-07-28 14:36:11] prometheus-operator-9.2.0.tgz update done.
+[2020-07-28 14:36:11] prometheus-operator-9.1.2.tgz update done.
+[2020-07-28 14:36:11] prometheus-operator-9.1.1.tgz update done.
+[2020-07-28 14:36:12] prometheus-operator-9.1.0.tgz update done.
+[2020-07-28 14:36:12] prometheus-operator-9.0.1.tgz update done.
+[2020-07-28 14:36:12] prometheus-operator-9.0.0.tgz update done.
+[2020-07-28 14:36:13] prometheus-operator-8.16.1.tgz update done.
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:15] spend time is: 1230
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:25] spend time is: 1240
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:35] spend time is: 1250
+[2020-07-28 14:36:36] spend time is: 1250
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:45] spend time is: 1260
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:55] spend time is: 1270
+[2020-07-28 14:36:58] prometheus-pushgateway-1.4.1.tgz update done.
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:05] spend time is: 1280
+[2020-07-28 14:37:06] prometheus-redis-exporter-3.5.0.tgz update done.
+[2020-07-28 14:37:06] spend time is: 1280
+[2020-07-28 14:37:06] prometheus-redis-exporter-3.4.1.tgz update done.
+[2020-07-28 14:37:11] quassel-0.2.10.tgz update done.
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:15] spend time is: 1290
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:25] spend time is: 1300
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:35] spend time is: 1310
+[2020-07-28 14:37:42] rabbitmq-ha-1.46.4.tgz update done.
+[2020-07-28 14:37:43] rabbitmq-ha-1.46.3.tgz update done.
+[2020-07-28 14:37:43] rabbitmq-ha-1.46.2.tgz update done.
+[2020-07-28 14:37:43] rabbitmq-ha-1.46.1.tgz update done.
+[2020-07-28 14:37:43] rabbitmq-ha-1.46.0.tgz update done.
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:45] spend time is: 1320
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:37:55] spend time is: 1330
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:05] spend time is: 1340
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:15] spend time is: 1350
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:25] spend time is: 1360
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:35] spend time is: 1370
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:45] spend time is: 1380
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:38:55] spend time is: 1390
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:05] spend time is: 1400
+[2020-07-28 14:39:07] rethinkdb-1.1.2.tgz update done.
+[2020-07-28 14:39:10] rocketchat-2.0.4.tgz update done.
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:15] spend time is: 1410
+[2020-07-28 14:39:17] schema-registry-ui-0.4.2.tgz update done.
+[2020-07-28 14:39:18] sealed-secrets-1.10.3.tgz update done.
+[2020-07-28 14:39:19] sealed-secrets-1.10.2.tgz update done.
+[2020-07-28 14:39:24] selenium-1.1.2.tgz update done.
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:25] spend time is: 1420
+[2020-07-28 14:39:31] sematext-agent-1.0.31.tgz update done.
+[2020-07-28 14:39:31] sematext-agent-1.0.30.tgz update done.
+[2020-07-28 14:39:32] sematext-agent-1.0.29.tgz update done.
+[2020-07-28 14:39:32] sematext-agent-1.0.28.tgz update done.
+[2020-07-28 14:39:32] sematext-agent-1.0.27.tgz update done.
+[2020-07-28 14:39:33] sematext-agent-1.0.26.tgz update done.
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:35] spend time is: 1430
+[2020-07-28 14:39:39] sentry-4.3.0.tgz update done.
+[2020-07-28 14:39:40] sentry-4.2.4.tgz update done.
+[2020-07-28 14:39:40] sentry-4.2.3.tgz update done.
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:45] spend time is: 1440
+[2020-07-28 14:39:51] seq-2.2.0.tgz update done.
+[2020-07-28 14:39:51] seq-2.1.0.tgz update done.
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:39:55] spend time is: 1450
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:05] spend time is: 1460
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:15] spend time is: 1470
+[2020-07-28 14:40:19] spark-history-server-1.2.1.tgz update done.
+[2020-07-28 14:40:22] spinnaker-2.1.0-rc.1.tgz update done.
+[2020-07-28 14:40:23] spinnaker-2.0.0-rc9.tgz update done.
+[2020-07-28 14:40:23] spinnaker-2.0.0-rc8.tgz update done.
+[2020-07-28 14:40:23] spinnaker-2.0.0-rc7.tgz update done.
+[2020-07-28 14:40:24] spinnaker-2.0.0-rc6.tgz update done.
+[2020-07-28 14:40:24] spinnaker-2.0.0-rc5.tgz update done.
+[2020-07-28 14:40:24] spinnaker-2.0.0-rc4.tgz update done.
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:25] spend time is: 1480
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:35] spend time is: 1490
+[2020-07-28 14:40:36] spend time is: 1490
+[2020-07-28 14:40:38] spring-cloud-data-flow-2.7.1.tgz update done.
+[2020-07-28 14:40:42] stackdriver-exporter-1.2.3.tgz update done.
+[2020-07-28 14:40:45] spend time is: 1500
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
