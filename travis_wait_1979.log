@@ -339,3 +339,259 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 2a972e6] Synchronizing completion at 2020-07-28
+ 24 files changed, 2459 insertions(+), 406 deletions(-)
+ rewrite airflow-7.2.0.tgz (73%)
+ create mode 100644 airflow-7.3.0.tgz
+ create mode 100644 atlantis-3.12.2.tgz
+ create mode 100644 cerebro-1.9.3.tgz
+ create mode 100644 chartmuseum-2.13.1.tgz
+ create mode 100644 datadog-2.3.34.tgz
+ create mode 100644 datadog-2.3.35.tgz
+ create mode 100644 datadog-2.3.36.tgz
+ create mode 100644 datadog-2.3.37.tgz
+ create mode 100644 datadog-2.3.38.tgz
+ create mode 100644 datadog-2.3.39.tgz
+ create mode 100644 datadog-2.3.40.tgz
+ create mode 100644 datadog-2.3.41.tgz
+ rewrite elastic-stack-2.0.1.tgz (99%)
+ create mode 100644 elastic-stack-2.0.2.tgz
+ create mode 100644 elasticsearch-exporter-3.5.0.tgz
+ create mode 100644 elasticsearch-exporter-3.6.0.tgz
+ create mode 100644 envoy-1.9.1.tgz
+ create mode 100644 falco-1.1.8.tgz
+ create mode 100644 fluent-bit-2.10.0.tgz
+ create mode 100644 travis_wait_1979.log
+To github.com:babyshen/helm-charts-mirror.git
+   c91f3c6..2a972e6  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:20:55] spend time is: 310
+[2020-07-28 14:21:05] fluentd-2.5.1.tgz update done.
+[2020-07-28 14:21:05] spend time is: 320
+[2020-07-28 14:21:05] fluentd-2.5.0.tgz update done.
+[2020-07-28 14:21:05] spend time is: 320
+[2020-07-28 14:21:05] spend time is: 320
+[2020-07-28 14:21:05] spend time is: 320
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:15] spend time is: 330
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:25] spend time is: 340
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:35] spend time is: 350
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:45] spend time is: 360
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:21:55] spend time is: 370
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:05] spend time is: 380
+[2020-07-28 14:22:08] grafana-5.5.1.tgz update done.
+[2020-07-28 14:22:08] grafana-5.5.0.tgz update done.
+[2020-07-28 14:22:08] grafana-5.4.1.tgz update done.
+[2020-07-28 14:22:08] grafana-5.4.0.tgz update done.
+[2020-07-28 14:22:09] grafana-5.3.6.tgz update done.
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:15] spend time is: 390
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:25] spend time is: 400
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:35] spend time is: 410
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:45] spend time is: 420
+[2020-07-28 14:22:46] graylog-1.6.9.tgz update done.
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:22:55] spend time is: 430
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:05] spend time is: 440
+[2020-07-28 14:23:09] hlf-ca-1.2.0.tgz update done.
+[2020-07-28 14:23:13] hlf-peer-1.6.0.tgz update done.
+[2020-07-28 14:23:13] hlf-peer-1.5.0.tgz update done.
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:15] spend time is: 450
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:25] spend time is: 460
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:35] spend time is: 470
+[2020-07-28 14:23:36] instana-agent-1.0.29.tgz update done.
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:45] spend time is: 480
+[2020-07-28 14:23:46] janusgraph-0.2.2.tgz update done.
+[2020-07-28 14:23:46] janusgraph-0.2.1.tgz update done.
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:55] spend time is: 490
+[2020-07-28 14:23:59] jenkins-2.4.1.tgz update done.
+[2020-07-28 14:23:59] jenkins-2.4.0.tgz update done.
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:05] spend time is: 500
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:15] spend time is: 510
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:25] spend time is: 520
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:35] spend time is: 530
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:45] spend time is: 540
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:24:55] spend time is: 550
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:05] spend time is: 560
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:15] spend time is: 570
+[2020-07-28 14:25:22] kibana-3.2.7.tgz update done.
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:25] spend time is: 580
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:35] spend time is: 590
+[2020-07-28 14:25:45] spend time is: 600
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
