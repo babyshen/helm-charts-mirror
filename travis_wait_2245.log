@@ -572,3 +572,236 @@ invocation.
 
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages 9df2ed6] Synchronizing completion at 2020-08-08
+ 11 files changed, 242 insertions(+), 1 deletion(-)
+ create mode 100644 gocd-1.29.0.tgz
+ create mode 100644 grafana-5.5.2.tgz
+ create mode 100644 grafana-5.5.3.tgz
+ create mode 100644 grafana-5.5.4.tgz
+ create mode 100644 grafana-5.5.5.tgz
+ rewrite graylog-1.6.9.tgz (64%)
+ create mode 100644 hlf-ord-1.4.0.tgz
+ create mode 100644 jenkins-2.5.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   eb4924e..9df2ed6  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-08-08 14:31:00] kube-state-metrics-2.8.14.tgz update done.
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:04] spend time is: 610
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:14] spend time is: 620
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:24] spend time is: 630
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:34] spend time is: 640
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:44] spend time is: 650
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:31:54] spend time is: 660
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:04] spend time is: 670
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:14] spend time is: 680
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:24] spend time is: 690
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:34] spend time is: 700
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:44] spend time is: 710
+[2020-08-08 14:32:53] metabase-0.12.1.tgz update done.
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:32:54] spend time is: 720
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:04] spend time is: 730
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:14] minio-5.0.33.tgz update done.
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:14] spend time is: 740
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:24] spend time is: 750
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:34] spend time is: 760
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:44] spend time is: 770
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:33:54] spend time is: 780
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:04] spend time is: 790
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:14] spend time is: 800
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:24] spend time is: 810
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:34] spend time is: 820
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:44] spend time is: 830
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:34:54] spend time is: 840
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:04] spend time is: 850
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:14] spend time is: 860
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:24] spend time is: 870
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:34] spend time is: 880
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:44] spend time is: 890
+[2020-08-08 14:35:54] spend time is: 900
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
