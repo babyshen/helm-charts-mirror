@@ -661,3 +661,190 @@ invocation.
 
 Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
 Already up to date.
+[gh-pages 216d638] Synchronizing completion at 2020-08-13
+ 3 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 logstash-2.4.1.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   fe99af7..216d638  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-08-13 14:39:22] spend time is: 910
+[2020-08-13 14:39:22] spend time is: 910
+[2020-08-13 14:39:22] spend time is: 910
+[2020-08-13 14:39:22] spend time is: 910
+[2020-08-13 14:39:22] spend time is: 910
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:32] spend time is: 920
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:42] spend time is: 930
+[2020-08-13 14:39:52] spend time is: 940
+[2020-08-13 14:39:52] spend time is: 940
+[2020-08-13 14:39:52] spend time is: 940
+[2020-08-13 14:39:52] spend time is: 940
+[2020-08-13 14:39:52] spend time is: 940
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:02] spend time is: 950
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:12] spend time is: 960
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:22] spend time is: 970
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:32] spend time is: 980
+[2020-08-13 14:40:42] spend time is: 990
+[2020-08-13 14:40:42] spend time is: 990
+[2020-08-13 14:40:42] spend time is: 990
+[2020-08-13 14:40:42] spend time is: 990
+[2020-08-13 14:40:42] spend time is: 990
+[2020-08-13 14:40:43] spend time is: 990
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:40:52] spend time is: 1000
+[2020-08-13 14:41:02] spend time is: 1010
+[2020-08-13 14:41:02] spend time is: 1010
+[2020-08-13 14:41:02] spend time is: 1010
+[2020-08-13 14:41:02] spend time is: 1010
+[2020-08-13 14:41:02] spend time is: 1010
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:12] spend time is: 1020
+[2020-08-13 14:41:22] spend time is: 1030
+[2020-08-13 14:41:22] spend time is: 1030
+[2020-08-13 14:41:22] spend time is: 1030
+[2020-08-13 14:41:22] spend time is: 1030
+[2020-08-13 14:41:22] spend time is: 1030
+[2020-08-13 14:41:23] spend time is: 1030
+[2020-08-13 14:41:32] spend time is: 1040
+[2020-08-13 14:41:32] spend time is: 1040
+[2020-08-13 14:41:32] spend time is: 1040
+[2020-08-13 14:41:32] spend time is: 1040
+[2020-08-13 14:41:32] spend time is: 1040
+[2020-08-13 14:41:42] spend time is: 1050
+[2020-08-13 14:41:42] spend time is: 1050
+[2020-08-13 14:41:42] spend time is: 1050
+[2020-08-13 14:41:42] spend time is: 1050
+[2020-08-13 14:41:42] spend time is: 1050
+[2020-08-13 14:41:48] nfs-client-provisioner-1.2.9.tgz update done.
+[2020-08-13 14:41:52] spend time is: 1060
+[2020-08-13 14:41:52] spend time is: 1060
+[2020-08-13 14:41:52] spend time is: 1060
+[2020-08-13 14:41:52] spend time is: 1060
+[2020-08-13 14:41:52] spend time is: 1060
+[2020-08-13 14:42:02] spend time is: 1070
+[2020-08-13 14:42:02] spend time is: 1070
+[2020-08-13 14:42:02] spend time is: 1070
+[2020-08-13 14:42:02] spend time is: 1070
+[2020-08-13 14:42:02] spend time is: 1070
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:12] spend time is: 1080
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:22] spend time is: 1090
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:32] spend time is: 1100
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:42] spend time is: 1110
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:42:52] spend time is: 1120
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:02] spend time is: 1130
+[2020-08-13 14:43:12] spend time is: 1140
+[2020-08-13 14:43:12] spend time is: 1140
+[2020-08-13 14:43:12] opa-1.14.1.tgz update done.
+[2020-08-13 14:43:12] spend time is: 1140
+[2020-08-13 14:43:12] spend time is: 1140
+[2020-08-13 14:43:12] spend time is: 1140
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:22] spend time is: 1150
+[2020-08-13 14:43:32] spend time is: 1160
+[2020-08-13 14:43:32] spend time is: 1160
+[2020-08-13 14:43:32] spend time is: 1160
+[2020-08-13 14:43:32] spend time is: 1160
+[2020-08-13 14:43:32] spend time is: 1160
+[2020-08-13 14:43:42] spend time is: 1170
+[2020-08-13 14:43:42] spend time is: 1170
+[2020-08-13 14:43:42] openldap-1.2.5.tgz update done.
+[2020-08-13 14:43:42] spend time is: 1170
+[2020-08-13 14:43:42] spend time is: 1170
+[2020-08-13 14:43:42] spend time is: 1170
+[2020-08-13 14:43:52] spend time is: 1180
+[2020-08-13 14:43:52] spend time is: 1180
+[2020-08-13 14:43:52] spend time is: 1180
+[2020-08-13 14:43:52] spend time is: 1180
+[2020-08-13 14:43:52] spend time is: 1180
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:02] spend time is: 1190
+[2020-08-13 14:44:12] spend time is: 1200
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
