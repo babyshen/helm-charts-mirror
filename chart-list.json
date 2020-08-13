@@ -174,8 +174,14 @@
 }
 {
   "name": "airflow",
+  "version": "7.4.1",
+  "digest": "a72c184b34d8066d3cadd3335787f9251ddf88fa5838ff9e7266450b2b5bf2d1",
+  "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.4.1.tgz"
+}
+{
+  "name": "airflow",
   "version": "7.4.0",
-  "digest": "d10d9f449b37487a80ce379afe716cb5eb68625a7d9b531664414eb68a449ccc",
+  "digest": "31d491a927d02365b40c351c504917d94df887dfd36d1422cf87068e4dd38de5",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.4.0.tgz"
 }
 {
@@ -8173,7 +8179,7 @@
 {
   "name": "distribution",
   "version": "0.4.2",
-  "digest": "147c19593650f3fb5e665aae8893b740ba70ca5eb3093f2f3a33b73961558186",
+  "digest": "ff011af7ebf84fb03d3bc99abde8c6d85e52ed10d6895209fa9070b808aff320",
   "url": "https://kubernetes-charts.storage.googleapis.com/distribution-0.4.2.tgz"
 }
 {
@@ -10441,7 +10447,7 @@
 {
   "name": "elastic-stack",
   "version": "2.0.2",
-  "digest": "85bc30a3bec3da3c8e3dff57f3745b23cc845e2cfc0f868c0301b1a5f6421d56",
+  "digest": "38a04043829831baca27a0800cacdb4855b0872daae911f255e2dbc65a17547e",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-2.0.2.tgz"
 }
 {
@@ -18055,7 +18061,7 @@
 {
   "name": "graylog",
   "version": "1.6.10",
-  "digest": "9723f9b73e4256cbb3133fceabd7e71084d41ef14416ef7292fcadeddfdd688d",
+  "digest": "3f1e2552b576aa52be505718a7b6080ecbdc6e791db21f435145291e53dbe6f2",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.6.10.tgz"
 }
 {
@@ -20551,7 +20557,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.3",
-  "digest": "3a38d22819aed5be3a480a1e99516bf2eb0057aecd599531044d05bbadb5d9fc",
+  "digest": "4e41d0decf21310727e86b9bf7ac8e9361502c1ab9bd039e80fbeec5c4fc5ab9",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.3.tgz"
 }
 {
@@ -27777,6 +27783,12 @@
   "version": "1.0.0",
   "digest": "dc7d2cebdd3e902ba0a247dc89930f7cc210049cd8bf8f1549f8e011df1745e6",
   "url": "https://kubernetes-charts.storage.googleapis.com/logdna-agent-1.0.0.tgz"
+}
+{
+  "name": "logstash",
+  "version": "2.4.1",
+  "digest": "4226f69e2db82207c0b7eab4baccd79384d448d623287cc925e29e893461eedc",
+  "url": "https://kubernetes-charts.storage.googleapis.com/logstash-2.4.1.tgz"
 }
 {
   "name": "logstash",
@@ -36702,6 +36714,12 @@
 }
 {
   "name": "nfs-client-provisioner",
+  "version": "1.2.9",
+  "digest": "bbb790627397f5913170aaa5e71a7eedb35b3b74733db4238ffc481d5dd83073",
+  "url": "https://kubernetes-charts.storage.googleapis.com/nfs-client-provisioner-1.2.9.tgz"
+}
+{
+  "name": "nfs-client-provisioner",
   "version": "1.2.8",
   "digest": "20fd7e3ca893656cf1e36d0f76451984bf4e3f937384e7f3de5d6a8eaf0e5b7d",
   "url": "https://kubernetes-charts.storage.googleapis.com/nfs-client-provisioner-1.2.8.tgz"
@@ -40623,6 +40641,12 @@
   "version": "1.0.0",
   "digest": "84fcb0ff6694df4ef0a24fbe60f52fa9c53ac113906ef0e297a9e39a39cb485f",
   "url": "https://kubernetes-charts.storage.googleapis.com/openiban-1.0.0.tgz"
+}
+{
+  "name": "openldap",
+  "version": "1.2.5",
+  "digest": "e0c0cb184152068e3795b0679eaf993fc8ad413e516d9f8da510bde7ada92e56",
+  "url": "https://kubernetes-charts.storage.googleapis.com/openldap-1.2.5.tgz"
 }
 {
   "name": "openldap",
@@ -48085,7 +48109,7 @@
 {
   "name": "prometheus",
   "version": "11.12.0",
-  "digest": "97144b9973e5a3d08c78b73f4f9d3de76b45314ed1f94466f0337663d656975c",
+  "digest": "303beab53973bff44b447d147dc8c270749f5d38ac23b9839e4518c1c2236dd7",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-11.12.0.tgz"
 }
 {
@@ -61296,8 +61320,20 @@
 }
 {
   "name": "spring-cloud-data-flow",
+  "version": "2.8.0",
+  "digest": "4608dfdcd87766019edfb97293dd20ca0fcde8da05593ca4a97564f2cedee6aa",
+  "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.8.0.tgz"
+}
+{
+  "name": "spring-cloud-data-flow",
+  "version": "2.7.2",
+  "digest": "2011e58019e9f39e02a37ab18076fc17476f1db76108e058e80573ad673e9d72",
+  "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.7.2.tgz"
+}
+{
+  "name": "spring-cloud-data-flow",
   "version": "2.7.1",
-  "digest": "1eb4e3504fbd860df329d20a7ada993678c1e36159df3ecf453d7ce6cc081372",
+  "digest": "2b3f7dd795213fa345127972126a9a22975381a545a8da7ddbc3d37c887dcd5c",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.7.1.tgz"
 }
 {
@@ -67249,7 +67285,7 @@
 {
   "name": "xray",
   "version": "0.4.2",
-  "digest": "a18ca0d9c8644b5c704510afeed828e3f68dd459da43948192f5547fa5ce7052",
+  "digest": "929c2d1aab4954b0bac6ab823594bca89ec31511106fbb1530f59d6229b5470b",
   "url": "https://kubernetes-charts.storage.googleapis.com/xray-0.4.2.tgz"
 }
 {
