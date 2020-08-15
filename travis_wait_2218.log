@@ -1241,3 +1241,105 @@ invocation.
 
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up to date.
+[gh-pages 4630ab5] Synchronizing completion at 2020-08-15
+ 8 files changed, 228 insertions(+), 1 deletion(-)
+ create mode 100644 rabbitmq-ha-1.46.5.tgz
+ create mode 100644 satisfy-1.1.0.tgz
+ create mode 100644 spinnaker-2.2.0.tgz
+ create mode 100644 spring-cloud-data-flow-2.7.2.tgz
+ create mode 100644 spring-cloud-data-flow-2.8.0.tgz
+ create mode 100644 stolon-1.6.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   2c670af..4630ab5  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:17] spend time is: 1510
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:27] spend time is: 1520
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:37] spend time is: 1530
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:47] spend time is: 1540
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:54:57] spend time is: 1550
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:07] spend time is: 1560
+[2020-08-15 14:55:08] spend time is: 1560
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:17] spend time is: 1570
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:27] spend time is: 1580
+[2020-08-15 14:55:29] weave-scope-1.1.10.tgz update done.
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:37] spend time is: 1590
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:47] spend time is: 1600
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+[2020-08-15 14:55:57] spend time is: 1610
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
