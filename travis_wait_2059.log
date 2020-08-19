@@ -1,0 +1,334 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 8555k  100 8555k    0     0  87.2M      0 --:--:-- --:--:-- --:--:-- 87.9M
+[2020-08-19 14:29:13] spend time is: 60
+[2020-08-19 14:29:13] spend time is: 60
+[2020-08-19 14:29:13] spend time is: 60
+[2020-08-19 14:29:13] spend time is: 60
+[2020-08-19 14:29:16] airflow-7.5.0.tgz update done.
+[2020-08-19 14:29:16] airflow-7.4.1.tgz update done.
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:23] spend time is: 70
+[2020-08-19 14:29:24] spend time is: 70
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:33] spend time is: 80
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:43] spend time is: 90
+[2020-08-19 14:29:47] artifactory-7.3.2.tgz update done.
+[2020-08-19 14:29:51] artifactory-ha-0.4.2.tgz update done.
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:29:53] spend time is: 100
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:03] spend time is: 110
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:13] spend time is: 120
+[2020-08-19 14:30:14] spend time is: 120
+[2020-08-19 14:30:15] chartmuseum-2.13.2.tgz update done.
+[2020-08-19 14:30:22] cloudserver-1.0.4.tgz update done.
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:23] spend time is: 130
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:33] spend time is: 140
+[2020-08-19 14:30:34] spend time is: 140
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:43] spend time is: 150
+[2020-08-19 14:30:44] spend time is: 150
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:53] spend time is: 160
+[2020-08-19 14:30:54] spend time is: 160
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:03] spend time is: 170
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:13] spend time is: 180
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:23] spend time is: 190
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:33] spend time is: 200
+[2020-08-19 14:31:41] distribution-0.4.3.tgz update done.
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:43] spend time is: 210
+[2020-08-19 14:31:44] spend time is: 210
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:31:53] spend time is: 220
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:03] spend time is: 230
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:13] spend time is: 240
+[2020-08-19 14:32:22] elastic-stack-2.0.2.tgz update done.
+[2020-08-19 14:32:22] elastic-stack-2.0.3.tgz update done.
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:23] spend time is: 250
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:33] spend time is: 260
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:43] spend time is: 270
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:32:53] spend time is: 280
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:03] spend time is: 290
+[2020-08-19 14:33:04] spend time is: 290
+[2020-08-19 14:33:13] spend time is: 300
+[2020-08-19 14:33:13] spend time is: 300
+[2020-08-19 14:33:13] spend time is: 300
+[2020-08-19 14:33:13] spend time is: 300
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Already up to date.
+fatal: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
