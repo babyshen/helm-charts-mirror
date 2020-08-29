@@ -1138,3 +1138,175 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages 8044f0e] Synchronizing completion at 2020-08-29
+ 6 files changed, 171 insertions(+), 1 deletion(-)
+ create mode 100644 rabbitmq-ha-1.46.6.tgz
+ create mode 100644 rabbitmq-ha-1.47.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   74b6f2e..8044f0e  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-08-29 15:04:11] spend time is: 1810
+[2020-08-29 15:04:11] spend time is: 1810
+[2020-08-29 15:04:11] spend time is: 1810
+[2020-08-29 15:04:11] spend time is: 1810
+[2020-08-29 15:04:11] spend time is: 1810
+[2020-08-29 15:04:21] spend time is: 1820
+[2020-08-29 15:04:21] spend time is: 1820
+[2020-08-29 15:04:21] spend time is: 1820
+[2020-08-29 15:04:21] spend time is: 1820
+[2020-08-29 15:04:21] spend time is: 1820
+[2020-08-29 15:04:31] spend time is: 1830
+[2020-08-29 15:04:31] spend time is: 1830
+[2020-08-29 15:04:31] spend time is: 1830
+[2020-08-29 15:04:31] spend time is: 1830
+[2020-08-29 15:04:31] spend time is: 1830
+[2020-08-29 15:04:39] reloader-1.3.0.tgz update done.
+[2020-08-29 15:04:41] spend time is: 1840
+[2020-08-29 15:04:41] spend time is: 1840
+[2020-08-29 15:04:41] spend time is: 1840
+[2020-08-29 15:04:41] spend time is: 1840
+[2020-08-29 15:04:41] spend time is: 1840
+[2020-08-29 15:04:45] rocketchat-2.0.5.tgz update done.
+[2020-08-29 15:04:51] spend time is: 1850
+[2020-08-29 15:04:51] spend time is: 1850
+[2020-08-29 15:04:51] spend time is: 1850
+[2020-08-29 15:04:51] spend time is: 1850
+[2020-08-29 15:04:52] spend time is: 1850
+[2020-08-29 15:05:01] spend time is: 1860
+[2020-08-29 15:05:01] spend time is: 1860
+[2020-08-29 15:05:01] spend time is: 1860
+[2020-08-29 15:05:01] spend time is: 1860
+[2020-08-29 15:05:01] spend time is: 1860
+[2020-08-29 15:05:11] spend time is: 1870
+[2020-08-29 15:05:11] spend time is: 1870
+[2020-08-29 15:05:11] spend time is: 1870
+[2020-08-29 15:05:11] spend time is: 1870
+[2020-08-29 15:05:11] spend time is: 1870
+[2020-08-29 15:05:21] spend time is: 1880
+[2020-08-29 15:05:21] spend time is: 1880
+[2020-08-29 15:05:21] spend time is: 1880
+[2020-08-29 15:05:21] spend time is: 1880
+[2020-08-29 15:05:21] spend time is: 1880
+[2020-08-29 15:05:31] spend time is: 1890
+[2020-08-29 15:05:31] spend time is: 1890
+[2020-08-29 15:05:31] spend time is: 1890
+[2020-08-29 15:05:31] spend time is: 1890
+[2020-08-29 15:05:31] spend time is: 1890
+[2020-08-29 15:05:41] spend time is: 1900
+[2020-08-29 15:05:41] spend time is: 1900
+[2020-08-29 15:05:41] spend time is: 1900
+[2020-08-29 15:05:41] spend time is: 1900
+[2020-08-29 15:05:41] spend time is: 1900
+[2020-08-29 15:05:51] spend time is: 1910
+[2020-08-29 15:05:51] spend time is: 1910
+[2020-08-29 15:05:51] spend time is: 1910
+[2020-08-29 15:05:51] spend time is: 1910
+[2020-08-29 15:05:51] spend time is: 1910
+[2020-08-29 15:06:01] spend time is: 1920
+[2020-08-29 15:06:01] spend time is: 1920
+[2020-08-29 15:06:01] spend time is: 1920
+[2020-08-29 15:06:01] spend time is: 1920
+[2020-08-29 15:06:01] spend time is: 1920
+[2020-08-29 15:06:11] spend time is: 1930
+[2020-08-29 15:06:11] spend time is: 1930
+[2020-08-29 15:06:11] spend time is: 1930
+[2020-08-29 15:06:11] spend time is: 1930
+[2020-08-29 15:06:11] spend time is: 1930
+[2020-08-29 15:06:21] spend time is: 1940
+[2020-08-29 15:06:21] spend time is: 1940
+[2020-08-29 15:06:21] spinnaker-2.2.2.tgz update done.
+[2020-08-29 15:06:21] spend time is: 1940
+[2020-08-29 15:06:22] spinnaker-2.2.1.tgz update done.
+[2020-08-29 15:06:31] spend time is: 1950
+[2020-08-29 15:06:31] spend time is: 1950
+[2020-08-29 15:06:31] spend time is: 1950
+[2020-08-29 15:06:31] spend time is: 1950
+[2020-08-29 15:06:31] spend time is: 1950
+[2020-08-29 15:06:41] spend time is: 1960
+[2020-08-29 15:06:41] spend time is: 1960
+[2020-08-29 15:06:41] spend time is: 1960
+[2020-08-29 15:06:41] spend time is: 1960
+[2020-08-29 15:06:41] spend time is: 1960
+[2020-08-29 15:06:42] spring-cloud-data-flow-2.8.0.tgz update done.
+[2020-08-29 15:06:49] stackdriver-exporter-1.3.0.tgz update done.
+[2020-08-29 15:06:51] spend time is: 1970
+[2020-08-29 15:06:51] spend time is: 1970
+[2020-08-29 15:06:51] spend time is: 1970
+[2020-08-29 15:06:51] spend time is: 1970
+[2020-08-29 15:06:51] spend time is: 1970
+[2020-08-29 15:07:01] spend time is: 1980
+[2020-08-29 15:07:01] spend time is: 1980
+[2020-08-29 15:07:01] spend time is: 1980
+[2020-08-29 15:07:01] spend time is: 1980
+[2020-08-29 15:07:01] spend time is: 1980
+[2020-08-29 15:07:11] spend time is: 1990
+[2020-08-29 15:07:11] spend time is: 1990
+[2020-08-29 15:07:11] spend time is: 1990
+[2020-08-29 15:07:11] spend time is: 1990
+[2020-08-29 15:07:11] spend time is: 1990
+[2020-08-29 15:07:21] spend time is: 2000
+[2020-08-29 15:07:21] spend time is: 2000
+[2020-08-29 15:07:21] spend time is: 2000
+[2020-08-29 15:07:21] spend time is: 2000
+[2020-08-29 15:07:21] spend time is: 2000
+[2020-08-29 15:07:31] spend time is: 2010
+[2020-08-29 15:07:31] spend time is: 2010
+[2020-08-29 15:07:31] spend time is: 2010
+[2020-08-29 15:07:31] spend time is: 2010
+[2020-08-29 15:07:31] spend time is: 2010
+[2020-08-29 15:07:41] spend time is: 2020
+[2020-08-29 15:07:41] spend time is: 2020
+[2020-08-29 15:07:41] spend time is: 2020
+[2020-08-29 15:07:41] spend time is: 2020
+[2020-08-29 15:07:41] spend time is: 2020
+[2020-08-29 15:07:51] spend time is: 2030
+[2020-08-29 15:07:51] spend time is: 2030
+[2020-08-29 15:07:51] spend time is: 2030
+[2020-08-29 15:07:51] spend time is: 2030
+[2020-08-29 15:07:51] spend time is: 2030
+[2020-08-29 15:08:01] spend time is: 2040
+[2020-08-29 15:08:01] spend time is: 2040
+[2020-08-29 15:08:01] spend time is: 2040
+[2020-08-29 15:08:01] spend time is: 2040
+[2020-08-29 15:08:01] spend time is: 2040
+[2020-08-29 15:08:11] spend time is: 2050
+[2020-08-29 15:08:11] spend time is: 2050
+[2020-08-29 15:08:11] spend time is: 2050
+[2020-08-29 15:08:11] spend time is: 2050
+[2020-08-29 15:08:11] spend time is: 2050
+[2020-08-29 15:08:21] spend time is: 2060
+[2020-08-29 15:08:21] spend time is: 2060
+[2020-08-29 15:08:21] spend time is: 2060
+[2020-08-29 15:08:21] spend time is: 2060
+[2020-08-29 15:08:21] spend time is: 2060
+[2020-08-29 15:08:31] spend time is: 2070
+[2020-08-29 15:08:31] spend time is: 2070
+[2020-08-29 15:08:31] spend time is: 2070
+[2020-08-29 15:08:31] spend time is: 2070
+[2020-08-29 15:08:31] spend time is: 2070
+[2020-08-29 15:08:41] spend time is: 2080
+[2020-08-29 15:08:41] spend time is: 2080
+[2020-08-29 15:08:41] spend time is: 2080
+[2020-08-29 15:08:41] spend time is: 2080
+[2020-08-29 15:08:41] spend time is: 2080
+[2020-08-29 15:08:51] spend time is: 2090
+[2020-08-29 15:08:51] spend time is: 2090
+[2020-08-29 15:08:51] spend time is: 2090
+[2020-08-29 15:08:51] spend time is: 2090
+[2020-08-29 15:08:51] spend time is: 2090
+[2020-08-29 15:08:53] unifi-0.10.1.tgz update done.
+[2020-08-29 15:09:01] spend time is: 2100
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
