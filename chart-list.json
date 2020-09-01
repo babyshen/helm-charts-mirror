@@ -180,8 +180,14 @@
 }
 {
   "name": "airflow",
+  "version": "7.6.0",
+  "digest": "fac10d4843f65fdaf22894ac76d6c48c784bed0543312bce48043c2f62a210f4",
+  "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.6.0.tgz"
+}
+{
+  "name": "airflow",
   "version": "7.5.0",
-  "digest": "e72dcc568687d9640b498cb198379814c43bb79a6eabd5c4c2f17b36d4094669",
+  "digest": "6167c18448265f9d6c5689bb4ae48d9aa6dfffbea4cd98d1adc1de2511874361",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.5.0.tgz"
 }
 {
@@ -3823,7 +3829,7 @@
 {
   "name": "cloudserver",
   "version": "1.0.4",
-  "digest": "c84b19657d491e4d79abb44805e285d0b019f8825f8d8491b9691d9080fa983c",
+  "digest": "666702a3af4a9a44c26e037ae074d75c78d0236dfd500ef541b7f3d20a4547b1",
   "url": "https://kubernetes-charts.storage.googleapis.com/cloudserver-1.0.4.tgz"
 }
 {
@@ -10501,7 +10507,7 @@
 {
   "name": "elastic-stack",
   "version": "2.0.3",
-  "digest": "e7ca74a0c399f095a5b590629b1b420dca3b7df4d9823025ec4c58e91ed3c586",
+  "digest": "1474e62b1c17b1260a3a59b7fd4eee7bcc6cb6102b4fa041c699b7d08d3a9f06",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-2.0.3.tgz"
 }
 {
@@ -18127,7 +18133,7 @@
 {
   "name": "graylog",
   "version": "1.6.10",
-  "digest": "0017ff5f21dfc4d98f06b31688b6ec3e9c8cea1e642854384bc68352d26b4f51",
+  "digest": "40c6e635a8bdbe6fbc7c4b016ba3eeeecf0ef5bd31e421b4032b46d3e4effd02",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.6.10.tgz"
 }
 {
@@ -20629,7 +20635,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.3",
-  "digest": "5b26467b4e8804b07f457ca5c190fda357df41ef385cc4d39a5d6f409f42c739",
+  "digest": "73b135b25501f147454493427f25eb42963e929803cc916d50a5962505057577",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.3.tgz"
 }
 {
@@ -28057,7 +28063,7 @@
 {
   "name": "magento",
   "version": "6.0.0",
-  "digest": "1986ea8df8576b847d352a58e9317ff9795c32269413bac31a07932317cf55e8",
+  "digest": "b738c0af5bc16bd47ba438d5fa3ae3ca645bf572d3d06f0074bee51f1da8b05e",
   "url": "https://kubernetes-charts.storage.googleapis.com/magento-6.0.0.tgz"
 }
 {
@@ -32617,7 +32623,7 @@
 {
   "name": "mission-control",
   "version": "0.4.4",
-  "digest": "52548f6bd381e8cce19c51e3adc0b8c43c8befd947f04b667b9dcd9c288cd812",
+  "digest": "2675697cc73fed168a37468e9c18e79d4a4f142d495d93399a2a491ddac8c982",
   "url": "https://kubernetes-charts.storage.googleapis.com/mission-control-0.4.4.tgz"
 }
 {
@@ -35148,6 +35154,12 @@
 }
 {
   "name": "mysql",
+  "version": "1.6.7",
+  "digest": "4171f36d27c8d22c50c737707653df869e6a3e281462c4d3a9d1790daa800b7d",
+  "url": "https://kubernetes-charts.storage.googleapis.com/mysql-1.6.7.tgz"
+}
+{
+  "name": "mysql",
   "version": "1.6.6",
   "digest": "666967b217ed498eadb4b025e3bfe382a12ae2ff9c442e8abc11d8f27b78194c",
   "url": "https://kubernetes-charts.storage.googleapis.com/mysql-1.6.6.tgz"
@@ -36615,6 +36627,12 @@
   "version": "0.0.1",
   "digest": "cb94714a4e084f5c641b3c2bdd293f4949e71d0707335062be5d9d5e2f661475",
   "url": "https://kubernetes-charts.storage.googleapis.com/newrelic-infrastructure-0.0.1.tgz"
+}
+{
+  "name": "nextcloud",
+  "version": "1.12.1",
+  "digest": "b5aa0e896238d9ca27e4563931cefb8906bd0651f40a3611967d044bff782b61",
+  "url": "https://kubernetes-charts.storage.googleapis.com/nextcloud-1.12.1.tgz"
 }
 {
   "name": "nextcloud",
@@ -48235,7 +48253,7 @@
 {
   "name": "prometheus",
   "version": "11.12.0",
-  "digest": "2ce7550bcaf69eafa37dfb7ec9529eaa33f1915e1dbba1abb1525f2b87da2e75",
+  "digest": "fdef1c92b93404523c3d4511c23462bf067fab1e09fd1f40ad3bc8c1d1df965d",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-11.12.0.tgz"
 }
 {
@@ -61482,8 +61500,14 @@
 }
 {
   "name": "spring-cloud-data-flow",
+  "version": "2.8.1",
+  "digest": "1360c75e25331a463abc87fbebbc7c073cbdc8fd2a532a419b1c997eb875a59d",
+  "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.8.1.tgz"
+}
+{
+  "name": "spring-cloud-data-flow",
   "version": "2.8.0",
-  "digest": "4608dfdcd87766019edfb97293dd20ca0fcde8da05593ca4a97564f2cedee6aa",
+  "digest": "eaf155deb78ffac397a4856907f332bcdb0f1db45eb61b44207327932430e09b",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.8.0.tgz"
 }
 {
@@ -66199,7 +66223,7 @@
 {
   "name": "weave-scope",
   "version": "1.1.10",
-  "digest": "f5b9250b9a5ba9318cdd5ffbada9f06fab8891dc9c40f898bc808795a9f43fc6",
+  "digest": "de074023c725391cbc634d3bd193ad31285f3209c31deac0c0c96ae34239be6a",
   "url": "https://kubernetes-charts.storage.googleapis.com/weave-scope-1.1.10.tgz"
 }
 {
