@@ -561,3 +561,226 @@ invocation.
 
 Warning: Permanently added the RSA host key for IP address '140.82.112.4' to the list of known hosts.
 Already up to date.
+[gh-pages 6cfe7e4] Synchronizing completion at 2020-09-01
+ 4 files changed, 233 insertions(+), 1 deletion(-)
+ rewrite graylog-1.6.10.tgz (99%)
+ rewrite janusgraph-0.2.3.tgz (99%)
+To github.com:babyshen/helm-charts-mirror.git
+   c143670..6cfe7e4  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:15] spend time is: 610
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:25] spend time is: 620
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:35] spend time is: 630
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:45] spend time is: 640
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:45:55] spend time is: 650
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:05] spend time is: 660
+[2020-09-01 14:46:15] magento-6.0.0.tgz update done.
+[2020-09-01 14:46:15] spend time is: 670
+[2020-09-01 14:46:15] spend time is: 670
+[2020-09-01 14:46:15] spend time is: 670
+[2020-09-01 14:46:15] spend time is: 670
+[2020-09-01 14:46:15] spend time is: 670
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:25] spend time is: 680
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:35] spend time is: 690
+[2020-09-01 14:46:36] spend time is: 690
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:45] spend time is: 700
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:46:55] spend time is: 710
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:05] spend time is: 720
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:15] spend time is: 730
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:25] spend time is: 740
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:35] spend time is: 750
+[2020-09-01 14:47:36] spend time is: 750
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:45] spend time is: 760
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:47:55] spend time is: 770
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:05] mission-control-0.4.4.tgz update done.
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:05] spend time is: 780
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:15] spend time is: 790
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:25] spend time is: 800
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:35] spend time is: 810
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:45] spend time is: 820
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:48:55] spend time is: 830
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:05] spend time is: 840
+[2020-09-01 14:49:06] mysql-1.6.7.tgz update done.
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:15] spend time is: 850
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:25] spend time is: 860
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:35] spend time is: 870
+[2020-09-01 14:49:42] nextcloud-1.12.1.tgz update done.
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:45] spend time is: 880
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:49:55] spend time is: 890
+[2020-09-01 14:50:05] spend time is: 900
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
