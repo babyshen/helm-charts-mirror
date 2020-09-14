@@ -576,3 +576,236 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages 7c1345c] Synchronizing completion at 2020-09-14
+ 11 files changed, 233 insertions(+), 1 deletion(-)
+ create mode 100644 grafana-5.5.6.tgz
+ create mode 100644 grafana-5.5.7.tgz
+ rewrite graylog-1.6.10.tgz (98%)
+ create mode 100644 hlf-ord-1.4.1.tgz
+ create mode 100644 hlf-peer-1.6.1.tgz
+ create mode 100644 jenkins-2.5.3.tgz
+ create mode 100644 jenkins-2.5.4.tgz
+ create mode 100644 karma-1.5.3.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   0957f37..7c1345c  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:33] spend time is: 610
+[2020-09-14 14:51:36] kube-ops-view-1.2.1.tgz update done.
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:43] spend time is: 620
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:51:53] spend time is: 630
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:03] spend time is: 640
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:13] spend time is: 650
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:23] spend time is: 660
+[2020-09-14 14:52:28] magento-6.0.0.tgz update done.
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:33] spend time is: 670
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:43] spend time is: 680
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:52:53] spend time is: 690
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:03] spend time is: 700
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:13] spend time is: 710
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:23] spend time is: 720
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:33] spend time is: 730
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:43] spend time is: 740
+[2020-09-14 14:53:46] metrics-server-2.11.2.tgz update done.
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:53:53] spend time is: 750
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:03] spend time is: 760
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:13] spend time is: 770
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:23] spend time is: 780
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:33] spend time is: 790
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:43] spend time is: 800
+[2020-09-14 14:54:44] spend time is: 800
+[2020-09-14 14:54:46] mongodb-replicaset-3.17.2.tgz update done.
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:54:53] spend time is: 810
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:03] spend time is: 820
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:13] spend time is: 830
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:23] spend time is: 840
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:33] spend time is: 850
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:43] spend time is: 860
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:55:53] spend time is: 870
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:03] spend time is: 880
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:13] spend time is: 890
+[2020-09-14 14:56:23] spend time is: 900
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
