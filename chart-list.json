@@ -180,8 +180,14 @@
 }
 {
   "name": "airflow",
+  "version": "7.9.0",
+  "digest": "c1324cc3278de5caa886c8eff29bcafea70cc674eb0e676e60da33186b6fcb8c",
+  "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.9.0.tgz"
+}
+{
+  "name": "airflow",
   "version": "7.8.0",
-  "digest": "a6166b93f42242729899c988bb2d3e1125bfcd3987e29cbc51d2f985f372c296",
+  "digest": "d9c524efca936c5e707ecda10a0bb677cdb4397d06a0329d7f7ecfbbe6bb5474",
   "url": "https://kubernetes-charts.storage.googleapis.com/airflow-7.8.0.tgz"
 }
 {
@@ -10537,7 +10543,7 @@
 {
   "name": "elastic-stack",
   "version": "2.0.3",
-  "digest": "ce378c7fa8822b7f81ab8dc13082125a2951f892b94e8e44d3fb96f0592d6efb",
+  "digest": "9ab8c4a529cbd387774f56fad0fcefab3f4401de67638ac4b5a5f2ae117a7257",
   "url": "https://kubernetes-charts.storage.googleapis.com/elastic-stack-2.0.3.tgz"
 }
 {
@@ -18199,7 +18205,7 @@
 {
   "name": "graylog",
   "version": "1.6.10",
-  "digest": "8817144a719b39d6250bc67a9c28e793f444a1158c6020c56009409408381dd4",
+  "digest": "586c75eaba9ee1016e9bbca83abdaaa52568632b8a781a56c79ea696ba38045a",
   "url": "https://kubernetes-charts.storage.googleapis.com/graylog-1.6.10.tgz"
 }
 {
@@ -20713,7 +20719,7 @@
 {
   "name": "janusgraph",
   "version": "0.2.3",
-  "digest": "1fe25e7c4dfae3c3c0aeef1d6db668540b344d39f38a7d3088c80355b08b0bc1",
+  "digest": "a620f68ce47958e3a4bbd26ad70e56c27c59445c4fe7b5c0722536d5291dfd07",
   "url": "https://kubernetes-charts.storage.googleapis.com/janusgraph-0.2.3.tgz"
 }
 {
@@ -48379,7 +48385,7 @@
 {
   "name": "prometheus",
   "version": "11.12.1",
-  "digest": "669689202f2027f5988b61dd9301c86bdf0022520dc427024f8559b51d428e78",
+  "digest": "1f535f0dba9b4f23d1f8a7da962fc910b405af8070734a03f84207a840b1f66e",
   "url": "https://kubernetes-charts.storage.googleapis.com/prometheus-11.12.1.tgz"
 }
 {
@@ -57367,7 +57373,7 @@
 {
   "name": "redmine",
   "version": "14.1.12",
-  "digest": "5f46466b9708b8b4059fbbe1839026e9aef358dda2476b6c7e695abbbe0c5b53",
+  "digest": "39e4c8a9b165ec13cfc1ced459f8cab21cba72fffc6cf876fb5350708c9d0486",
   "url": "https://kubernetes-charts.storage.googleapis.com/redmine-14.1.12.tgz"
 }
 {
@@ -61765,7 +61771,7 @@
 {
   "name": "spring-cloud-data-flow",
   "version": "2.8.1",
-  "digest": "2fb3325a262459787f9eb69b9083b9154c3af343ecff477878aeff75b2653d2f",
+  "digest": "1360c75e25331a463abc87fbebbc7c073cbdc8fd2a532a419b1c997eb875a59d",
   "url": "https://kubernetes-charts.storage.googleapis.com/spring-cloud-data-flow-2.8.1.tgz"
 }
 {
@@ -66499,7 +66505,7 @@
 {
   "name": "weave-scope",
   "version": "1.1.10",
-  "digest": "de074023c725391cbc634d3bd193ad31285f3209c31deac0c0c96ae34239be6a",
+  "digest": "112cac303278ce475c6b9bb84a3d7291ecd34a05b714360468add894278cfd98",
   "url": "https://kubernetes-charts.storage.googleapis.com/weave-scope-1.1.10.tgz"
 }
 {
