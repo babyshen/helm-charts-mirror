@@ -583,3 +583,239 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages b61bea9] Synchronizing completion at 2020-11-07
+ 8 files changed, 243 insertions(+), 1 deletion(-)
+ rewrite graylog-1.6.10.tgz (98%)
+ create mode 100644 instana-agent-1.0.32.tgz
+ create mode 100644 instana-agent-1.0.33.tgz
+ create mode 100644 karma-1.6.0.tgz
+ create mode 100644 karma-1.7.0.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   d38d8b1..b61bea9  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:36] spend time is: 610
+[2020-11-07 15:20:43] kube-state-metrics-2.9.2.tgz update done.
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:46] spend time is: 620
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:20:56] spend time is: 630
+[2020-11-07 15:21:02] kuberhealthy-1.2.7.tgz update done.
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:06] spend time is: 640
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:16] spend time is: 650
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:26] spend time is: 660
+[2020-11-07 15:21:27] spend time is: 660
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:36] spend time is: 670
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:46] spend time is: 680
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:21:56] spend time is: 690
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:06] spend time is: 700
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:16] spend time is: 710
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:26] spend time is: 720
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:36] spend time is: 730
+[2020-11-07 15:22:37] metabase-0.13.0.tgz update done.
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:46] spend time is: 740
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:22:56] spend time is: 750
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:06] spend time is: 760
+[2020-11-07 15:23:07] spend time is: 760
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:16] spend time is: 770
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:26] spend time is: 780
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:36] spend time is: 790
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:46] spend time is: 800
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:23:56] spend time is: 810
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:06] spend time is: 820
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:16] spend time is: 830
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:26] spend time is: 840
+[2020-11-07 15:24:29] mysqldump-2.6.2.tgz update done.
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:36] spend time is: 850
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:46] spend time is: 860
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:24:56] spend time is: 870
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:06] spend time is: 880
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:16] spend time is: 890
+[2020-11-07 15:25:26] spend time is: 900
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Already up to date.
