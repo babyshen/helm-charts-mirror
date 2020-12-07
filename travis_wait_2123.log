@@ -911,3 +911,256 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages aebdd64] Synchronizing completion at 2020-12-07
+ 23 files changed, 265 insertions(+), 1 deletion(-)
+ create mode 100644 kube-hunter-1.0.4.tgz
+ create mode 100644 kube-slack-1.3.3.tgz
+ create mode 100644 kube-state-metrics-2.9.3.tgz
+ create mode 100644 kube2iam-2.5.2.tgz
+ create mode 100644 kuberos-0.2.2.tgz
+ create mode 100644 lamp-1.1.4.tgz
+ create mode 100644 lamp-1.1.5.tgz
+ create mode 100644 linkerd-0.4.2.tgz
+ create mode 100644 locust-1.2.2.tgz
+ create mode 100644 logdna-agent-2.0.1.tgz
+ create mode 100644 logstash-2.4.2.tgz
+ create mode 100644 magic-ip-address-0.1.1.tgz
+ create mode 100644 memcached-3.2.4.tgz
+ create mode 100644 mercure-4.0.2.tgz
+ create mode 100644 metabase-0.13.1.tgz
+ create mode 100644 metricbeat-1.7.2.tgz
+ create mode 100644 metrics-server-2.11.3.tgz
+ create mode 100644 msoms-0.2.1.tgz
+ create mode 100644 mssql-linux-0.11.3.tgz
+ create mode 100644 mysql-1.6.8.tgz
+ create mode 100644 namerd-0.2.1.tgz
+Warning: Permanently added the RSA host key for IP address '140.82.112.4' to the list of known hosts.
+To github.com:babyshen/helm-charts-mirror.git
+   55bf75a..aebdd64  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-07 16:22:10] newrelic-infrastructure-0.13.35.tgz update done.
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:12] spend time is: 910
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:22] spend time is: 920
+[2020-12-07 16:22:23] nfs-client-provisioner-1.2.10.tgz update done.
+[2020-12-07 16:22:27] nfs-server-provisioner-1.1.2.tgz update done.
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:32] spend time is: 930
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:42] spend time is: 940
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:22:52] spend time is: 950
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:02] nginx-ldapauth-proxy-0.1.5.tgz update done.
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:02] spend time is: 960
+[2020-12-07 16:23:03] node-problem-detector-1.8.2.tgz update done.
+[2020-12-07 16:23:04] node-problem-detector-1.8.1.tgz update done.
+[2020-12-07 16:23:04] node-problem-detector-1.8.0.tgz update done.
+[2020-12-07 16:23:11] oauth2-proxy-3.2.4.tgz update done.
+[2020-12-07 16:23:12] oauth2-proxy-3.2.3.tgz update done.
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:12] spend time is: 970
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:22] spend time is: 980
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:32] spend time is: 990
+[2020-12-07 16:23:36] opa-1.14.5.tgz update done.
+[2020-12-07 16:23:37] opa-1.14.4.tgz update done.
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:42] spend time is: 1000
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:23:52] spend time is: 1010
+[2020-12-07 16:24:02] spend time is: 1020
+[2020-12-07 16:24:02] spend time is: 1020
+[2020-12-07 16:24:02] spend time is: 1020
+[2020-12-07 16:24:02] spend time is: 1020
+[2020-12-07 16:24:02] openiban-1.0.1.tgz update done.
+[2020-12-07 16:24:02] spend time is: 1020
+[2020-12-07 16:24:03] openldap-1.2.6.tgz update done.
+[2020-12-07 16:24:06] openvpn-4.2.4.tgz update done.
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:12] spend time is: 1030
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:22] spend time is: 1040
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:32] spend time is: 1050
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:42] spend time is: 1060
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:52] spend time is: 1070
+[2020-12-07 16:24:54] pachyderm-0.2.2.tgz update done.
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:02] spend time is: 1080
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:12] spend time is: 1090
+[2020-12-07 16:25:13] percona-1.2.2.tgz update done.
+[2020-12-07 16:25:15] percona-xtradb-cluster-1.0.7.tgz update done.
+[2020-12-07 16:25:16] percona-xtradb-cluster-1.0.6.tgz update done.
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:22] spend time is: 1100
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:32] spend time is: 1110
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:42] spend time is: 1120
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:25:52] spend time is: 1130
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:02] spend time is: 1140
+[2020-12-07 16:26:10] pomerium-4.2.5.tgz update done.
+[2020-12-07 16:26:11] pomerium-4.2.4.tgz update done.
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:12] spend time is: 1150
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:22] spend time is: 1160
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:32] spend time is: 1170
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:42] spend time is: 1180
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:26:52] spend time is: 1190
+[2020-12-07 16:27:02] spend time is: 1200
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
