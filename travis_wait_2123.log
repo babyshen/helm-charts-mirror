@@ -1416,3 +1416,209 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages ea61bfd] Synchronizing completion at 2020-12-07
+ 20 files changed, 253 insertions(+), 1 deletion(-)
+ create mode 100644 presto-0.2.2.tgz
+ create mode 100644 prometheus-pushgateway-1.4.2.tgz
+ create mode 100644 redis-ha-4.4.5.tgz
+ create mode 100644 rethinkdb-1.1.3.tgz
+ create mode 100644 risk-advisor-2.0.5.tgz
+ create mode 100644 rocketchat-2.0.6.tgz
+ create mode 100644 rocketchat-2.0.7.tgz
+ create mode 100644 rookout-0.1.1.tgz
+ create mode 100644 satisfy-1.1.1.tgz
+ create mode 100644 schema-registry-ui-0.4.3.tgz
+ create mode 100644 sealed-secrets-1.11.0.tgz
+ create mode 100644 sealed-secrets-1.12.0.tgz
+ create mode 100644 sealed-secrets-1.12.1.tgz
+ create mode 100644 selenium-1.2.0.tgz
+ create mode 100644 selenium-1.2.1.tgz
+ create mode 100644 selenium-1.2.2.tgz
+To github.com:babyshen/helm-charts-mirror.git
+   849e5e6..ea61bfd  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:12] spend time is: 1510
+[2020-12-07 16:32:13] seq-2.3.1.tgz update done.
+[2020-12-07 16:32:13] spend time is: 1510
+[2020-12-07 16:32:13] seq-2.3.0.tgz update done.
+[2020-12-07 16:32:16] signalsciences-2.0.1.tgz update done.
+[2020-12-07 16:32:17] socat-tunneller-0.1.1.tgz update done.
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:22] spend time is: 1520
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:32] spend time is: 1530
+[2020-12-07 16:32:39] spark-1.0.4.tgz update done.
+[2020-12-07 16:32:42] spend time is: 1540
+[2020-12-07 16:32:42] spend time is: 1540
+[2020-12-07 16:32:42] spend time is: 1540
+[2020-12-07 16:32:42] spark-history-server-1.4.2.tgz update done.
+[2020-12-07 16:32:42] spend time is: 1540
+[2020-12-07 16:32:43] spark-history-server-1.4.1.tgz update done.
+[2020-12-07 16:32:43] spend time is: 1540
+[2020-12-07 16:32:43] spark-history-server-1.4.0.tgz update done.
+[2020-12-07 16:32:43] spark-history-server-1.3.0.tgz update done.
+[2020-12-07 16:32:46] spartakus-1.1.7.tgz update done.
+[2020-12-07 16:32:47] spinnaker-2.2.3.tgz update done.
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:32:52] spend time is: 1550
+[2020-12-07 16:33:02] spotify-docker-gc-1.0.1.tgz update done.
+[2020-12-07 16:33:02] spend time is: 1560
+[2020-12-07 16:33:02] spend time is: 1560
+[2020-12-07 16:33:02] spend time is: 1560
+[2020-12-07 16:33:02] spend time is: 1560
+[2020-12-07 16:33:02] spend time is: 1560
+[2020-12-07 16:33:03] spend time is: 1560
+[2020-12-07 16:33:03] spring-cloud-data-flow-2.8.0.tgz update done.
+[2020-12-07 16:33:08] stackdriver-exporter-1.3.1.tgz update done.
+[2020-12-07 16:33:12] spend time is: 1570
+[2020-12-07 16:33:12] stolon-1.6.4.tgz update done.
+[2020-12-07 16:33:12] spend time is: 1570
+[2020-12-07 16:33:12] stolon-1.6.3.tgz update done.
+[2020-12-07 16:33:12] spend time is: 1570
+[2020-12-07 16:33:12] spend time is: 1570
+[2020-12-07 16:33:12] spend time is: 1570
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:22] spend time is: 1580
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:32] spend time is: 1590
+[2020-12-07 16:33:35] sumokube-1.0.1.tgz update done.
+[2020-12-07 16:33:36] sumologic-fluentd-2.1.1.tgz update done.
+[2020-12-07 16:33:40] superset-1.1.12.tgz update done.
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:42] spend time is: 1600
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:52] spend time is: 1610
+[2020-12-07 16:33:57] tensorflow-notebook-0.1.4.tgz update done.
+[2020-12-07 16:33:58] tensorflow-serving-1.1.1.tgz update done.
+[2020-12-07 16:33:59] terracotta-1.1.1.tgz update done.
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:02] spend time is: 1620
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:12] spend time is: 1630
+[2020-12-07 16:34:13] tomcat-0.4.2.tgz update done.
+[2020-12-07 16:34:14] traefik-1.87.6.tgz update done.
+[2020-12-07 16:34:14] traefik-1.87.5.tgz update done.
+[2020-12-07 16:34:15] traefik-1.87.4.tgz update done.
+[2020-12-07 16:34:15] traefik-1.87.3.tgz update done.
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:22] spend time is: 1640
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:32] spend time is: 1650
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:42] spend time is: 1660
+[2020-12-07 16:34:44] unbound-1.1.3.tgz update done.
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:52] spend time is: 1670
+[2020-12-07 16:34:56] verdaccio-0.7.7.tgz update done.
+[2020-12-07 16:35:02] vsphere-cpi-0.2.2.tgz update done.
+[2020-12-07 16:35:02] vsphere-cpi-0.2.1.tgz update done.
+[2020-12-07 16:35:02] spend time is: 1680
+[2020-12-07 16:35:02] vsphere-cpi-0.2.0.tgz update done.
+[2020-12-07 16:35:02] spend time is: 1680
+[2020-12-07 16:35:02] spend time is: 1680
+[2020-12-07 16:35:02] spend time is: 1680
+[2020-12-07 16:35:04] weave-cloud-0.3.8.tgz update done.
+[2020-12-07 16:35:06] weave-scope-1.1.11.tgz update done.
+[2020-12-07 16:35:06] weave-scope-1.1.10.tgz update done.
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:12] spend time is: 1690
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:22] spend time is: 1700
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:32] spend time is: 1710
+[2020-12-07 16:35:38] zeppelin-1.1.2.tgz update done.
+[2020-12-07 16:35:38] zeppelin-1.1.1.tgz update done.
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
