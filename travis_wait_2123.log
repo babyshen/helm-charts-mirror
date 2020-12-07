@@ -1,0 +1,319 @@
+Fetching origin
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+From github.com:babyshen/helm-charts-mirror
+ * [new branch]      gh-pages   -> origin/gh-pages
+ * [new branch]      master     -> origin/master
+Previous HEAD position was 6f4bc38 restore bug
+Switched to a new branch 'gh-pages'
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 50 8836k   50 4504k    0     0  45.6M      0 --:--:-- --:--:-- --:--:-- 45.3M100 8836k  100 8836k    0     0  65.9M      0 --:--:-- --:--:-- --:--:-- 65.8M
+[2020-12-07 16:08:04] aerospike-0.3.4.tgz update done.
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:12] spend time is: 70
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:22] spend time is: 80
+[2020-12-07 16:08:23] spend time is: 80
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:32] spend time is: 90
+[2020-12-07 16:08:37] apm-server-2.1.6.tgz update done.
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:42] spend time is: 100
+[2020-12-07 16:08:50] auditbeat-1.1.1.tgz update done.
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] aws-iam-authenticator-0.1.4.tgz update done.
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:52] spend time is: 110
+[2020-12-07 16:08:53] spend time is: 110
+[2020-12-07 16:08:53] bitcoind-1.0.1.tgz update done.
+[2020-12-07 16:08:53] spend time is: 110
+[2020-12-07 16:08:56] burrow-1.5.3.tgz update done.
+[2020-12-07 16:08:58] centrifugo-3.2.1.tgz update done.
+[2020-12-07 16:08:59] cerebro-1.9.4.tgz update done.
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:02] spend time is: 120
+[2020-12-07 16:09:05] chaoskube-3.3.1.tgz update done.
+[2020-12-07 16:09:09] chartmuseum-2.14.1.tgz update done.
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:12] spend time is: 130
+[2020-12-07 16:09:16] clamav-1.0.6.tgz update done.
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:22] spend time is: 140
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:32] spend time is: 150
+[2020-12-07 16:09:34] collabora-code-1.0.7.tgz update done.
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:42] spend time is: 160
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:52] spend time is: 170
+[2020-12-07 16:09:56] contour-0.2.1.tgz update done.
+[2020-12-07 16:09:57] coredns-1.13.7.tgz update done.
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:02] spend time is: 180
+[2020-12-07 16:10:03] cosbench-1.0.2.tgz update done.
+[2020-12-07 16:10:04] coscale-1.0.1.tgz update done.
+[2020-12-07 16:10:05] couchbase-operator-1.0.3.tgz update done.
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:12] spend time is: 190
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:22] spend time is: 200
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:32] spend time is: 210
+[2020-12-07 16:10:33] dex-2.15.1.tgz update done.
+[2020-12-07 16:10:33] spend time is: 210
+[2020-12-07 16:10:37] distributed-jmeter-1.0.2.tgz update done.
+[2020-12-07 16:10:38] distributed-tensorflow-1.2.1.tgz update done.
+[2020-12-07 16:10:40] docker-registry-1.9.5.tgz update done.
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:42] spend time is: 220
+[2020-12-07 16:10:43] spend time is: 220
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:10:52] spend time is: 230
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:02] spend time is: 240
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:12] spend time is: 250
+[2020-12-07 16:11:13] efs-provisioner-0.13.1.tgz update done.
+[2020-12-07 16:11:13] spend time is: 250
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:22] spend time is: 260
+[2020-12-07 16:11:28] elasticsearch-curator-2.2.2.tgz update done.
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:32] spend time is: 270
+[2020-12-07 16:11:35] envoy-1.9.3.tgz update done.
+[2020-12-07 16:11:37] etcd-operator-0.11.1.tgz update done.
+[2020-12-07 16:11:41] ethereum-1.0.1.tgz update done.
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] eventrouter-0.3.1.tgz update done.
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:42] spend time is: 280
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:52] spend time is: 290
+[2020-12-07 16:11:58] factorio-1.0.1.tgz update done.
+[2020-12-07 16:12:02] spend time is: 300
+[2020-12-07 16:12:02] spend time is: 300
+[2020-12-07 16:12:02] spend time is: 300
+[2020-12-07 16:12:02] spend time is: 300
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+Warning: Permanently added the RSA host key for IP address '140.82.114.3' to the list of known hosts.
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Already up to date.
