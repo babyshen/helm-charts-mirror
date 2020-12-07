@@ -326,3 +326,324 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+[gh-pages 32a15f5] Synchronizing completion at 2020-12-07
+ 1 file changed, 9 insertions(+)
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+[gh-pages 16eae66] Synchronizing completion at 2020-12-07
+ 32 files changed, 19002 insertions(+), 11922 deletions(-)
+ create mode 100644 aerospike-0.3.4.tgz
+ create mode 100644 apm-server-2.1.6.tgz
+ create mode 100644 auditbeat-1.1.1.tgz
+ create mode 100644 aws-iam-authenticator-0.1.4.tgz
+ create mode 100644 bitcoind-1.0.1.tgz
+ create mode 100644 burrow-1.5.3.tgz
+ create mode 100644 centrifugo-3.2.1.tgz
+ create mode 100644 cerebro-1.9.4.tgz
+ create mode 100644 chaoskube-3.3.1.tgz
+ create mode 100644 chartmuseum-2.14.1.tgz
+ create mode 100644 clamav-1.0.6.tgz
+ create mode 100644 collabora-code-1.0.7.tgz
+ create mode 100644 contour-0.2.1.tgz
+ create mode 100644 coredns-1.13.7.tgz
+ create mode 100644 cosbench-1.0.2.tgz
+ create mode 100644 coscale-1.0.1.tgz
+ create mode 100644 couchbase-operator-1.0.3.tgz
+ create mode 100644 dex-2.15.1.tgz
+ create mode 100644 distributed-jmeter-1.0.2.tgz
+ create mode 100644 distributed-tensorflow-1.2.1.tgz
+ create mode 100644 docker-registry-1.9.5.tgz
+ create mode 100644 efs-provisioner-0.13.1.tgz
+ create mode 100644 elasticsearch-curator-2.2.2.tgz
+ create mode 100644 envoy-1.9.3.tgz
+ create mode 100644 etcd-operator-0.11.1.tgz
+ create mode 100644 ethereum-1.0.1.tgz
+ create mode 100644 eventrouter-0.3.1.tgz
+ create mode 100644 factorio-1.0.1.tgz
+ create mode 100644 travis_wait_2123.log
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit 6812ff7aff4b7e8ad4d0b454f5a39e1c05a95dc6.
+error: Your local changes to the following files would be overwritten by merge:
+	chart-list.json
+	index.yaml
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	aerospike-0.3.4.tgz
+	apm-server-2.1.6.tgz
+	auditbeat-1.1.1.tgz
+	aws-iam-authenticator-0.1.4.tgz
+	bitcoind-1.0.1.tgz
+	burrow-1.5.3.tgz
+	centrifugo-3.2.1.tgz
+	cerebro-1.9.4.tgz
+	chaoskube-3.3.1.tgz
+	chartmuseum-2.14.1.tgz
+	clamav-1.0.6.tgz
+	collabora-code-1.0.7.tgz
+	contour-0.2.1.tgz
+	coredns-1.13.7.tgz
+	cosbench-1.0.2.tgz
+	coscale-1.0.1.tgz
+	couchbase-operator-1.0.3.tgz
+	dex-2.15.1.tgz
+	distributed-jmeter-1.0.2.tgz
+	distributed-tensorflow-1.2.1.tgz
+	docker-registry-1.9.5.tgz
+	efs-provisioner-0.13.1.tgz
+	elasticsearch-curator-2.2.2.tgz
+	envoy-1.9.3.tgz
+	etcd-operator-0.11.1.tgz
+	ethereum-1.0.1.tgz
+	eventrouter-0.3.1.tgz
+	factorio-1.0.1.tgz
+	travis_wait_2123.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff 6812ff7aff4b7e8ad4d0b454f5a39e1c05a95dc6
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+ ! [remote rejected] gh-pages -> gh-pages (cannot lock ref 'refs/heads/gh-pages': is at 32a15f52864d422f545b7cacd53cf384bb798b7c but expected 6812ff7aff4b7e8ad4d0b454f5a39e1c05a95dc6)
+error: failed to push some refs to 'github.com:babyshen/helm-charts-mirror.git'
+To github.com:babyshen/helm-charts-mirror.git
+   6812ff7..32a15f5  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:12] spend time is: 310
+[2020-12-07 16:12:15] filebeat-4.0.1.tgz update done.
+[2020-12-07 16:12:21] fluent-bit-2.10.2.tgz update done.
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:22] spend time is: 320
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:32] spend time is: 330
+[2020-12-07 16:12:38] fluentd-2.5.2.tgz update done.
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:42] spend time is: 340
+[2020-12-07 16:12:46] gangway-0.4.4.tgz update done.
+[2020-12-07 16:12:48] gce-ingress-1.2.1.tgz update done.
+[2020-12-07 16:12:51] gcp-night-king-1.0.3.tgz update done.
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:12:52] spend time is: 350
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:02] spend time is: 360
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:12] spend time is: 370
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:22] spend time is: 380
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:32] spend time is: 390
+[2020-12-07 16:13:33] spend time is: 390
+[2020-12-07 16:13:41] goldpinger-2.0.3.tgz update done.
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:42] spend time is: 400
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:13:52] spend time is: 410
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:02] spend time is: 420
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:12] spend time is: 430
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:22] spend time is: 440
+[2020-12-07 16:14:30] hadoop-1.1.3.tgz update done.
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:32] spend time is: 450
+[2020-12-07 16:14:40] heapster-1.0.3.tgz update done.
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:42] spend time is: 460
+[2020-12-07 16:14:43] heartbeat-1.2.1.tgz update done.
+[2020-12-07 16:14:46] hl-composer-1.0.13.tgz update done.
+[2020-12-07 16:14:48] hlf-couchdb-1.0.8.tgz update done.
+[2020-12-07 16:14:49] hlf-ord-1.4.2.tgz update done.
+[2020-12-07 16:14:51] hlf-peer-1.6.2.tgz update done.
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:52] spend time is: 470
+[2020-12-07 16:14:54] hoard-1.0.1.tgz update done.
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:02] horovod-1.0.1.tgz update done.
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:02] spend time is: 480
+[2020-12-07 16:15:04] ignite-1.2.1.tgz update done.
+[2020-12-07 16:15:05] inbucket-3.1.1.tgz update done.
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:12] spend time is: 490
+[2020-12-07 16:15:13] spend time is: 490
+[2020-12-07 16:15:16] ingressmonitorcontroller-1.0.49.tgz update done.
+[2020-12-07 16:15:16] instana-agent-1.0.34.tgz update done.
+[2020-12-07 16:15:21] ipfs-0.4.3.tgz update done.
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:22] spend time is: 500
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:32] spend time is: 510
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:42] spend time is: 520
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:15:52] spend time is: 530
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:02] spend time is: 540
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:12] spend time is: 550
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:22] spend time is: 560
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:32] spend time is: 570
+[2020-12-07 16:16:40] k8s-spot-rescheduler-0.4.5.tgz update done.
+[2020-12-07 16:16:41] k8s-spot-termination-handler-1.4.10.tgz update done.
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:42] spend time is: 580
+[2020-12-07 16:16:47] kanister-operator-0.3.1.tgz update done.
+[2020-12-07 16:16:50] karma-1.7.1.tgz update done.
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:52] spend time is: 590
+[2020-12-07 16:16:55] katafygio-1.0.2.tgz update done.
+[2020-12-07 16:17:02] spend time is: 600
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
