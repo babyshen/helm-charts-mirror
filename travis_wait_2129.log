@@ -1200,3 +1200,143 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages 8d761a1] Synchronizing completion at 2020-12-14
+ 2 files changed, 214 insertions(+), 1 deletion(-)
+To github.com:babyshen/helm-charts-mirror.git
+   c9ef006..8d761a1  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:39] spend time is: 1510
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:49] spend time is: 1520
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:25:59] spend time is: 1530
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:09] spend time is: 1540
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:19] spend time is: 1550
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:29] spend time is: 1560
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:39] spend time is: 1570
+[2020-12-14 16:26:40] spend time is: 1570
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:49] spend time is: 1580
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:26:59] spend time is: 1590
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:09] spend time is: 1600
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:19] spend time is: 1610
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:29] spend time is: 1620
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:39] spend time is: 1630
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:49] spend time is: 1640
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:27:59] spend time is: 1650
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:09] spend time is: 1660
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:19] spend time is: 1670
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+[2020-12-14 16:28:29] spend time is: 1680
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Warning: Permanently added the RSA host key for IP address '140.82.112.3' to the list of known hosts.
+Already up to date.
