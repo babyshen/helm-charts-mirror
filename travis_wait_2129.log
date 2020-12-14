@@ -773,3 +773,217 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages 2c2f285] Synchronizing completion at 2020-12-14
+ 2 files changed, 220 insertions(+), 1 deletion(-)
+To github.com:babyshen/helm-charts-mirror.git
+   1f064c7..2c2f285  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:39] spend time is: 910
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:49] spend time is: 920
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:15:59] spend time is: 930
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:09] spend time is: 940
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:19] spend time is: 950
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:29] spend time is: 960
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:39] spend time is: 970
+[2020-12-14 16:16:40] spend time is: 970
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:49] spend time is: 980
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:16:59] spend time is: 990
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:09] spend time is: 1000
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:19] spend time is: 1010
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:29] spend time is: 1020
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:39] spend time is: 1030
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:49] spend time is: 1040
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:17:59] spend time is: 1050
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:09] spend time is: 1060
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:19] spend time is: 1070
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:29] spend time is: 1080
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:39] spend time is: 1090
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:49] spend time is: 1100
+[2020-12-14 16:18:50] spend time is: 1100
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:18:59] spend time is: 1110
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:09] spend time is: 1120
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:19] spend time is: 1130
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:29] spend time is: 1140
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:39] spend time is: 1150
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:49] spend time is: 1160
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:19:59] spend time is: 1170
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:09] spend time is: 1180
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:19] spend time is: 1190
+[2020-12-14 16:20:29] spend time is: 1200
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
