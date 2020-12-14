@@ -288,3 +288,269 @@ invocation.
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
 Already up to date.
+[gh-pages 6b327c9] Synchronizing completion at 2020-12-14
+ 2 files changed, 291 insertions(+), 1 deletion(-)
+ create mode 100644 travis_wait_2129.log
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit fd93fa4438bb15f6eb044b1583ccf20bad6c617b.
+error: Your local changes to the following files would be overwritten by merge:
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	travis_wait_2129.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff fd93fa4438bb15f6eb044b1583ccf20bad6c617b
+output, run
+$ git reset --hard
+to recover.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit fd93fa4438bb15f6eb044b1583ccf20bad6c617b.
+warning: fetch updated the current branch head.
+fast-forwarding your working tree from
+commit fd93fa4438bb15f6eb044b1583ccf20bad6c617b.
+error: Unable to create '/home/travis/build/babyshen/helm-charts-mirror/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff fd93fa4438bb15f6eb044b1583ccf20bad6c617b
+output, run
+$ git reset --hard
+to recover.
+error: Your local changes to the following files would be overwritten by merge:
+	last_install
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	travis_wait_2129.log
+Please move or remove them before you merge.
+Aborting
+fatal: Cannot fast-forward your working tree.
+After making sure that you saved anything precious from
+$ git diff fd93fa4438bb15f6eb044b1583ccf20bad6c617b
+output, run
+$ git reset --hard
+to recover.
+To github.com:babyshen/helm-charts-mirror.git
+   fd93fa4..6b327c9  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:39] spend time is: 310
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:49] spend time is: 320
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:05:59] spend time is: 330
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:09] spend time is: 340
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:19] spend time is: 350
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:29] spend time is: 360
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:39] spend time is: 370
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:49] spend time is: 380
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:06:59] spend time is: 390
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:09] spend time is: 400
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:19] spend time is: 410
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:29] spend time is: 420
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:39] spend time is: 430
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:49] spend time is: 440
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:07:59] spend time is: 450
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:09] spend time is: 460
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:19] spend time is: 470
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:29] spend time is: 480
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:39] spend time is: 490
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:49] spend time is: 500
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:08:59] spend time is: 510
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:09] spend time is: 520
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:19] spend time is: 530
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:29] spend time is: 540
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:39] spend time is: 550
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:49] spend time is: 560
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:09:59] spend time is: 570
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:09] spend time is: 580
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:19] spend time is: 590
+[2020-12-14 16:10:29] spend time is: 600
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
