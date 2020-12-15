@@ -1207,3 +1207,132 @@ or --ff-only on the command line to override the configured default per
 invocation.
 
 Already up to date.
+[gh-pages a365f67] Synchronizing completion at 2020-12-15
+ 2 files changed, 218 insertions(+), 1 deletion(-)
+To github.com:babyshen/helm-charts-mirror.git
+   fe0fc91..a365f67  gh-pages -> gh-pages
+Branch 'gh-pages' set up to track remote branch 'gh-pages' from 'origin'.
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:36] spend time is: 1510
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:46] spend time is: 1520
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:26:56] spend time is: 1530
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:06] spend time is: 1540
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:16] spend time is: 1550
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:26] spend time is: 1560
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:36] spend time is: 1570
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:46] spend time is: 1580
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:27:56] spend time is: 1590
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:06] spend time is: 1600
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:16] spend time is: 1610
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:26] spend time is: 1620
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:36] spend time is: 1630
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:46] spend time is: 1640
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:28:56] spend time is: 1650
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+[2020-12-15 16:29:06] spend time is: 1660
+warning: Pulling without specifying how to reconcile divergent branches is
+discouraged. You can squelch this message by running one of the following
+commands sometime before your next pull:
+
+  git config pull.rebase false  # merge (the default strategy)
+  git config pull.rebase true   # rebase
+  git config pull.ff only       # fast-forward only
+
+You can replace "git config" with "git config --global" to set a default
+preference for all repositories. You can also pass --rebase, --no-rebase,
+or --ff-only on the command line to override the configured default per
+invocation.
+
+Already up to date.
